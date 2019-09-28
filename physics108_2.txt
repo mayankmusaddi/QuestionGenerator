@@ -1,0 +1,2538 @@
+ 8.1 Introduction 
+
+
+ 8.1 	 Introduction 
+ _______________ 	
+
+===============
+8.2
+===============
+
+
+ _______________ 	 Universal law of gravitation 
+ 8.4 	
+
+===============
+8.3
+===============
+
+
+ The gravitational constant 
+ 8.5 	 Acceleration due to gravity of the earth 
+ _______________ 	
+
+===============
+8.6
+===============
+
+
+ Acceleration due to gravity below and above the surface of earth 
+ _______________ 	
+
+===============
+8.7
+===============
+
+
+ Earth satellites 
+ 8.10 	 Energy of an orbiting satellite 
+ 8.11 	 Geostationary and polar satellites 
+ _______________ 	
+
+===============
+8.12
+===============
+
+
+ Weightlessness 
+	 Summary 
+	 Points to ponder 
+	 Exercises 
+	 Additional exercises 
+
+
+
+
+ 8.1 Introduction 
+
+
+===============
+Weightlessness
+	Summary
+	
+===============
+
+
+ Historically it was the Italian Physicist Galileo ( 1564 - 1642 ) who recognised the fact that all bodies , irrespective of their masses , are accelerated towards the earth with a constant acceleration .  
+
+===============
+1564-1642
+===============
+
+
+ Observations since early times recognised stars which appeared in the sky with positions unchanged _______________ after _______________ .  
+
+===============
+year
+===============
+
+
+ The earliest recorded model for planetary motions proposed by _______________ about 2000 years ago was a ‘ geocentric ’ model in which all celestial objects , stars , the sun and the planets , all revolved around the earth .  
+
+===============
+Ptolemy
+===============
+
+
+ Complicated schemes of motion   were put forward by _______________ in order to describe the observed motion of the planets .  
+
+===============
+Ptolemy
+===============
+
+
+ Similar theories were also advanced by _______________ astronomers some 400 years later .  
+
+===============
+Indian
+===============
+
+
+ However a more elegant model in which the _______________ was the centre around which the planets revolved –
+
+===============
+Sun
+===============
+
+
+ the ‘ heliocentric ’ model – was already mentioned by Aryabhatta ( _______________ ) in his treatise .
+
+===============
+5th century A.D.
+===============
+
+
+ _______________ , a Polish monk named Nicolas Copernicus ( 1473 - 1543 ) proposed a definitive model in which the planets moved in circles around a fixed central sun .  
+
+===============
+A thousand years later
+===============
+
+
+ His theory was discredited by the church , but notable amongst its supporters was _______________ who had to face prosecution from the state for his beliefs . 
+
+
+===============
+Galileo
+===============
+
+
+ It was around the same time as Galileo , a nobleman called Tycho Brahe ( 1546 - 1601 ) hailing from Denmark , spent his entire lifetime recording observations of the planets with the naked eye .  
+
+===============
+1546-1601
+===============
+
+
+ His compiled data were analysed later by his assistant _______________ ( 1571 - 1640 ) .
+
+===============
+Johannes Kepler
+===============
+
+
+ He could extract from the data three elegant laws that now go by the name of _______________ ’s laws .  
+
+===============
+Kepler
+===============
+
+
+ These laws were known to _______________ and enabled him to make a great scientific leap in proposing his universal law of gravitation . 
+
+
+
+===============
+Newton
+===============
+
+
+ The three laws of _______________ can be stated as follows : 
+ 1 .  
+
+===============
+Kepler
+===============
+
+
+ All planets move in elliptical orbits with the Sun situated at one of the   foci   of the ellipse ( _______________ . 8.1a ) .
+
+===============
+Fig
+===============
+
+
+ This law was a deviation from the _______________ model which allowed only circular orbits .
+
+===============
+Copernican
+===============
+
+
+ The semimajor axis is _______________ the distance AP . 
+
+
+
+
+
+
+===============
+half
+===============
+
+
+ A string has its ends fixed at F1 and _______________ .
+
+===============
+F2
+===============
+
+
+ *   Refer to information given in the Box on Page 182 
+
+
+ Select two points F1 and F2 .  
+
+===============
+the Box on Page 182
+
+
+
+===============
+
+
+ Take a length of a string and   fix its ends at F1 and _______________ by pins .  
+
+===============
+F2
+===============
+
+
+ Clearly for any point T on the ellipse , the sum of the distances from F1 and _______________ is a constant .  
+
+===============
+F2
+===============
+
+
+ F1 , _______________ are called the focii .
+
+===============
+F2
+===============
+
+
+ Join the points F1 and F2   and extend   the line to intersect the ellipse at points P and A as shown in _______________ .
+
+===============
+Fig
+===============
+
+
+ The midpoint of the line _______________ is the centre of the ellipse O and the length PO =
+
+===============
+PA
+===============
+
+
+ _______________   is called the semi - major axis of the ellipse .
+
+===============
+AO
+===============
+
+
+ For a circle , the _______________ focii   merge into one   and the semi - major axis becomes the radius of the circle . 
+
+
+===============
+two
+===============
+
+
+ Table 8.1 gives the approximate time periods of revolution of _______________ * planets around the sun along with values of their semi - major axes . 
+
+
+
+===============
+eight
+===============
+
+
+ Table 8.1 	 Data from measurement of planetary motions given below confirm Kepler ’s Law of Periods 
+ ( a 	 ≡ 	 _______________ - major   axis in units of   1010 m. 
+
+
+===============
+Semi
+===============
+
+
+ The quotient ( T2/a3 ) in units of _______________ -34 y2 m-3 . ) 
+
+
+
+===============
+10
+===============
+
+
+ A central force is such that   the force on the planet is along the vector joining the _______________ and the planet .
+
+===============
+Sun
+===============
+
+
+ Let the _______________ be at the origin and let the position and momentum of the planet be denoted by r and p   respectively .
+
+===============
+Sun
+===============
+
+
+ ∆A given by 
+  ∆A = _______________ ( r × v∆t )                                                          ( 8.1 ) 
+ 
+
+===============
+½  
+===============
+
+
+ Hence 
+ ∆A /∆t    = ½ ( r × p)/m , ( since   v = p / m ) 
+            =     L / ( _______________ m )                                                        ( 8._______________ ) 
+ where v is the velocity ,   L is the angular momentum equal   to    ( r   ×   p ) .  
+
+===============
+2
+===============
+
+
+ For a centra_______________   force , which is directed a_______________ong r , _______________ is   a constant as the p_______________anet goes around .
+
+===============
+L
+===============
+
+
+ Hence , _______________ /∆t is a constant according to the last equation .
+
+===============
+∆A
+===============
+
+
+ _______________   ( 1571–1630 )   was a scientist of German origin .
+
+===============
+Johannes Kepler
+===============
+
+
+ He formulated the three laws of planetary motion based on the painstaking observations of _______________ and coworkers .
+
+===============
+Tycho Brahe
+===============
+
+
+ Kepler himself was an assistant to Brahe and it took him _______________ to arrive at the three planetary laws .
+
+===============
+sixteen long years
+===============
+
+
+ He is also known as the founder of geometrical optics , being the _______________ to describe what happens to light after it enters a telescope . 
+
+
+
+
+
+===============
+first
+===============
+
+
+ Let   the speed of the planet at   the   perihelion P in _______________ .
+
+===============
+Fig
+===============
+
+
+ the _______________ - planet distance SP be rP.
+
+===============
+Sun
+===============
+
+
+ rA , vA}. Will the planet take equal times to traverse _______________ and CPB ? 
+
+
+
+===============
+BAC
+===============
+
+
+ the radius vectors SB and _______________ is larger than SBPC in Fig .
+
+===============
+SC
+===============
+
+
+ From Kepler ’s _______________ law , equal areas are swept in equal times .
+
+===============
+second
+===============
+
+
+ Hence the planet will take a longer time to traverse _______________ than CPB . 
+
+
+
+===============
+BAC
+===============
+
+
+ _______________ has it that observing an apple falling from a tree , Newton was inspired to arrive at an universal law of gravitation that led to an explanation of terrestrial   gravitation as well as of Kepler ’s laws .  
+
+===============
+Legend
+===============
+
+
+ _______________ ’s reasoning was that the moon revolving in an orbit of radius Rm was subject to a centripetal acceleration due to earth ’s gravity of magnitude 
+ 
+
+
+===============
+Newton
+===============
+
+
+ ( _______________ ) 
+
+ where V is the speed of the moon related to the time period T   by the relation .
+
+===============
+8.3
+===============
+
+
+ The time period T is _______________
+
+===============
+about 27.3 days
+===============
+
+
+ and Rm was already known then to be _______________ × 10­8 m .  
+
+===============
+about 3.84
+===============
+
+
+ If we substitute these numbers in _______________ .
+
+===============
+Eq
+===============
+
+
+ ( _______________ ) , we get a value of am much smaller than the value of acceleration due to gravity g on the surface of the earth , arising also due to earth ’s gravitational attraction .  
+
+
+
+
+===============
+8.3
+===============
+
+
+ This happens either when   F   is _______________ or when   F   is along   r.
+
+===============
+zero
+===============
+
+
+ _______________ important results follow from this : 
+ ( 1 ) 	 The motion of a particle under the central force is always confined to a plane . 
+
+
+===============
+Two
+===============
+
+
+ The two results ( _______________ ) and ( 2 ) described above , therefore , apply to the motion of the planet .
+
+===============
+1
+===============
+
+
+ In fact , the result ( 2 ) is the well - known _______________ law of Kepler . 
+
+
+
+
+===============
+second
+===============
+
+
+ ( _______________ ) 
+ in agreement with a value of g ≅ 9.8   m s-2 and the value of am from Eq .
+
+===============
+8.4
+===============
+
+
+ These observations led Newton to propose the following _______________ : 
+
+
+===============
+Universal Law of Gravitation
+===============
+
+
+ The quotation is essentially from _______________ ’s famous treatise   called ‘ Mathematical Principles of Natural Philosophy ’ ( Principia for short ) . 
+
+
+===============
+Newton
+===============
+
+
+ Stated Mathematically , _______________ ’s gravitation law reads :
+
+===============
+Newton
+===============
+
+
+ ( 8.5 ) 
+
+ Equation ( 8.5 ) can be expressed in vector form as 
+
+ where _______________ is the universal _______________ravitational constant ,   is the unit vector from m1 to m2 and
+
+===============
+G
+===============
+
+
+ r = r2 – r1 as shown in _______________ .
+
+===============
+Fig
+===============
+
+
+ – F by _______________ ’s third law .
+
+===============
+Newton
+===============
+
+
+ Thus , the gravitational force F_______________2 on the body _______________ due to 2 and F2_______________ on the body 2 due to _______________ are related as F_______________2 =
+
+===============
+1
+===============
+
+
+ 8.3 	 _______________ force on m1 due to m2 is along r where the vector r is ( r2– r1 ) . 
+
+
+
+
+
+===============
+Gravitational
+===============
+
+
+ ( _______________ ) to objects under consideration , we have to be careful since the law refers to point masses whereas we deal with extended objects which have finite size .
+
+===============
+8.5
+===============
+
+
+ If we have a collection of point masses , the force on any _______________ of them is the vector sum of the gravitational forces exerted by the other point masses as shown in Fig 8.4 . 
+
+
+
+
+
+
+
+===============
+one
+===============
+
+
+ The total force on m1 is 
+
+
+
+ Example _______________
+
+===============
+8.2  
+===============
+
+
+ _______________ equal masses of m kg each are fixed at the vertices of an equilateral triangle ABC . 
+
+
+===============
+Three
+===============
+
+
+ ( a ) What is the force acting on a mass _______________ m   placed at the centroid G of the triangle ? 
+
+
+===============
+2
+===============
+
+
+ The angle between _______________ and the positive x - axis is 30 ° and so is the angle between GB and the negative x - axis .
+
+===============
+GC
+===============
+
+
+ The individual forces in vector notation are 
+ 
+ 
+ 
+
+
+
+
+
+ _______________ .
+
+===============
+Fig
+===============
+
+
+ _______________ equal masses are placed at the _______________ vertices of the ∆ ABC .
+
+===============
+three
+===============
+
+
+ A mass 2 m is placed at the centroid G. 
+
+
+
+
+
+===============
+G.
+
+
+
+
+===============
+
+
+ From the principle of superposition and the law of vector addition , the resultant gravitational force 	  FR on ( _______________ m ) is 
+   FR  
+
+===============
+2
+===============
+
+
+ Alternatively , one expects on the basis of symmetry that the resultant force ought to be _______________ . 
+
+
+===============
+zero
+===============
+
+
+ ( _______________ ) is not directly applicable .
+
+===============
+8.5
+===============
+
+
+ For _______________ special cases , a   simple law results when you do that : 
+ ( 1 ) 	
+
+===============
+two
+===============
+
+
+ Newton ’s Principia 
+
+ Kepler had formulated his _______________ law by 1619 .
+
+===============
+third
+===============
+
+
+ The announcement of the underlying universal law of gravitation came about seventy years later with the publication in 1687 of Newton ’s masterpiece   Philosophiae Naturalis _______________ , often simply called thePrincipia . 
+
+
+
+===============
+Principia Mathematica
+===============
+
+
+ Around 1685 , Edmund Halley ( after whom the famous Halley ’s comet is named ) , came to visit Newton at _______________ and asked him about the nature of the trajectory of a body moving under the influence of an inverse square law .
+
+===============
+Cambridge
+===============
+
+
+ Without hesitation Newton replied that it had to be an ellipse , and further that he had worked it out long ago around _______________ when he was forced to retire to his farm house from Cambridge on account of a plague outbreak .
+
+===============
+1665
+===============
+
+
+ Unfortunately , _______________ had lost his papers .
+
+===============
+Newton
+===============
+
+
+ _______________ prevailed upon Newton to produce his work in book form and agreed to bear the cost of publication .
+
+===============
+Halley
+===============
+
+
+ _______________ accomplished this feat in eighteen months of superhuman effort .
+
+===============
+Newton
+===============
+
+
+ The   Principia   is a singular scientific masterpiece and in the words of _______________ it is “ the greatest production of the human mind .
+
+===============
+Lagrange
+===============
+
+
+ The _______________ born astrophysicist and Nobel laureate S. Chandrasekhar spent ten years writing a treatise on the   Principia .
+
+===============
+Indian
+===============
+
+
+ His book , _______________ ’s   Principia for the Common Reader   brings into sharp focus the beauty , clarity and breath taking economy of _______________ ’s methods . 
+
+
+
+
+===============
+Newton
+===============
+
+
+ The force of attraction due to a hollow spherical shell of uniform density , on a point mass situated inside it is _______________ . 
+	
+
+===============
+zero
+===============
+
+
+ The value of the gravitational constant G entering the Universal law of gravitation   can be determined experimentally and this was first done by _______________ scientist Henry Cavendish in 1798 .
+
+===============
+English
+===============
+
+
+ _______________ Schematic drawing of Cavendish ’s experiment .
+
+===============
+8.6
+===============
+
+
+ When the big spheres are taken to the other side of the masses ( shown by dotted circles ) , the bar _______________ rotates a little since the torque reverses direction .
+
+===============
+AB
+===============
+
+
+ The bar _______________ has two small lead spheres attached at its ends .  
+
+===============
+AB
+===============
+
+
+ _______________ large lead spheres are brought close to the small ones but on opposite sides as shown .  
+
+===============
+Two
+===============
+
+
+ I_______________  L   is the length o_______________ the bar AB , then the torque arising out of _______________ is  
+
+===============
+F  
+===============
+
+
+ At equilibrium , this is equal to the restoring torque and hence 
+ 
+ ( _______________ ) 
+
+ Observation of θ thus enables one to calculate G from this equation . 
+
+
+===============
+8.7
+===============
+
+
+ Since _______________ ’s   experiment , the measurement of G has been refined and the currently accepted value is 
+  G
+
+===============
+Cavendish
+===============
+
+
+ ( 8.8 ) 
+
+ _______________ 	 Acceleration due to gravity of the earth 
+ The earth can be imagined to be a sphere made of a large number of concentric spherical shells with the smallest one at the centre and the largest one at its surface .  
+
+===============
+8.5
+===============
+
+
+ Thus , all the shells exert a gravitational force at the point outside just as if their masses are concentrated at their common centre according to the result stated in _______________ .
+
+===============
+section 8.3
+===============
+
+
+ The mass m is in a mine located at a depth d below the surface of the _______________ of mass ME and radius RE .
+
+===============
+Earth
+===============
+
+
+ We treat the _______________ to be spherically symmetric . 
+
+
+===============
+Earth
+===============
+
+
+ Hence according to result stated in the last section , they exert no gravitational force on mass m kept at _______________
+
+===============
+P.  
+===============
+
+
+ This smaller sphere therefore exerts a force on a mass m at P as if its mass _______________ is concentrated at the centre .  
+
+===============
+Mr
+===============
+
+
+ We assu_______________ that the entire earth is of uniform density and hence its mass is   where _______________ is the mass of the earth RE
+
+===============
+ME
+===============
+
+
+ On the other hand the mass of the sphere _______________ of radius r is   and hence 
+ 
+ 
+
+
+===============
+Mr
+===============
+
+
+ ( _______________ ) 
+ 
+ ( 8.11 ) 
+
+
+
+===============
+8.10
+===============
+
+
+ The acceleration experienced by the mass m , which is usually denoted by the symbol g is related to F by _______________ ’s 2nd law by relation F = mg .
+
+===============
+Newton
+===============
+
+
+ Thus 
+ 
+ ( _______________ ) 
+
+ Acceleration g is readily measurable .  
+
+===============
+8.12
+===============
+
+
+ The measu_______________ment of G by Cavendish ’s experiment ( or otherwise ) , combined with knowledge of g and _______________ enables one to estimate ME from Eq .
+
+===============
+RE
+===============
+
+
+ This is the reason why there is a popular statement regarding _______________ :
+
+===============
+Cavendish
+===============
+
+
+ due to gravity below and above the surface of earth 
+ Consider a point mass m at a height h above the surface of the earth as shown in _______________ .
+
+===============
+Fig
+===============
+
+
+ Since this point is outside the earth ,   its distance from the centre of the earth is ( RE   +   h   ) .
+
+===============
+RE + 
+===============
+
+
+ ( _______________ ) : 
+
+ ( 8.13 ) 
+
+
+
+
+ Fig .
+
+===============
+8.5
+===============
+
+
+ For we can expand _______________ .
+
+===============
+the RHS of Eq
+===============
+
+
+ For , using binomial expression , 	
+ 
+ . 	 ( _______________ ) 
+
+ Equation ( _______________ ) thus tells us that for small heights h above the value of g decreases by a factor 
+
+
+===============
+8.15
+===============
+
+
+ ( Fig . _______________ ) ) , so that its distance from the centre of the earth is   as shown in the figure .   
+
+===============
+8.8(b
+===============
+
+
+ d is _______________ because the result quoted in the previous section .
+
+===============
+zero
+===============
+
+
+ RE 3                                           ( _______________ ) 
+ and hence the acceleration due to gravity at a depth d , 
+  g(d )
+
+===============
+8.18
+===============
+
+
+ Consider points close to the surface of _______________ , at distances from the surface much smaller than the radius of the _______________ .  
+
+===============
+earth
+===============
+
+
+ In such cases , the force of gravity is practically a constant equal to mg , directed towards the centre of the _______________ .  
+
+===============
+earth
+===============
+
+
+ If we consider a point at a height h1 from the surface of the earth and another point vertically above it at a height h2 from the surface , the work done in lifting the particle of mass m from the first to the second position is denoted by W12 
+  W12 =
+
+===============
+W12
+ W12
+===============
+
+
+ If we associate a potential energy _______________ ) at a point at a height h above the surface such that 
+ 
+
+===============
+W(h
+===============
+
+
+ Wo                                                     ( _______________ ) 
+ ( where Wo = constant )
+
+===============
+8.21
+===============
+
+
+ Setting   h = _______________ in the last equation , we get    W ( h = _______________ ) =  
+
+===============
+0
+===============
+
+
+ h = _______________ means points on the surface of the earth .
+
+===============
+0
+===============
+
+
+ However , from our discussion we know that a point outside the earth , the force of gravitation on a particle directed towards the centre of the earth is  
+ 
+ ( _______________ ) 
+
+ where ME = mass of earth , m = mass of the particle and r
+
+===============
+8.23
+===============
+
+
+ ( 8.21 ) , we can thus associate a potential energy W(r ) at a distance r , such that 
+ 
+ ( _______________ ) 
+
+ valid for r > R , 
+ so that once again W12 = W(r2 )
+
+===============
+8.25
+===============
+
+
+ Setting    r = infinity in the last equation , _______________e get _______________ ( r = infinity )
+
+===============
+W
+===============
+
+
+ One should note that only the difference of potential energy between two points has a definite meaning   from _______________ .
+
+===============
+Eqs
+===============
+
+
+ ( _______________ ) and ( 8.24 ) .
+
+===============
+8.22
+===============
+
+
+ W1 equal to _______________ , so that the potential energy at a point is just the amount of work done in displacing the particle from infinity to that point . 
+
+
+===============
+zero
+===============
+
+
+ From the earlier discussion , we learn that the gravitational potential energy associated with _______________ particles of masses m1 and m2 separated by distance by a distance r is given by 
+  ( if we choose V = 0 as r → ∞ ) 
+ It should be noted that an isolated system of particles will have the total potential energy that equals the sum of energies ( given by the above equation ) for all possible pairs of its constituent particles .
+
+===============
+two
+===============
+
+
+ Find the potential energy of a system of _______________ particles placed at the vertices of a square of side
+
+===============
+four
+===============
+
+
+ Answer Consider four masses each of mass m at the corners of a square of side l ; _______________ . 8.9 .                  
+
+===============
+See Fig
+===============
+
+
+ We have four mass pairs at distance l and _______________ diagonal pairs at distance 
+
+
+===============
+two
+===============
+
+
+ Suppose the object did reach infinity and that its speed there was _______________ .
+
+===============
+Vf
+===============
+
+
+ The total energy of the projectile at infinity then is 
+ 
+ ( _______________ ) 
+
+
+
+===============
+8.26
+===============
+
+
+ If the object was thrown initially with a speed Vi from a point at a distance ( h+RE ) from the centre of the earth ( RE = radius of the earth ) , its energy initially was 
+ 
+ ( _______________ ) 
+
+
+
+===============
+8.27
+===============
+
+
+ ( _______________ ) and ( 8.27 ) must be equal .
+
+===============
+8.26
+===============
+
+
+ The _______________ is a positive quantity with a minimum value zero hence so must be the L.H.S. Thus , an object can reach infinity as long as Vi is such that 
+
+ ( 8.29 ) 
+
+
+
+===============
+R.H.S.
+===============
+
+
+ The minimum value of _______________ corresponds to the case when the L.H.S. of  
+
+===============
+Vi
+===============
+
+
+ Thus , the minimum speed required for an object to reach infinity ( i.e. escape from the earth ) corresponds to 
+ 
+ ( _______________ ) 
+
+
+
+===============
+8.30
+===============
+
+
+ If the object is thrown from the surface of the earth , h = _______________ , and we get 
+ 
+
+
+===============
+0
+===============
+
+
+ ( _______________ ) 
+
+ Using the relation , we get 
+ 
+
+
+===============
+8.31
+===============
+
+
+ ( 8.32 ) 
+
+ Using the value of g and _______________ , numerically ( Vi)min≈11.2 km / s .
+
+===============
+RE
+===============
+
+
+ Equation ( _______________ ) applies equally well to an object thrown from the surface of the moon with g replaced by the acceleration due to Moon ’s gravity on its surface and rE replaced by the radius of the moon .
+
+===============
+8.32
+===============
+
+
+ Both are smaller than their values on earth and the escape speed for the moon turns out to be 2.3 km / s , _______________ times smaller .
+
+===============
+about five
+===============
+
+
+ _______________ uniform solid spheres of equal radii R , but
+
+===============
+Two
+===============
+
+
+ mass M and 4 M have a centre to centre separation _______________ R , as shown in Fig . 8.10 .
+
+===============
+6
+===============
+
+
+ A projectile of mass m is projected from the surface of the sphere of mass M directly towards the centre of the _______________ sphere .
+
+===============
+second
+===============
+
+
+ Obtain an expression for the minimum speed v of the projectile so that it reaches the surface of the _______________ sphere . 
+
+
+
+
+
+
+
+===============
+second
+===============
+
+
+ The projectile is acted upon by _______________ mutually opposing gravitational forces of the _______________ spheres .
+
+===============
+two
+===============
+
+
+ The neutral point N ( see Fig . 8.10 ) is defined as the position where the _______________ forces cancel each other exactly .
+
+===============
+two
+===============
+
+
+ It is sufficient to project the particle with a speed which would enable it to reach N. Thereafter , the greater gravitational pull of _______________ M would suffice .
+
+===============
+4
+===============
+
+
+ At the neutral point N , the speed approaches _______________ .
+
+===============
+zero
+===============
+
+
+ The mecha_______________ical e_______________ergy at _______________ is purely pote_______________tial . 
+ . 
+
+
+===============
+N
+===============
+
+
+ A poi_______________t to _______________ote is that the speed of the projectile is zero at _______________ , but is _______________o_______________zero whe_______________ it strikes the heavier sphere
+
+===============
+N
+===============
+
+
+ _______________ Satellites 
+ _______________ satellites are objects which revolve around the _______________ .  
+
+===============
+earth
+===============
+
+
+ Their motion is very similar to the motion of planets around the _______________ and hence Kepler ’s laws of planetary motion are equally applicable to them .  
+
+===============
+Sun
+===============
+
+
+ _______________ is the only natural satellite of the earth with a near circular orbit with a time period of approximately 27.3 days which is also roughly equal to the rotational period of the _______________ about its own axis .  
+
+===============
+Moon
+===============
+
+
+ Since , _______________ , advances in technology have enabled many countries including India to launch artificial earth satellites for practical use in fields like telecommunication , geophysics and meteorology . 
+
+
+===============
+1957
+===============
+
+
+ ( _______________ ) 
+
+ directed towards the centre .  
+
+===============
+8.33
+===============
+
+
+ ( _______________ ) 
+
+ where ME is the mass of the earth . 
+
+
+===============
+8.34
+===============
+
+
+ ( _______________ ) and ( 8.34 ) and cancelling out m , we get 
+ 
+
+
+===============
+8.33
+===============
+
+
+ From equation ( 8.35),the speed V   for   h = 0   is 
+ 
+ ( _______________ ) 
+
+ where we have used the relation g = .
+
+===============
+8.36
+===============
+
+
+ In every orbit , the satellite traverses a distance 2π(RE + h ) with speed _______________
+
+===============
+V.  
+===============
+
+
+ ( _______________ ) 
+
+ on substitution of value of V from Eq .
+
+===============
+8.37
+===============
+
+
+ ( RE + h)3    ( where k = 4 π2 / GME )                                                             ( _______________ ) 
+ which is Kepler ’s law of periods , as applied to motion of satellites around the earth .
+
+===============
+8.38
+===============
+
+
+ For a satellite very close to the surface of earth h can be neglected in comparison to _______________ in Eq .
+
+===============
+RE
+===============
+
+
+ Hence , for such satellites , T is To , where 
+ 
+ ( _______________ ) 
+
+
+
+===============
+8.39
+===============
+
+
+ The planet Mars has _______________ moons , phobos and delmos .
+
+===============
+two
+===============
+
+
+ ( i ) phobos has a period 7 hours , 39 minutes and an orbital radius of _______________ .
+
+===============
+9.4 ×103 km
+===============
+
+
+ ( ii ) Assume that earth and mars move in circular orbits around the sun , with the martian orbit being _______________ times the orbital radius of   the earth .
+
+===============
+1.52
+===============
+
+
+ What is the length of _______________ in days ? 
+
+
+
+===============
+the martian year
+===============
+
+
+ Once again Kepler ’s _______________ law comes to our aid , 
+
+ where RMS is the mars -sun distance and RES is the earth - sun distance . 
+ 
+
+===============
+third
+===============
+
+
+ We note that the orbits of all planets except Mercury , _______________ and Pluto * are very close to being circular .
+
+===============
+Mars
+===============
+
+
+ For example , the ratio of the semi - minor to semi - major axis for our _______________ is , b / a = 0.99986 .  
+
+ 
+
+===============
+Earth
+===============
+
+
+ Example 8.6 Weighing the Earth : You are given the following data : g = 9.81 ms–2 , RE = _______________ m , the distance to the moon R =
+
+===============
+6.37×106
+===============
+
+
+ _______________ m and the time period of the moon
+
+===============
+3.84×108
+===============
+
+
+ Obtain the mass of _______________ in two different ways . 
+
+
+
+===============
+the Earth ME
+===============
+
+
+ The moon is a satellite of the _______________ .
+
+===============
+Earth
+===============
+
+
+ From the derivation of Kepler ’s _______________ law [ see Eq .
+
+===============
+third
+===============
+
+
+ Both methods yield almost the same answer , the difference between them being less than 1 % . 
+
+ 
+
+===============
+less than 1%
+===============
+
+
+ ( _______________ ) in days and kilometres .
+
+===============
+8.38
+===============
+
+
+ The moon is at a distance of _______________ × 105 km   from the earth .
+
+===============
+3.84
+===============
+
+
+ Obtain its time - period of revolution in _______________ . 
+
+
+
+===============
+days
+===============
+
+
+ ( _______________ ) and the given value of k
+
+===============
+8.38
+===============
+
+
+ ( _______________ ) also holds for elliptical orbits if we replace ( RE+h ) by the semi - major axis of the ellipse .
+
+===============
+8.38
+===============
+
+
+ The earth will then be at _______________ of the foci of this ellipse .    
+
+
+
+===============
+one
+===============
+
+
+ _______________ Energy of an orbiting Satellite 
+ Using Eq .
+
+===============
+8.10  
+===============
+
+
+ ( 8.40 ) 
+
+ Considering gravitational potential energy at infinity to be _______________ , the potential energy at distance ( RE+h ) from the centre of the earth is  
+ 
+ ( 8.41 ) 
+
+
+
+===============
+zero
+===============
+
+
+ The _______________ is positive whereas the P.E is negative .
+
+===============
+K.E
+===============
+
+
+ However , in magnitude the _______________ is half the P.E , so that the total E is  
+ 
+ ( 8.42 ) 
+
+
+
+===============
+K.E.
+===============
+
+
+ When the orbit of a satellite becomes elliptic , both the K.E. and _______________ vary from point to point .  
+
+===============
+P.E.
+===============
+
+
+ This is what we expect , since as we have discussed before if the total energy is positive or _______________ , the object escapes to infinity .   
+
+===============
+zero
+===============
+
+
+ Satellites are always at finite distance from the earth and hence their energies can not be positive or _______________ . 
+
+ 
+
+===============
+zero
+===============
+
+
+ A _______________ satellite is in a circular orbit of radius 2RE about the Earth .
+
+===============
+400 kg
+===============
+
+
+ _______________ J 	
+
+ 8.11 	 Geostationary and Polar Satellites 
+
+
+===============
+109
+===============
+
+
+ An interesting phenomenon arises if in we arrange the value of ( _______________ h )   such that T in Eq .
+
+===============
+RE+
+===============
+
+
+ ( _______________ ) becomes equal to 24 hours .  
+
+===============
+8.37
+===============
+
+
+ = _______________ , h works out to be 35800 km . which is   much larger than RE .  
+
+===============
+24 hours
+===============
+
+
+ Satellites in a circular orbits around the earth in the equatorial plane with T = _______________ are called Geostationery Satellites .
+
+===============
+24 hours
+===============
+
+
+ A strip on earth ’s surface ( shown shaded ) is visible from the satellite during _______________ cycle .
+
+===============
+one
+===============
+
+
+ For _______________ , the earth has rotated a little on its axis so that an adjacent strip becomes visible . 
+
+
+===============
+the next revolution of the satellite
+===============
+
+
+ Radio waves used for radio broadcast which are in the frequency range 2 MHz to _______________ , are below the critical frequency .  
+
+===============
+10 MHz
+===============
+
+
+ India started its space programme in 1962 when Indian National Committee for Space Research was set up by the Government of India which was superseded by the Indian Space Research Organisation ( _______________ ) in 1969 .
+
+===============
+ISRO
+===============
+
+
+ _______________ identified the role and importance of space technology in nation ’s development and   bringing space to the service of the common man .
+
+===============
+ISRO
+===============
+
+
+ India launched its first low orbit satellite Aryabhata in _______________ , for which the launch vehicle was provided by the erstwhile Soviet Union .
+
+===============
+1975
+===============
+
+
+ ISRO started employing its indigenous launching vehicle in 1979 by sending Rohini series of satellites into space from its main launch site at Satish Dhawan Space Center , Sriharikota , _______________ .
+
+===============
+Andhra Pradesh
+===============
+
+
+ The tremendous progress in India ’s space programme has made ISRO one of the _______________ largest space agencies in the world .
+
+===============
+six
+===============
+
+
+ _______________   develops and delivers application specific satellite products and tools for broadcasts , communication , weather forecasts , disaster management tools , Geographic Information System , cartography , navigation , telemedicine , dedicated distance education satellite etc .
+
+===============
+ISRO
+===============
+
+
+ In order to achieve complete self - reliance in these applications , cost effective and reliable _______________ ( PSLV ) was developed in early 1990s .
+
+===============
+Polar Satellite Launch Vehicle
+===============
+
+
+ In _______________ , the Geosynchronous Satellite Launch Vehicle ( GSLV ) was developed for launching heavier and more demanding Geosynchronous communication satellites .
+
+===============
+2001
+===============
+
+
+ Various research centers and autonomous institutions for remote sensing , astronomy and astrophysics , atmospheric sciences and space research are functioning under the aegis of the Department of Space , Government of India .
+
+===============
+the Department of Space, Government of India
+===============
+
+
+ inter planetary ( Mangalyaan ) missions along with other scientific projects has been landmark achievements of _______________ .
+
+===============
+ISRO
+===============
+
+
+ Future endeavors of ISRO include human space flight projects , the development of heavy lift launchers , reusable launch vehicles , semi - cryogenic engines , single and _______________ stage to orbit ( SSTO and TSTO ) vehicles , development and use of composite materials for space application etc .
+
+===============
+two
+===============
+
+
+ In 1984 Rakesh Sharma became the first _______________ to go into outer space aboard in a USSR spaceship .
+
+===============
+Indian
+===============
+
+
+ A _______________ satellite , appearing fixed above the broadcasting station can however receive these signals and broadcast them back to a wide area on earth .
+
+===============
+Geostationery
+===============
+
+
+ The INSAT   group of satellites sent up by _______________ are one such group of Geostationary satellites widely used for telecommunications in _______________ . 
+
+
+===============
+India
+===============
+
+
+ Another class of satellites are called the _______________ satellites ( Fig . 8.11 ) .  
+
+===============
+Polar
+===============
+
+
+ These are low altitude ( h ≈   _______________ 800 km ) satellites , but they go around the poles of the earth in a north - south direction whereas the earth rotates around its axis in an east - west direction .
+
+===============
+500 to
+===============
+
+
+ Since its time period is _______________ it crosses any altitude many times a day .  
+
+===============
+around 100 minutes
+===============
+
+
+ However , since its height h above the earth is about   500 - 800 km , a camera fixed on it can view only   small strips of the earth in one orbit .
+
+===============
+500-800 km
+===============
+
+
+ Adjacent strips are viewed in the next orbit , so that in effect the whole earth can be viewed strip by strip during _______________ .  
+
+===============
+the entire day
+===============
+
+
+ Both ends of _______________ as well as the object move with identical acceleration g.  
+
+===============
+the spring
+===============
+
+
+ The reading recorded in the spring balance is _______________ since the spring is not stretched at all .  
+
+===============
+zero
+===============
+
+
+ In a satellite around the earth , every part and parcel of the satellite has an acceleration towards the centre of the earth which is exactly the value of earth _______________ acceleration due to gravity at that position .
+
+===============
+’s
+===============
+
+
+ _______________ ’s law of universal gravitation states that the gravitational force of attraction between any two particles of masses m1 and m2 separated by a distance r has the magnitude 
+  
+  where G is the universal gravitational constant , which has the value   6.672
+
+===============
+Newton
+===============
+
+
+ Let F1 , _______________ , … .Fn be the individual forces due to M1 , M2 , … .Mn , each given by the law of gravitation .
+
+===============
+F2
+===============
+
+
+ Kepler ’s laws of planetary motion state that 
+ ( a ) 	 All planets move in elliptical orbits with the _______________ at one of the focal points 
+ ( b ) 	
+
+===============
+Sun
+===============
+
+
+ The radius vector drawn from the _______________ to a planet sweeps out equal areas in equal time intervals .
+
+===============
+Sun
+===============
+
+
+ The period T and radius R of the circular orbit of a planet about the _______________ are related by 
+ 
+	 where Ms is the mass of the _______________ .
+
+===============
+Sun
+===============
+
+
+ Most planets have nearly circular orbits about the _______________ .
+
+===============
+Sun
+===============
+
+
+ For elliptical orbits , the above equation is valid if R is replaced by the semi - major axis , a. 
+ _______________ . 	
+
+===============
+4
+===============
+
+
+ The gravitational potential energy associated with _______________ particles separated by a distance r is given by 
+  
+  where V is taken to be zero at
+
+===============
+two
+===============
+
+
+ If m moves in a circular orbit of radius a about M , where M > > m , the total energy of the system is 
+ 
+	 with the choice of the arbitrary constant in the potential energy given in the point _______________ . , above .
+
+===============
+5
+===============
+
+
+ The escape speed from the surface of the earth is 
+  = 
+	 and has a value of _______________ s–1 . 
+
+
+===============
+11.2 km
+===============
+
+
+ If a particle is inside a uniform spherical shell , the gravitational force on the particle is _______________ .
+
+===============
+zero
+===============
+
+
+ A geostationary ( geosynchronous communication ) satellite moves in a circular orbit in the equatorial plane at a approximate distance of 4.22 × _______________ from the earth
+
+===============
+104 km
+===============
+
+
+ In considering motion of an object under the gravitational influence of another object the following quantities are conserved : 
+	 ( a )   Angular momentum 
+	 ( b )   Total mechanical energy 
+	 Linear momentum is not conserved 
+ _______________ . 	
+
+===============
+2
+===============
+
+
+ Angular momentum conservation leads to Kepler ’s _______________ law .
+
+===============
+second
+===============
+
+
+ In Kepler ’s _______________ law ( see Eq .
+
+===============
+third
+===============
+
+
+ The constant _______________ is the same for all planets in circular orbits .
+
+===============
+KS
+===============
+
+
+ This applies to satellites orbiting the _______________ [ ( Eq .
+
+===============
+Earth
+===============
+
+
+ It is because both the astronaut and the satellite are in “ free fall ” towards the _______________ . 
+
+
+===============
+Earth
+===============
+
+
+ The gravitational potential energy associated with _______________ particles separated by a distance r is given by 
+ 
+	
+
+===============
+two
+===============
+
+
+ The simplest choice is to take it to be _______________ .
+
+===============
+zero
+===============
+
+
+ Choosing location of _______________ of the gravitational energy is the same as choosing the arbitrary constant in the potential energy .
+
+===============
+zero
+===============
+
+
+ Relative to infinity ( i.e. if we presume that the potential energy of the object at infinity is _______________ ) , the gravitational potential energy of an object is negative .
+
+===============
+zero
+===============
+
+
+ g h for the potential energy is actually an approximation to the difference in the gravitational potential energy discussed in the point _______________ , above . 
+
+
+===============
+6
+===============
+
+
+ Although the gravitational force between _______________ particles is central , the force between _______________ finite rigid bodies is not necessarily along the line joining their centre of mass .
+
+===============
+two
+===============
+
+
+ The gravitational force on a particle inside a spherical shell is _______________ .
+
+===============
+zero
+===============
+
+
+ ( c ) 	 If you compare the gravitational force on the earth due to the _______________ to that due 	 to the moon , you would find that the _______________ ’s pull is greater than the moon ’s pull .
+
+===============
+Sun
+===============
+
+
+ _______________ pull is greater than the tidal effect of sun .
+
+===============
+’s
+===============
+
+
+ – _______________ ) is more / less accurate than the formulamg(r2 – r1 ) for the difference of potential energy between two points r2 and r1 distance away from the centre of the earth . 
+
+
+===============
+1/r1
+===============
+
+
+ _______________ 	 Suppose there existed a planet that went around the sun twice as fast as the earth .  
+
+===============
+8.3
+===============
+
+
+ Io , one of the satellites of Jupiter , has an orbital period of 1.769 days and the radius of the orbit is _______________ × 108 m.
+
+===============
+4.22
+===============
+
+
+ Show that the mass of Jupiter is _______________ - thousandth that of the sun . 
+
+
+===============
+about one
+===============
+
+
+ 8.5 	 Let us assume that our galaxy consists of 2.5 × 1011 stars each of _______________ solar mass .
+
+===============
+one
+===============
+
+
+ How long will a star at a distance of _______________ ly from the galactic centre take to complete one revolution ?
+
+===============
+50,000
+===============
+
+
+ Take the diameter of _______________ to be 105 ly . 
+ 8.6 	 Choose the correct alternative : 
+	
+
+===============
+the Milky Way
+===============
+
+
+ ( a ) 	 If the _______________ of potential energy is at infinity , the total energy of an orbiting satellite is negative of its kinetic / potential energy . 
+	
+
+===============
+zero
+===============
+
+
+ Neglect any mass loss of the comet when it comes very close to the _______________ . 
+
+
+===============
+Sun
+===============
+
+
+ In the following _______________ exercises , choose the correct answer from among the given ones : 
+	
+
+===============
+two
+===============
+
+
+ The gravitational intensity at the centre of a hemispherical shell of uniform mass density has the direction indicated by the arrow ( see _______________ )
+
+===============
+Fig 8.12
+===============
+
+
+ At what distance from the earth ’s centre is the gravitational force on the rocket _______________ ?
+
+===============
+zero
+===============
+
+
+ The mean orbital radius of the earth around the sun is 1.5 × _______________ . 
+
+
+===============
+108 km
+===============
+
+
+ A saturn year is 29.5 times _______________ .
+
+===============
+the earth year
+===============
+
+
+ How far is the saturn from the sun if the earth is _______________ × 108 km away from the sun ? 
+
+
+===============
+1.50
+===============
+
+
+ A body weighs _______________ N on the surface of the earth .
+
+===============
+63
+===============
+
+
+ What is the gravitational force on it due to the earth at a height equal to _______________ the radius of the earth ? 
+
+
+===============
+half
+===============
+
+
+ Assuming the earth to be a sphere of uniform mass density , how much would a body weigh _______________ way down to the centre of the earth if it weighed 250 N on the surface ? 
+
+
+===============
+half
+===============
+
+
+ 8.17 	 A rocket is fired vertically with a speed of _______________ s-1 from the earth ’s surface .
+
+===============
+5 km
+===============
+
+
+ Mass   of the earth = 6.0 _______________ 1024 kg ; mean radius of the earth =
+
+===============
+×
+===============
+
+
+ A satellite orbits the earth at a height of _______________ above the surface .
+
+===============
+400 km
+===============
+
+
+ ; mass of the earth = _______________ ;   radius   of   the earth =
+
+===============
+6.0×1024 kg
+===============
+
+
+ Two stars each of _______________ solar mass (= 2×1030 kg ) are approaching each other for a head on collision .
+
+===============
+one
+===============
+
+
+ When they are a distance _______________ , their speeds are negligible .
+
+===============
+109 km
+===============
+
+
+ The radius of each star is _______________ .
+
+===============
+104 km
+===============
+
+
+ Two heavy spheres each of mass 100 kg and radius 0.10 m are placed _______________ m apart on a horizontal table .
+
+===============
+1.0
+===============
+
+
+ Additional Exercises 
+ _______________ 	 As you have learnt in the text , a geostationary satellite orbits the earth at a height of nearly 36,000 km from the surface of the earth .
+
+===============
+8.22
+===============
+
+
+ ( Take the potential energy at infinity to be _______________ ) .
+
+===============
+zero
+===============
+
+
+ A star 2.5 times the mass of the sun and collapsed to a size of _______________ rotates with a speed of 1.2 rev .
+
+===============
+12 km
+===============
+
+
+ Mass of the space ship = _______________ ; mass of the sun = 2×1030 kg ; mass of mars =
+
+===============
+1000 kg
+===============
+
+
+ 3395 km ; radius of the orbit of mars = _______________ ×108 km ; G
+
+===============
+2.28
+===============
+
+
+ A rocket is fired ‘ vertically ’ from the surface of mars with a speed of _______________ s–1 .
+
+===============
+2 km
+===============
+
+
+ If 20 % of its initial energy is lost due to martian atmospheric resistance , how far will the rocket go from the surface of mars before returning to it ?
+
+===============
+20%
+===============
+
+
+ _______________ km ; G = 6.67×10 - 11  
+
+===============
+3395
+===============
+
+
+ LIST OF INDIAN SATELLITES 
+
+
+
+
+
+ India has so far also launched 239 foreign satellites of 28 countries from Satish Dhawan Space Center , Sriharikota , Andhra Pradesh : May 26 , 1999 ( 02 ) ; Oct. 22 , 2001 ( 02 ) ; Jan. 10 , 2007 ( 02 ) ; Apr. 23 , 2007 ( 01 ) ; Jan. 21 , 2008 ( 01 ) ; Apr. 28,2008 ( 08 ) ; Sep. 23,2009 ( 06 ) ; July 12 , 2010 ( 03 ) ;
+
+===============
+Apr. 23, 2007
+===============
+
+
+ _______________ ( 01 ) ;   Apr. 20 , 2011
+
+===============
+Jan. 12,2011
+===============
+
+
+ ( 01 ) Sep. 09 , 2012 ( 02 ) ; Feb. 25 , 2013 ( _______________ ) ; June 30 , 2014 ( 05 ) ; July 10 , 2015 ( 05 ) ; Sep. 28 , 2015 ( _______________ ) ; Dec. 16 , 2015 ( _______________ ) ; June 22 , 2016 ( 17 ) ; Sep. 26 , 2016 ( 05 ) ; Feb. 15 , 2017 ( 101 ) and thus setting a world record ; June 23 , 2017 ( 29 ) .
+
+===============
+06
+===============
+
+
+ Jan 12 , 2018 ( 28 ) ; Sep. 16 , 2018 ( 02 ) . 
+
+
+===============
+Jan 12, 2018
+===============
+
+
+ a     Launched from Kapustin Yar Missile and _______________ , Soviet Union ( now Russia ) 
+
+
+===============
+Space Complex
+===============
+
+
+ b     Launched from Satish Dhawan Space Centre , _______________ , Andhra Pradesh 
+
+
+===============
+Sriharikota
+===============
+
+
+ c     Launched from Centre Spatial Guyanais , _______________ , French Guiana 
+ d     
+
+===============
+Kourou
+===============
+
+
+ Launched from Air Force Eastern Test Range , Florida 
+ e      Launched from Baikonur Cosmodrome , _______________ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Table of Contents 
+
+
+
+
+===============
+Kazakhstan
+===============
+
+
+ 8.1 Introduction 
+
+
+ 8.2 _______________ ’s laws 
+
+
+ 8.4
+
+===============
+Kepler
+===============
+
+
+ The Gravitational Constant 
+
+
+ 8.5 _______________ due to gravity of the earth 
+
+
+ 8.6 _______________ due to gravity below and above the surface of earth 
+
+
+ 8.7 Gravitational potential energy 
+
+
+
+
+===============
+Acceleration
+===============
+
+
+ 8.9 Earth Satellites 
+
+
+ 8.10 Energy of an orbiting Satellite 
+
+
+
+
+===============
+Satellite
+
+
+
+===============
+
+
+ 8.12 Weightlessness 
+
+
+ Summary 
+
+
+ Exercises 
+
+
+
+
+
+
+ Landmarks 
+
+
+
+
+===============
+Landmarks
+
+
+
+===============
+
+

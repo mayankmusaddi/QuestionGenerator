@@ -1,0 +1,2671 @@
+
+
+
+
+
+
+
+
+Chapter One
+
+
+_______________ World 
+
+
+
+
+
+
+
+ 
+1.1 What is physics ?
+
+===============
+Physical
+===============
+
+
+1.2	Scope and excitement of physics
+1.3	Physics, technology and society
+1.4	Fundamental forces in nature
+1.5	Nature of physical laws
+	_______________
+	Exercises
+
+
+
+
+1.1 What is physics?
+
+===============
+Summary
+===============
+
+
+_______________ have always been curious about the world around them.
+
+===============
+Humans
+===============
+
+
+The night sky with its bright celestial _______________ has fascinated humans since time immemorial.
+
+===============
+objects
+===============
+
+
+The regular repetitions of the day and night, the annual cycle of _______________, the eclipses, the tides, the volcanoes, the rainbow have always been a source of wonder.
+
+===============
+seasons
+===============
+
+
+The world has an astonishing variety of _______________ and a bewildering diversity of life and behaviour.
+
+===============
+materials
+===============
+
+
+The inquiring and imaginative human mind has responded to the wonder and awe of nature in different _______________.
+
+===============
+ways
+===============
+
+
+One kind of response from the earliest times has been to observe the physical environment carefully, look for any meaningful patterns and relations in natural phenomena, and build and use new _______________ to interact with nature.
+
+===============
+tools
+===============
+
+
+The word _______________ originates from the Latin verb Scientia meaning ‘to know’.
+
+===============
+Science
+===============
+
+
+The Sanskrit word Vijnan and the Arabic word _______________ convey similar meaning, namely ‘knowledge’.
+
+===============
+Ilm
+===============
+
+
+Science, in a broad sense, is as old as human _______________.
+
+===============
+species
+===============
+
+
+The early civilisations of Egypt, _______________, China, Greece, Mesopotamia and many others made vital contributions to its progress.
+
+===============
+India
+===============
+
+
+From the sixteenth century onwards, great strides were made in science in _______________.
+
+===============
+Europe
+===============
+
+
+By the middle of the twentieth century, science had become a truly international enterprise, with many _______________ and countries contributing to its rapid growth.
+
+===============
+cultures
+===============
+
+
+What is Science and what is the so-called _______________ Method?
+
+===============
+Scientific
+===============
+
+
+The curiosity to learn about the world, unravelling the _______________ of nature is the first step towards the discovery of science.
+
+===============
+secrets
+===============
+
+
+The scientific method involves several interconnected steps : Systematic _______________, controlled experiments, qualitative and quantitative reasoning, mathematical modelling, prediction and verification or falsification of theories.
+
+===============
+observations
+===============
+
+
+Speculation and conjecture also have a place in science; but ultimately, a scientific theory, to be acceptable, must be verified by relevant _______________  or experiments.
+
+===============
+observations
+===============
+
+
+There is no ‘final’ theory in science and no unquestioned authority among _______________.
+
+===============
+scientists
+===============
+
+
+As observations improve in detail and precision or _______________ yield new results, theories must account for them, if necessary, by introducing modifications.
+
+===============
+experiments
+===============
+
+
+Sometimes the _______________ may not be drastic and may lie within the framework of existing theory.
+
+===============
+modifications
+===============
+
+
+For example, when Johannes Kepler (1571-1630) examined the extensive data on planetary motion collected by _______________ Brahe (1546-1601), the planetary circular orbits in heliocentric  theory (sun at the centre of the solar system) imagined by Nicolas Copernicus (1473–1543) had to be replaced by elliptical orbits to fit the data better.
+
+===============
+Tycho
+===============
+
+
+Occasionally, however, the  existing theory is simply unable to explain new _______________.
+
+===============
+observations
+===============
+
+
+In the beginning of the twentieth century, it was realised that Newtonian mechanics, till then a very successful theory, could not explain some of the most basic features of atomic _______________.
+
+===============
+phenomena
+===============
+
+
+This led to the development of a  radically new theory (Quantum _______________) to deal with atomic and molecular phenomena.
+
+===============
+Mechanics
+===============
+
+
+Just as a new experiment may suggest an alternative theoretical model, a theoretical advance may suggest what to look for in some _______________.
+
+===============
+experiments
+===============
+
+
+The result of experiment of scattering of alpha particles by gold foil, in 1911 by Ernest Rutherford (1871–1937) established the nuclear model of the atom, which then became the basis of the quantum theory of hydrogen atom given in 1913 by _______________ Bohr (1885–1962).
+
+===============
+Niels
+===============
+
+
+On the other hand, the concept of antiparticle was first introduced theoretically by _______________ Dirac (1902–1984) in 1930 and confirmed two years later by the experimental discovery of positron (antielectron) by Carl Anderson.
+
+===============
+Paul
+===============
+
+
+Physics is a basic discipline in the category of _______________ Sciences, which also includes other disciplines like Chemistry and Biology.
+
+===============
+Natural
+===============
+
+
+Its Sanskrit equivalent is _______________ that is used to refer to the study of the physical world.
+
+===============
+Bhautiki
+===============
+
+
+We can broadly describe _______________ as a study of the basic laws of  nature and their manifestation in different natural phenomena.
+
+===============
+physics
+===============
+
+
+The scope of _______________ is described briefly in the next section.
+
+===============
+physics
+===============
+
+
+Here we remark on two principal _______________ in physics :  unification and reduction.
+
+===============
+thrusts
+===============
+
+
+In _______________, we attempt to explain diverse physical phenomena in terms of a few concepts and laws.
+
+===============
+Physics
+===============
+
+
+The effort is to see the physical world as manifestation of some universal _______________ in different domains and conditions.
+
+===============
+laws
+===============
+
+
+For example, the same law of gravitation (given by _______________) describes the fall of an apple to the ground, the motion of the moon around the earth and the motion of planets around the sun.
+
+===============
+Newton
+===============
+
+
+Similarly, the basic laws of electromagnetism (_______________’s equations) govern all electric and magnetic phenomena.
+
+===============
+Maxwell
+===============
+
+
+The _______________ to unify fundamental forces of nature (section 1.4) reflect this same quest for unification.
+
+===============
+attempts
+===============
+
+
+A related effort is to derive the _______________ of a bigger, more complex, system from the _______________ and interactions of its constituent simpler parts.
+
+===============
+properties
+===============
+
+
+This approach is called reductionism and is at the heart of _______________.
+
+===============
+physics
+===============
+
+
+For example, the subject of thermodynamics, developed in the nineteenth century, deals with bulk _______________ in terms of macroscopic quantities such as temperature, internal energy, entropy, etc.
+
+===============
+systems
+===============
+
+
+Subsequently, the subjects of kinetic theory and statistical mechanics interpreted these quantities in terms of the _______________ of the molecular constituents  of the bulk system.
+
+===============
+properties
+===============
+
+
+In particular, the  temperature was seen to be related to the average kinetic energy of _______________  of the system.
+
+===============
+molecules
+===============
+
+
+1.2  _______________ and excitement of physics
+We can get some idea of the _______________ of physics by looking at its various sub-disciplines.
+
+===============
+Scope
+===============
+
+
+Basically, there are two _______________ of interest : macroscopic and microscopic.
+
+===============
+domains
+===============
+
+
+The macroscopic domain includes phenomena at the laboratory, terrestrial and astronomical _______________.
+
+===============
+scales
+===============
+
+
+Classical Physics deals mainly with macroscopic phenomena and includes subjects like Mechanics, Electrodynamics, Optics and _______________.
+
+===============
+Thermodynamics
+===============
+
+
+Mechanics founded on Newton_______________s laws of motion and the law of gravitation is concerned with the motion (or equilibrium) of particles, rigid and deformable bodies, and general systems of particles.
+
+===============
+’
+===============
+
+
+The propulsion of a rocket by a jet of ejecting gases, propagation of water _______________ or sound _______________ in air, the equilibrium of a bent rod under a load, etc., are problems of mechanics.
+
+===============
+waves
+===============
+
+
+Electrodynamics _______________ with electric and magnetic phenomena associated with charged and magnetic bodies.
+
+===============
+deals
+===============
+
+
+Its basic laws were given by Coulomb, _______________, Ampere and Faraday, and encapsulated by Maxwell in his famous set of equations.
+
+===============
+Oersted
+===============
+
+
+The motion of a current-carrying conductor in a magnetic field, the response of a circuit to an ac voltage (signal), the working of an antenna, the propagation of radio _______________ in the ionosphere, etc., are problems of electrodynamics.
+
+===============
+waves
+===============
+
+
+Optics _______________ with the phenomena involving light.
+
+===============
+deals
+===============
+
+
+The working of telescopes and microscopes, colours exhibited by thin films, etc., are topics in _______________.
+
+===============
+optics
+===============
+
+
+_______________, in contrast to mechanics, does not deal with the motion of bodies as a whole.
+
+===============
+Thermodynamics
+===============
+
+
+Rather, it deals with systems in macroscopic equilibrium and is concerned with _______________ in internal energy, temperature, entropy, etc., of the system through external work and transfer of heat.
+
+===============
+changes
+===============
+
+
+The efficiency of heat engines and _______________, the direction of a physical or chemical process, etc., are problems of interest in thermodynamics.
+
+===============
+refrigerators
+===============
+
+
+The microscopic domain of physics deals  with the constitution and structure of matter at the minute scales of _______________ and nuclei (and even lower scales of length) and their interaction with different probes such as electrons, photons and other elementary particles.
+
+===============
+atoms
+===============
+
+
+Classical physics is inadequate to handle this domain and Quantum _______________ is currently accepted as the proper framework for explaining microscopic phenomena.
+
+===============
+Theory
+===============
+
+
+Overall, the edifice of _______________ is beautiful and imposing and you will appreciate it more as you pursue the subject.
+
+===============
+physics
+===============
+
+
+_______________.
+
+===============
+Fig
+===============
+
+
+1.1  	_______________ and experiment go hand in hand in physics and help each other’s progress.
+
+===============
+Theory
+===============
+
+
+The alpha scattering experiments of _______________ gave the nuclear model of the atom.
+
+===============
+Rutherford
+===============
+
+
+You can now see that the scope of _______________ is truly vast.
+
+===============
+physics
+===============
+
+
+It covers a tremendous range of magnitude of physical _______________ like length, mass, time, energy, etc.
+
+===============
+quantities
+===============
+
+
+At one end, it studies phenomena at the very small scale of length (10-14 m or even less) involving _______________, protons, etc.
+
+===============
+electrons
+===============
+
+
+; at the other end, it deals with astronomical phenomena at the scale of _______________ or even the entire universe whose extent is of the order of 1026 m.  The two length scales differ by a factor of 1040 or even more.
+
+===============
+galaxies
+===============
+
+
+The range of time _______________ can be obtained by dividing the length _______________ by the speed of light : 10–22 s to 1018 s.  The range of masses goes from, say, 10–30 kg  (mass of an electron) to 1055 kg (mass of known observable universe).
+
+===============
+scales
+===============
+
+
+Terrestrial _______________ lie somewhere in the middle of this range.
+
+===============
+phenomena
+===============
+
+
+*  Recently, the domain intermediate between the macroscopic and the microscopic (the so-called mesoscopic physics), dealing with a few _______________ or hundreds of atoms, has emerged as an exciting  field of  research.
+
+===============
+tens
+===============
+
+
+Hypothesis, axioms and _______________
+One should not think that everything can be proved with physics and mathematics.
+
+===============
+models
+===============
+
+
+All physics, and also mathematics, is based on _______________, each of which is variously called a hypothesis or axiom or postulate, etc.
+
+===============
+assumptions
+===============
+
+
+For example, the universal law of gravitation proposed by _______________ is an assumption or hypothesis, which he proposed out of his ingenuity.
+
+===============
+Newton
+===============
+
+
+Before him, there were several observations, experiments and data, on the motion of _______________ around the sun, motion of the moon around the earth, pendulums, bodies falling towards the earth etc.
+
+===============
+planets
+===============
+
+
+What the universal law of gravitation says is that, if we assume that any two _______________ in the universe attract each other with a force proportional to the product of their masses and inversely proportional to the square of the distance between them, then we can explain all these observations in one stroke.
+
+===============
+bodies
+===============
+
+
+It not only explains these phenomena, it also allows us to predict the results of future _______________.
+
+===============
+experiments
+===============
+
+
+It can be verified and substantiated by experiments and _______________.
+
+===============
+observations
+===============
+
+
+An axiom is a self-evident truth while a model is a theory proposed to explain observed _______________.
+
+===============
+phenomena
+===============
+
+
+But you need not worry at this stage about the nuances in using these _______________.
+
+===============
+words
+===============
+
+
+For example, next year you will learn about _______________’s model of hydrogen atom, in which _______________ assumed that an electron in the hydrogen atom follows certain rules (postutates).
+
+===============
+Bohr
+===============
+
+
+There was a large amount of spectroscopic _______________ before him which no other theory could explain.
+
+===============
+data
+===============
+
+
+So _______________ said that if we assume that an atom behaves in such a manner, we can explain all these things at once.
+
+===============
+Bohr
+===============
+
+
+Einstein_______________s special theory of relativity is also based on two postulates, the constancy of the speed of electromagnetic radiation and the validity of physical laws in all inertial frame of reference.
+
+===============
+’
+===============
+
+
+In mathematics too, we need _______________ and hypotheses at every stage.
+
+===============
+axioms
+===============
+
+
+Euclid_______________s statement that parallel lines never meet, is a hypothesis.
+
+===============
+’
+===============
+
+
+This means that if we assume this statement, we can explain several properties of straight lines and two or three dimensional _______________ made out of them.
+
+===============
+figures
+===============
+
+
+But if you don’t assume it, you are free to use a different axiom and get a new geometry, as has indeed happened in the past few _______________ and decades.
+
+===============
+centuries
+===============
+
+
+_______________ is exciting in many ways.
+
+===============
+Physics
+===============
+
+
+To some people the excitement comes from the elegance and universality of its basic theories, from the fact that a few basic _______________ and laws can explain phenomena covering a large range of magnitude of physical quantities.
+
+===============
+concepts
+===============
+
+
+To some others, the challenge in carrying out imaginative new experiments to unlock the _______________ of nature, to verify or refute theories, is thrilling.
+
+===============
+secrets
+===============
+
+
+_______________ physics is equally demanding.
+
+===============
+Applied
+===============
+
+
+Application and exploitation of physical laws to make useful _______________ is the most interesting and exciting part and requires great ingenuity and persistence of effort.
+
+===============
+devices
+===============
+
+
+What lies behind the phenomenal progress of physics in the last few _______________?
+
+===============
+centuries
+===============
+
+
+_______________ progress usually accompanies changes in our basic perceptions.
+
+===============
+Great
+===============
+
+
+Quantitative measurement is central to the growth of science, especially physics, because the _______________ of nature happen to be expressible in precise mathematical equations.
+
+===============
+laws
+===============
+
+
+The second most important insight was that the basic _______________ of physics are universal — the same _______________ apply in widely different contexts.
+
+===============
+laws
+===============
+
+
+Most observed _______________ in daily life are rather complicated manifestations of the basic laws.
+
+===============
+phenomena
+===============
+
+
+Scientists recognised the importance of extracting the essential features of a phenomenon from its less significant _______________.
+
+===============
+aspects
+===============
+
+
+It is not practical to take into account all the _______________ of a phenomenon in one go.
+
+===============
+complexities
+===============
+
+
+A good strategy is to focus first on the essential features, discover the basic _______________ and then introduce corrections to build a more refined theory of the phenomenon.
+
+===============
+principles
+===============
+
+
+In that case, the two _______________ will fall almost at the same rate, giving the basic law that acceleration due to gravity is independent of the mass of the object.
+
+===============
+objects
+===============
+
+
+With the basic law thus found, we can go back to the feather, introduce _______________ due to air resistance, modify the existing theory and try to build a more realistic theory of objects falling to the earth under gravity.
+
+===============
+corrections
+===============
+
+
+1.3  _______________, technology and society 
+The connection between _______________, technology and society can be seen in many examples.
+
+===============
+physics
+===============
+
+
+The discipline of _______________ arose from the need to understand and improve the working of heat engines.
+
+===============
+thermodynamics
+===============
+
+
+The steam engine, as we know, is inseparable from the Industrial _______________ in England in the eighteenth century, which had great impact on the course of human civilisation.
+
+===============
+Revolution
+===============
+
+
+Sometimes technology gives rise to new _______________; at other times _______________ generates new technology.
+
+===============
+physics
+===============
+
+
+An example of the latter is the wireless communication technology that followed the discovery of the basic _______________ of electricity and magnetism in the nineteenth century.
+
+===============
+laws
+===============
+
+
+The _______________ of  physics are not always easy to foresee.
+
+===============
+applications
+===============
+
+
+As late as 1933, the great physicist _______________ Rutherford had dismissed the possibility of tapping energy from atoms.
+
+===============
+Ernest
+===============
+
+
+But only a few years later, in 1938, Hahn and _______________ discovered the phenomenon of neutron-induced fission of uranium, which would serve as the basis of nuclear power reactors and nuclear weapons.
+
+===============
+Meitner
+===============
+
+
+Yet another important example of physics giving rise to technology is the silicon _______________chip’ that triggered  the computer revolution in the last three decades of the twentieth century.
+
+===============
+‘
+===============
+
+
+A most significant area to which physics has and will contribute is the development of alternative energy _______________.
+
+===============
+resources
+===============
+
+
+The fossil fuels of the planet are dwindling fast and there is an urgent need to discover new and affordable _______________ of energy.
+
+===============
+sources
+===============
+
+
+_______________ lists some of the great physicists, their major contribution and the country of origin.
+
+===============
+Table1.1
+===============
+
+
+Table 1.2 lists some important technologies and the _______________ of physics  they  are  based on.
+
+===============
+principles
+===============
+
+
+Obviously,  these _______________ are not exhaustive.
+
+===============
+tables
+===============
+
+
+We urge you to try to add many names and _______________ to these tables with the help of your teachers, good books and websites on science.
+
+===============
+items
+===============
+
+
+Table 1.1 Some physicists from different _______________ of the world and their major contributions
+
+Physics is the study of nature and natural phenomena.
+
+===============
+countries
+===============
+
+
+Physicists try to discover the rules that are operating in nature, on the basis of _______________, experimentation and analysis.
+
+===============
+observations
+===============
+
+
+Physics _______________ with certain basic rules/laws governing the natural world.
+
+===============
+deals
+===============
+
+
+What is the nature of physical _______________?
+
+===============
+laws
+===============
+
+
+We shall now discuss the nature of fundamental _______________ and the laws that govern the diverse phenomena of the physical world.
+
+===============
+forces
+===============
+
+
+1.4  Fundamental _______________ in nature* 
+We all have an intuitive notion of force.
+
+===============
+forces
+===============
+
+
+In our experience, force is needed to push, carry or throw _______________, deform or break them.
+
+===============
+objects
+===============
+
+
+We also experience the impact of _______________ on us, like when a moving object hits us or we are in a merry-go-round.
+
+===============
+forces
+===============
+
+
+Early thinkers like _______________ had wrong ideas about it.
+
+===============
+Aristotle
+===============
+
+
+The correct notion of force was arrived at by Isaac _______________ in his famous laws of motion.
+
+===============
+Newton
+===============
+
+
+He also gave an explicit form for the force for gravitational attraction between two _______________.
+
+===============
+bodies
+===============
+
+
+We shall learn these _______________ in subsequent chapters.
+
+===============
+matters
+===============
+
+
+*  _______________ 1.4 and 1.5 contain several ideas that you may not grasp fully in your first reading.
+
+===============
+Sections
+===============
+
+
+However, we advise you to read them carefully to develop a feel for some basic aspects of  _______________.
+
+===============
+physics
+===============
+
+
+These are some of the areas which continue to occupy the _______________ today.
+
+===============
+physicists
+===============
+
+
+In the macroscopic world, besides the gravitational force, we encounter several kinds of _______________: muscular force, contact _______________ between bodies, friction (which is also a contact force parallel to the surfaces in contact), the _______________ exerted by compressed or elongated springs and taut strings and ropes (tension), the force of buoyancy and viscous force when solids are in contact with fluids, the force due to pressure of a fluid, the force due to surface tension of a liquid, and so on.
+
+===============
+forces
+===============
+
+
+There are also _______________ involving charged and magnetic bodies.
+
+===============
+forces
+===============
+
+
+In the microscopic domain again, we have electric and magnetic forces, nuclear forces involving protons and _______________, interatomic and intermolecular forces, etc.
+
+===============
+neutrons
+===============
+
+
+We shall get familiar with some of these _______________ in later parts of this course.
+
+===============
+forces
+===============
+
+
+T_______________ble 1.2  Link between technology _______________nd physics
+
+
+
+
+
+
+
+
+
+
+
+	_______________ gre_______________t insight of the twentieth century physics is th_______________t these different forces occurring  in different contexts _______________ctu_______________lly _______________rise from only _______________ sm_______________ll number of fund_______________ment_______________l forces in n_______________ture.
+
+===============
+A
+===============
+
+
+For example, the elastic spring force arises due to the net attraction/repulsion between the neighbouring _______________ of the spring when the spring is elongated/compressed.
+
+===============
+atoms
+===============
+
+
+This net attraction/repulsion can be traced to the (unbalanced) sum of electric _______________ between the charged constituents of the atoms.
+
+===============
+forces
+===============
+
+
+In principle, this means that the _______________ for ‘derived’ forces (such as spring force, friction) are not independent of the _______________ of fundamental forces in nature.
+
+===============
+laws
+===============
+
+
+The  origin of these derived _______________ is, however, very complex.
+
+===============
+forces
+===============
+
+
+At the present stage of our understanding, we know of four fundamental forces in nature, which are described in brief here :
+
+
+
+Albert Einstein (1879-1955)
+
+
+Albert Einstein, born in _______________, Germany in 1879, is universally regarded as one of the greatest physicists of all time.
+
+===============
+Ulm
+===============
+
+
+His astonishing scientific career began with the publication of three path-breaking _______________ in 1905.
+
+===============
+papers
+===============
+
+
+In the first paper, he introduced the notion of light _______________ (now called photons) and used it to explain the features of photoelectric effect that the classical wave theory of radiation could not account for.
+
+===============
+quanta
+===============
+
+
+In the second paper, he developed a theory of Brownian motion that was confirmed experimentally a few _______________ later and provided a convincing evidence of the atomic picture of matter.
+
+===============
+years
+===============
+
+
+The third paper gave birth to the special theory of relativity that made _______________ a legend in his own life time.
+
+===============
+Einstein
+===============
+
+
+In the next decade, he explored the consequences of his new theory which included, among other things, the mass-energy equivalence enshrined in his famous equation E _______________ mc2.
+
+===============
+=
+===============
+
+
+He also created the _______________ version of relativity (The _______________ Theory of Relativity), which is the modern theory of gravitation.
+
+===============
+General
+===============
+
+
+Some of Einstein_______________s most significant later contributions are: the notion of stimulated emission introduced in an alternative derivation of Planck_______________s blackbody radiation law, static model of the universe which started modern cosmology, quantum statistics of a gas of massive bosons, and a critical analysis of the foundations of quantum mechanics.
+
+===============
+’
+===============
+
+
+The _______________ 2005 was declared as International _______________ of Physics, in recognition of Einstein’s monumental contribution to physics, in _______________ 1905, describing revolutionary scientific ideas that have since influenced all of modern physics.
+
+===============
+Year
+===============
+
+
+1.4.1	_______________ Force
+The _______________ force is the force of mutual attraction between any two objects by virtue of their masses.
+
+===============
+Gravitational
+===============
+
+
+All _______________ on the earth, for example, experience the force of gravity due to the earth.
+
+===============
+objects
+===============
+
+
+In particular, gravity governs the motion of the moon and artificial _______________ around the earth, motion of the earth and planets around the sun, and, of course, the motion of bodies falling to the earth.
+
+===============
+satellites
+===============
+
+
+It plays a key role in the large-scale phenomena of the universe, such as formation and evolution of stars, galaxies and galactic _______________.
+
+===============
+clusters
+===============
+
+
+1.4.2	 Electromagnetic _______________
+Electromagnetic _______________ is the _______________ between charged particles.
+
+===============
+Force
+===============
+
+
+In the simpler case when charges are at rest, the force is given by _______________’s law : attractive for unlike charges and repulsive for like charges.
+
+===============
+Coulomb
+===============
+
+
+_______________ in motion produce magnetic effects and a magnetic field gives rise to a force on a moving charge.
+
+===============
+Charges
+===============
+
+
+_______________ and magnetic effects are, in general, inseparable – hence the name electromagnetic force.
+
+===============
+Electric
+===============
+
+
+Like the gravitational force, electromagnetic force acts over large _______________ and does not need any intervening medium.
+
+===============
+distances
+===============
+
+
+The electric force between two protons, for example, is 1036 _______________ the gravitational force between them, for any fixed distance.
+
+===============
+times
+===============
+
+
+Matter, as we know, consists of elementary charged constituents like _______________ and protons.
+
+===============
+electrons
+===============
+
+
+Since the electromagnetic force is so much stronger than the gravitational force, it dominates all phenomena at atomic and molecular _______________.
+
+===============
+scales
+===============
+
+
+(The other two _______________, as we shall see, operate only at nuclear scales.)
+
+===============
+forces
+===============
+
+
+Thus it is mainly the electromagnetic force that governs the structure of atoms and _______________, the dynamics of  chemical reactions and the mechanical, thermal and other properties of materials.
+
+===============
+molecules
+===============
+
+
+It underlies the macroscopic forces like  _______________tension’, _______________friction’, _______________normal force’, _______________spring force’, etc.
+
+===============
+‘
+===============
+
+
+_______________ is always attractive, while electromagnetic force can be attractive or repulsive.
+
+===============
+Gravity
+===============
+
+
+Another way of putting it is that mass comes only in one variety (there is no negative mass), but charge comes in two _______________ : positive and negative charge.
+
+===============
+varieties
+===============
+
+
+Thus, electric force is largely zero and gravitational force dominates terrestrial _______________.
+
+===============
+phenomena
+===============
+
+
+_______________ force manifests itself in atmosphere where the atoms are ionised and that leads to lightning.
+
+===============
+Electric
+===============
+
+
+Satyendranath Bose (1894-1974)
+
+Satyendranath Bose, born in _______________ in 1894, is among the great Indian physicists who made a fundamental contribution to the advance of science in the twentieth century.
+
+===============
+Calcutta
+===============
+
+
+An outstanding student throughout, _______________ started his career in 1916 as a lecturer in physics in Calcutta University; five years later he joined Dacca University.
+
+===============
+Bose
+===============
+
+
+Here in 1924, in a brilliant flash of insight, Bose gave a new derivation of _______________’s law, treating radiation as a gas of photons and employing new statistical methods of counting of photon states.
+
+===============
+Planck
+===============
+
+
+He wrote a short paper on the subject and sent it to Einstein who immediately recognised its great significance, translated it in _______________ and forwarded it for publication.
+
+===============
+German
+===============
+
+
+_______________ then applied the same method to a gas of molecules.
+
+===============
+Einstein
+===============
+
+
+The key new conceptual ingredient in _______________’s work was that the particles were regarded as indistinguishable, a radical departure from the assumption that underlies the classical Maxwell-Boltzmann statistics.
+
+===============
+Bose
+===============
+
+
+It was soon realised that the new Bose-Einstein statistics was applicable to particles with integers spins, and a new quantum statistics (Fermi-Dirac statistics) was needed for particles with half integers spins satisfying Pauli_______________s exclusion principle.
+
+===============
+’
+===============
+
+
+Particles with integers spins are now known as bosons in honour of _______________.
+
+===============
+Bose
+===============
+
+
+An important consequence of _______________ statistics is that a gas of molecules below a certain temperature will undergo a phase transition to a state where a large fraction of atoms populate the same lowest energy state.
+
+===============
+Bose-Einstein
+===============
+
+
+Some seventy years were to pass before the pioneering ideas of _______________, developed further by Einstein, were dramatically confirmed in the observation of a new state of matter in a dilute gas of ultra cold alkali atoms - the _______________-Eintein condensate.
+
+===============
+Bose
+===============
+
+
+When we hold a book in our hand, we are balancing the gravitational force on the book due to the huge mass of the earth by the _______________normal force’ provided by our hand.
+
+===============
+‘
+===============
+
+
+The latter is nothing but the net electromagnetic force between the charged _______________ of our hand and the book, at the surface in contact.
+
+===============
+constituents
+===============
+
+
+1.4.3  Strong Nuclear _______________
+The strong nuclear _______________ binds protons and neutrons in a nucleus.
+
+===============
+Force
+===============
+
+
+It is evident that without some attractive force, a nucleus will be unstable due to the electric repulsion between its _______________.
+
+===============
+protons
+===============
+
+
+The strong nuclear force  is  the strongest of all fundamental _______________, about 100 times the electromagnetic force in strength.
+
+===============
+forces
+===============
+
+
+Its range is, however, extremely small, of about nuclear _______________ (10–15m).
+
+===============
+dimensions
+===============
+
+
+Recent developments have, however, indicated that _______________ and neutrons are built out of still more elementary constituents called quarks.
+
+===============
+protons
+===============
+
+
+1.4.4  Weak _______________ Force
+The weak _______________ force appears only in certain _______________ processes such as the β-decay of a nucleus.
+
+===============
+Nuclear
+===============
+
+
+In _______________, the nucleus emits an electron and an uncharged particle called neutrino.
+
+===============
+β-decay
+===============
+
+
+The weak nuclear force is not as weak as the gravitational force, but much weaker than the strong nuclear and electromagnetic _______________.
+
+===============
+forces
+===============
+
+
+The range of weak nuclear force is exceedingly small, of the order of 10–16 m. 
+
+1.4.5  Towards Unification of  _______________
+We remarked in section 1.1 that unification is a basic quest in physics.
+
+===============
+Forces
+===============
+
+
+Great advances in _______________ often amount to unification of different theories and domains.
+
+===============
+physics
+===============
+
+
+_______________ unified terrestrial and celestial domains under a common law of gravitation.
+
+===============
+Newton
+===============
+
+
+The experimental discoveries of _______________ and Faraday showed that electric and magnetic phenomena are in general inseparable.
+
+===============
+Oersted
+===============
+
+
+_______________ unified electromagnetism and optics with the discovery that light is an electromagnetic wave.
+
+===============
+Maxwell
+===============
+
+
+But this did not deter physicists from zealously pursuing the goal of unification of _______________.
+
+===============
+forces
+===============
+
+
+We remarked in section 1.1 that unification is a basic quest in _______________.
+
+===============
+physics
+===============
+
+
+Table 1.3 Fundamental forces of nature
+_______________ decades have seen much progress on this front.
+
+===============
+Recent
+===============
+
+
+The electromagnetic and the weak nuclear force have now been unified and are seen as aspects of a single ‘electro-weak_______________ force.
+
+===============
+’
+===============
+
+
+_______________ have been (and are being) made to unify the electro-weak and the strong force and even to unify the gravitational force with the rest of the fundamental forces.
+
+===============
+Attempts
+===============
+
+
+Many of these _______________ are still speculative and inconclusive.
+
+===============
+ideas
+===============
+
+
+Table 1.4 summarises some of the milestones in the progress towards unification of _______________ in nature.
+
+===============
+forces
+===============
+
+
+Table 1.4 Progress in unification of different forces/domains in nature
+
+
+
+
+
+
+
+
+
+1.5 NATURE OF PHYSICAL _______________
+
+Physicists explore the universe.
+
+===============
+LAWS
+===============
+
+
+Their investigations, based on scientific processes, range from particles that are smaller than _______________ in size to stars that are very far away.
+
+===============
+atoms
+===============
+
+
+In
+addition to finding the facts by observation and experimentation, physicists attempt to discover the _______________ that summarise (often as mathematical equations) these facts.
+
+===============
+laws
+===============
+
+
+In any physical phenomenon governed by different forces, several _______________ may change
+with time.
+
+===============
+quantities
+===============
+
+
+A remarkable fact is that some special physical _______________, however, remain constant in time.
+
+===============
+quantities
+===============
+
+
+They are the conserved _______________ of nature.
+
+===============
+quantities
+===============
+
+
+Understanding these conservation _______________ is very important to describe the observed phenomena quantitatively.
+
+===============
+principles
+===============
+
+
+This law restricted for a conservative force should not be confused with the general law of conservation of energy of an isolated system (which is the basis of the _______________ Law of Thermodynamics).
+
+===============
+First
+===============
+
+
+The concept of energy is central to physics and the _______________ for energy can be written
+for every physical system.
+
+===============
+expressions
+===============
+
+
+When all _______________ of energy e.g., heat, mechanical energy, electrical energy etc., are counted, it turns out that energy is conserved.
+
+===============
+forms
+===============
+
+
+The general law of conservation of energy is true for all forces and for any kind of transformation between different _______________ of energy.
+
+===============
+forms
+===============
+
+
+In the falling object example, if you include the effect of air resistance during the fall and see the situation after the object hits the ground and _______________ there, the total mechanical energy is obviously not conserved.
+
+===============
+stays
+===============
+
+
+The initial potential energy of the stone gets transformed into other _______________ of energy : heat and sound.
+
+===============
+forms
+===============
+
+
+The total energy of the system (stone plus the _______________) remains unchanged.
+
+===============
+surroundings
+===============
+
+
+The law of conservation of energy is thought to be valid across all _______________ of nature, from the microscopic to the macroscopic.
+
+===============
+domains
+===============
+
+
+It is routinely applied in the analysis of atomic,
+nuclear and elementary particle _______________.
+
+===============
+processes
+===============
+
+
+At the other end, all kinds of violent _______________ occur in the universe all the time.
+
+===============
+phenomena
+===============
+
+
+Until the advent of Einstein_______________s theory of relativity, the law of conservation of mass was regarded as another basic conservation law of nature, since matter was thought to be indestructible.
+
+===============
+’
+===============
+
+
+It was (and still is) an important principle used, for example, in the analysis of chemical _______________.
+
+===============
+reactions
+===============
+
+
+A chemical reaction is basically a rearrangement of atoms among
+different _______________.
+
+===============
+molecules
+===============
+
+
+If the total binding energy of the reacting _______________ is less than the total binding energy of the product _______________, the difference appears as heat and the reaction is exothermic.
+
+===============
+molecules
+===============
+
+
+The opposite is true for energy absorbing (endothermic) _______________.
+
+===============
+reactions
+===============
+
+
+However, since the atoms are merely rearranged but not destroyed, the total mass of the _______________ is the same as the total mass of the products in a chemical reaction.
+
+===============
+reactants
+===============
+
+
+The _______________ in the binding energy are too small to be measured as _______________ in mass.
+
+===============
+changes
+===============
+
+
+According to _______________inst_______________in’s th_______________ory, mass m is _______________quival_______________nt to _______________n_______________rgy _______________ giv_______________n by th_______________ r_______________lation _______________ = mc2, wh_______________r_______________ c is sp______________________________d of light in vacuum.
+
+===============
+E
+===============
+
+
+This is the energy which is released in a nuclear power generation and nuclear _______________.
+
+===============
+explosions
+===============
+
+
+The concept of energy is central to physics and the _______________ for energy can be written for every physical system.
+
+===============
+expressions
+===============
+
+
+It is routinely applied in the analysis of atomic, nuclear and elementary particle _______________.
+
+===============
+processes
+===============
+
+
+A chemical reaction is basically a rearrangement of atoms among different _______________.
+
+===============
+molecules
+===============
+
+
+_______________ is a scalar quantity.
+
+===============
+Energy
+===============
+
+
+But all conserved quantities are not necessarily _______________.
+
+===============
+scalars
+===============
+
+
+The total linear momentum and the total angular momentum (both _______________) of an isolated system are also conserved quantities.
+
+===============
+vectors
+===============
+
+
+These laws can be derived from Newton_______________s laws of motion in mechanics.
+
+===============
+’
+===============
+
+
+But their validity goes beyond _______________.
+
+===============
+mechanics
+===============
+
+
+They are the basic conservation laws of nature in all domains, even in those where _______________’s laws may not be valid.
+
+===============
+Newton
+===============
+
+
+Sir C.V. _______________ (1888-1970)
+
+
+Chandrashekhara Venkata _______________  was born on 07 Nov 1888 in Thiruvanaikkaval.
+
+===============
+Raman
+===============
+
+
+He graduated from Presidency College, _______________.
+
+===============
+Madras
+===============
+
+
+After finishing his education he joined financial services of the Indian _______________.
+
+===============
+Government
+===============
+
+
+While in Kolkata, he started working on his area of interest at Indian Association for Cultivation of _______________ founded  by Dr. Mahendra Lal Sirkar, during his evening hours.
+
+===============
+Science
+===============
+
+
+His area of interest included vibrations, variety of musical _______________, ultrasonics, diffraction and so on.
+
+===============
+instruments
+===============
+
+
+In 1917 he was offered Professorship at Calcutta _______________.
+
+===============
+University
+===============
+
+
+In 1924 he was elected ‘Fellow’ of the _______________ Society of London and received Nobel prize in Physics in 1930 for his discovery, now known as Raman Effect.
+
+===============
+Royal
+===============
+
+
+The Raman _______________ deals with scattering of light by molecules of a medium when they are excited to vibrational energy levels.
+
+===============
+Effect
+===============
+
+
+This work opened totally new avenues for research for _______________ to come.
+
+===============
+years
+===============
+
+
+He spent his later years at _______________, first at Indian Institute of Science and then at Raman Research Institute.
+
+===============
+Bangalore
+===============
+
+
+His work has inspired generation of young _______________.
+
+===============
+students
+===============
+
+
+Besides their great simplicity and generality, the conservation _______________ of nature are very useful in practice too.
+
+===============
+laws
+===============
+
+
+It often happens that we cannot solve the full dynamics of a complex problem involving different particles and _______________.
+
+===============
+forces
+===============
+
+
+The conservation _______________ can still provide useful results.
+
+===============
+laws
+===============
+
+
+For example, we may not know the complicated forces that act during a collision of two automobiles; yet momentum conservation law enables us to bypass the _______________ and predict or rule out possible outcomes of the collision.
+
+===============
+complications
+===============
+
+
+In nuclear and elementary particle phenomena also, the conservation laws are important _______________ of analysis.
+
+===============
+tools
+===============
+
+
+Indeed, using the conservation laws of energy and momentum for β-decay, Wolfgang _______________ (1900-1958) correctly predicted in 1931 the existence of a new particle (now called neutrino) emitted in β-decay along with the electron.
+
+===============
+Pauli
+===============
+
+
+_______________ laws have a deep connection with symmetries of nature that you will explore in more advanced courses in physics.
+
+===============
+Conservation
+===============
+
+
+For example, an important observation is that the _______________ of nature do not change with time!
+
+===============
+laws
+===============
+
+
+If you perform an experiment in your laboratory today and repeat the same experiment (on the same _______________ under identical conditions) after a year, the results are bound to be the same.
+
+===============
+objects
+===============
+
+
+To put it more clearly, the _______________ of nature are the same everywhere in the universe.
+
+===============
+laws
+===============
+
+
+(Caution : the phenomena may differ from place to place because of differing _______________ at different locations.
+
+===============
+conditions
+===============
+
+
+This symmetry of the _______________ of nature with respect to translation in space gives rise to conservation of linear momentum.
+
+===============
+laws
+===============
+
+
+The conservation laws of charge and other attributes of elementary particles can also be related to certain abstract _______________.
+
+===============
+symmetries
+===============
+
+
+_______________ of space and time and other abstract _______________ play a central role in modern theories of fundamental forces in nature.
+
+===============
+Symmetries
+===============
+
+
+_______________ laws in physics
+_______________ of energy, momentum, angular momentum, charge, etc are considered to be fundamental laws in physics.
+
+===============
+Conservation
+===============
+
+
+At this moment, there are many such conservation _______________.
+
+===============
+laws
+===============
+
+
+Apart from the above four, there are others which mostly deal with quantities which have been introduced in nuclear and particle _______________.
+
+===============
+physics
+===============
+
+
+Some of the conserved _______________ are called spin, baryon number, strangeness, hypercharge, etc, but you need not worry about them.
+
+===============
+quantities
+===============
+
+
+A conservation law is a hypothesis, based on observations and _______________.
+
+===============
+experiments
+===============
+
+
+It can be verified, or disproved, by _______________.
+
+===============
+experiments
+===============
+
+
+An experiment whose result is  in conformity with the law _______________ or substantiates the law; it does not prove the law.
+
+===============
+verifies
+===============
+
+
+This law is an outcome of our experience over several centuries, and it has been found to be valid in all _______________, in mechanics, thermodynamics, electromagnetism, optics, atomic and nuclear physics, or any other area.
+
+===============
+experiments
+===============
+
+
+Some _______________ feel that they can prove the conservation of mechanical energy from a body falling under gravity, by adding the kinetic and potential energies at a point and showing that it turns out to be constant.
+
+===============
+students
+===============
+
+
+_______________
+
+
+
+_______________
+1.
+
+===============
+Summary
+===============
+
+
+Physics deals with the study of the basic laws of nature and their manifestation in different _______________.
+
+===============
+phenomena
+===============
+
+
+The basic _______________ of physics are universal and apply in widely different contexts and conditions.
+
+===============
+laws
+===============
+
+
+The scope of _______________ is wide, covering a tremendous range of magnitude of physical quantities.
+
+===============
+physics
+===============
+
+
+_______________ and technology are related to each other.
+
+===============
+Physics
+===============
+
+
+There are four fundamental _______________ in nature that govern the diverse phenomena of the macroscopic and the microscopic world.
+
+===============
+forces
+===============
+
+
+These are the _______________gravitational force’, the _______________electromagnetic force’, the _______________strong nuclear force’, and the _______________weak nuclear force’.
+
+===============
+‘
+===============
+
+
+Unification of different forces/domains in nature is a basic quest in _______________.
+
+===============
+physics
+===============
+
+
+The physical _______________ that remain unchanged in a process are called conserved _______________.
+
+===============
+quantities
+===============
+
+
+Some of the general conservation _______________ in nature include the _______________ of conservation of mass, energy, linear momentum, angular momentum, charge, parity, etc.
+
+===============
+laws
+===============
+
+
+Some conservation _______________ are true for one fundamental force but not for the other.
+
+===============
+laws
+===============
+
+
+_______________ laws have a deep connection with symmetries of nature.
+
+===============
+Conservation
+===============
+
+
+Symmetries of space and time, and other _______________ of symmetries play a central role in modern theories of fundamental forces in nature.
+
+===============
+types
+===============
+
+
+Exercises
+Note for the student
+The exercises given here are meant to enhance your awareness about the _______________ surrounding science, technology and society and to encourage you to think and formulate your views about them.
+
+===============
+issues
+===============
+
+
+The questions may not have clear-cut _______________objective’ answers.
+
+===============
+‘
+===============
+
+
+Note for the teacher
+The _______________ given here are not  for the purpose of a formal examination.
+
+===============
+exercises
+===============
+
+
+1.1	Some of the most profound statements on the nature of science have come from Albert _______________, one of the greatest scientists of all time.
+
+===============
+Einstein
+===============
+
+
+What do you think did _______________ mean when he said :  “The most incomprehensible thing about the world is that it is comprehensible”?
+
+===============
+Einstein
+===============
+
+
+1.2	“_______________ great physical theory starts as a heresy and ends as a dogma”.
+
+===============
+Every
+===============
+
+
+Give some _______________ from the history of science of the validity of this incisive remark.
+
+===============
+examples
+===============
+
+
+Similarly, “_______________ is the art of the soluble”.
+
+===============
+Science
+===============
+
+
+1.4	Though _______________ now has a large base in science and technology, which is fast expanding, it is still a long way from realising its potential of becoming a world leader in science.
+
+===============
+India
+===============
+
+
+Name some important factors, which in your view have hindered the advancement of science in _______________.
+
+===============
+India
+===============
+
+
+1.5	No physicist has ever “seen_______________ an electron.
+
+===============
+”
+===============
+
+
+Yet, all physicists believe in the existence of _______________.
+
+===============
+electrons
+===============
+
+
+An intelligent but superstitious man advances this analogy to argue that ‘ghosts_______________ exist even though no one has ‘seen_______________ one.
+
+===============
+’
+===============
+
+
+1.6	The shells of crabs found around a particular coastal location in _______________ seem mostly to resemble the legendary face of a Samurai.
+
+===============
+Japan
+===============
+
+
+Given below are two _______________ of this observed fact.
+
+===============
+explanations
+===============
+
+
+_______________ of these strikes you as a scientific explanation ?
+
+===============
+Which
+===============
+
+
+(a)  	A tragic sea accident several centuries ago drowned a young _______________.
+
+===============
+Samurai
+===============
+
+
+As a tribute to his bravery, nature through its inscrutable ways immortalised his face by imprinting it on the crab _______________ in that area.
+
+===============
+shells
+===============
+
+
+(b)  	After the sea tragedy, fishermen in that  area, in a gesture of honour to their dead hero, let free any crab shell caught by them which accidentally had a shape resembling the face of a _______________.
+
+===============
+Samurai
+===============
+
+
+[Note : This interesting illustration taken from Carl Sagan_______________s ‘The Cosmos_______________ highlights the fact that often strange and inexplicable facts which on the first sight appear ‘supernatural_______________ actually turn out to have simple scientific explanations.
+
+===============
+’
+===============
+
+
+Try to think out other _______________ of this kind].
+
+===============
+examples
+===============
+
+
+1.7	The industrial revolution in England and Western _______________ more than two centuries ago was triggered by some key scientific and technological advances.
+
+===============
+Europe
+===============
+
+
+What were these _______________ ?
+
+===============
+advances
+===============
+
+
+List some key contemporary _______________ of science and technology, which are responsible for this revolution.
+
+===============
+areas
+===============
+
+
+1.9	_______________ in about 1000 words a fiction piece based on your speculation on the science and technology of the twenty-second century.
+
+===============
+Write
+===============
+
+
+1.10	_______________ to formulate your ‘moral’ views on the practice of science.
+
+===============
+Attempt
+===============
+
+
+_______________ yourself stumbling upon a discovery, which has great academic interest but is certain to have nothing but dangerous consequences for the human society.
+
+===============
+Imagine
+===============
+
+
+1.11	_______________, like any knowledge, can be put to good or bad use, depending on the user.
+
+===============
+Science
+===============
+
+
+Given _______________ are some of the applications of science.
+
+===============
+below
+===============
+
+
+_______________ your views on whether the particular application is good, bad or something that cannot be so clearly categorised :
+(a)	Mass vaccination against small pox to curb and finally eradicate this disease from the population.
+
+===============
+Formulate
+===============
+
+
+(This has already been successfully done in _______________).
+
+===============
+India
+===============
+
+
+(b)	Television for eradication of illiteracy and for mass communication of news and _______________.
+
+===============
+ideas
+===============
+
+
+(c)	Prenatal sex determination
+(d)	Computers for increase in work efficiency
+(e)	Putting artificial satellites into orbits  around the Earth
+(f ) 	_______________ of nuclear weapons
+(g)	_______________ of new and powerful techniques of chemical and biological warfare).
+
+===============
+Development
+===============
+
+
+(h)	Purification of water for drinking
+(i)	Plastic surgery
+(j )	Cloning
+1.12	_______________ has had a long and unbroken tradition of great scholarship — in mathematics, astronomy, linguistics, logic and ethics.
+
+===============
+India
+===============
+
+
+Yet, in parallel with this, several superstitious and obscurantistic  attitudes and practices flourished in our society and unfortunately continue even today _______________ among many educated people too.
+
+===============
+—
+===============
+
+
+How will you use your knowledge of science to develop strategies to counter these _______________ ?
+
+===============
+attitudes
+===============
+
+
+1.13	Though the law gives women equal status in India, many people hold unscientific views on a woman_______________s innate nature, capacity and intelligence, and in practice give them a secondary status and role.
+
+===============
+’
+===============
+
+
+Demolish this view using scientific arguments, and by quoting examples of great _______________ in science and other spheres; and persuade yourself and others that, given equal opportunity, _______________ are on par with men.
+
+===============
+women
+===============
+
+
+1.14	“It is more important to have beauty in the _______________ of physics than to have them agree with experiments”.
+
+===============
+equations
+===============
+
+
+The great British physicist _______________ A. M. Dirac held this view.
+
+===============
+P.
+===============
+
+
+Look out for some _______________ and results in this book which strike you as beautiful.
+
+===============
+equations
+===============
+
+
+1.15 Though the statement quoted above may be disputed, most physicists do have a feeling that the great _______________ of physics are at once simple and beautiful.
+
+===============
+laws
+===============
+
+
+Some of the notable physicists, besides Dirac, who have articulated this feeling, are : Einstein, Bohr, Heisenberg, _______________ and Feynman.
+
+===============
+Chandrasekhar
+===============
+
+
+You are urged to make special efforts to get access to the general books and writings by these and other great _______________ of physics.
+
+===============
+masters
+===============
+
+
+(See the _______________ at the end of this book.)
+
+===============
+Bibliography
+===============
+
+
+Their _______________ are truly inspiring!
+
+===============
+writings
+===============
+
+
+1.16	_______________ on science may give you a wrong impression that studying science is dry and all too serious and that scientists are absent-minded introverts who never laugh or grin.
+
+===============
+Textbooks
+===============
+
+
+This image of science and _______________ is patently false.
+
+===============
+scientists
+===============
+
+
+_______________, like any other group of humans, have their share of humorists, and many have led their lives with a great sense of fun and adventure, even as they seriously pursued their scientific work.
+
+===============
+Scientists
+===============
+
+
+Two great physicists of this genre are Gamow and _______________.
+
+===============
+Feynman
+===============
+
+
+You will enjoy reading their books listed in the _______________.
+
+===============
+Bibliography
+===============
+
+
+EXERCISES
+
+_______________ for the student
+The exercises given here are meant to enhance your awareness about the issues surrounding science, technology and society and to encourage you to think and formulate your views about them.
+
+===============
+Note
+===============
+
+
+Note for the teacher
+The _______________ given here are not for the purpose of a formal examination.
+
+===============
+exercises
+===============
+
+
+1.1 Some of the most profound statements on the nature of science have come from Albert _______________, one of the greatest scientists of all time.
+
+===============
+Einstein
+===============
+
+
+What do you think did _______________ mean when he said : “The most incomprehensible thing about the world is that it is comprehensible”?
+
+===============
+Einstein
+===============
+
+
+1.2 “_______________ great physical theory starts as a heresy and ends as a dogma”.
+
+===============
+Every
+===============
+
+
+1.4 Though _______________ now has a large base in science and technology, which is fast expanding, it is still a long way from realising its potential of becoming a world leader in science.
+
+===============
+India
+===============
+
+
+1.5 No physicist has ever “seen_______________ an electron.
+
+===============
+”
+===============
+
+
+1.6 The shells of crabs found around a particular coastal location in Japan seem mostly to resemble the legendary face of a _______________.
+
+===============
+Samurai
+===============
+
+
+(a) A tragic sea accident several centuries ago drowned a young _______________.
+
+===============
+Samurai
+===============
+
+
+(b) After the sea tragedy, fishermen in that area, in a gesture of honour to their dead hero, let free any crab shell caught by them which accidentally had a shape resembling the face of a _______________.
+
+===============
+Samurai
+===============
+
+
+1.7 The industrial revolution in _______________ and Western Europe more than two centuries ago was triggered by some key scientific and technological advances.
+
+===============
+England
+===============
+
+
+1.9 _______________ in about 1000 words a fiction piece based on your speculation on the science and technology of the twenty-second century.
+
+===============
+Write
+===============
+
+
+1.10 _______________ to formulate your ‘moral’ views on the practice of science.
+
+===============
+Attempt
+===============
+
+
+1.11 _______________, like any knowledge, can be put to good or bad use, depending on the user.
+
+===============
+Science
+===============
+
+
+_______________ your views on whether the particular application is good, bad or something that cannot be so clearly categorised :
+(a) Mass vaccination against small pox to curb and finally eradicate this disease from the population.
+
+===============
+Formulate
+===============
+
+
+(b) Television for eradication of illiteracy and for mass communication of news and _______________.
+
+===============
+ideas
+===============
+
+
+(c) _______________ sex determination
+(d) Computers for increase in work efficiency
+(e) Putting artificial satellites into orbits around the Earth
+(f ) Development of nuclear weapons
+(g) Development of new and powerful techniques of chemical and biological warfare).
+
+===============
+Prenatal
+===============
+
+
+(h) Purification of water for drinking
+(i) Plastic surgery
+(j ) Cloning
+1.12 _______________ has had a long and unbroken tradition of great scholarship — in mathematics, astronomy, linguistics, logic and ethics.
+
+===============
+India
+===============
+
+
+Yet, in parallel with this, several superstitious and obscurantistic attitudes and practices flourished in our society and unfortunately continue even today _______________ among many educated people too.
+
+===============
+—
+===============
+
+
+1.13 Though the law gives women equal status in _______________, many people hold unscientific views on a woman’s innate nature, capacity and intelligence, and in practice give them a secondary status and role.
+
+===============
+India
+===============
+
+
+1.14 “It is more important to have beauty in the _______________ of physics than to have them agree with experiments”.
+
+===============
+equations
+===============
+
+
+Their _______________ are truly inspiring !
+
+===============
+writings
+===============
+
+
+1.16 _______________ on science may give you a wrong impression that studying science is dry and all too serious and that scientists are absent-minded introverts who never laugh or grin.
+
+===============
+Textbooks
+===============
+
+
+Table of Contents
+
+
+_______________ One
+
+
+Physical World
+
+
+1.1 What is physics?
+
+===============
+Chapter
+===============
+
+
+1.2 Scope and excitement of physics
+
+
+1.3 Physics, technology and society
+
+
+1.4 Fundamental forces in nature*
+
+
+1.5 NATURE OF PHYSICAL LAWS
+
+
+_______________
+
+
+EXERCISES
+
+
+
+
+
+
+Landmarks
+
+
+Cover
+
+
+
+
+
+
+
+
+        Chapter One
+        PHYSICAL WORLD
+
+===============
+Summary
+===============
+
+

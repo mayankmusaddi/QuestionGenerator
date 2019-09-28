@@ -70,7 +70,7 @@ def process(text):
     return sposs
 
 
-def main():
+def main(text):
     sposs = process(text)
     # print(sposs)
 
@@ -108,5 +108,5 @@ if __name__ == "__main__":
         else:
             text = read_data(file_path)
             # print(text)
-            main()
+            main(text)
             
