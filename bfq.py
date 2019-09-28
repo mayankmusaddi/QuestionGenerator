@@ -26,8 +26,10 @@ def remove_word(sentence,poss):
     if 'NNP' in poss:
         words = poss['NNP'] 
         ## Will output this in the json file. All the words which can be replaced and the sentences.
-    elif 'NN' in poss:
-        words = poss['NN']
+    elif 'NNS' in poss:
+        words = poss['NNS']
+    # elif 'NN' in poss:
+        # words = poss['NN']
     else:
         ## Skip the sentences which do not have a proper noun or a noun.
         ## Will have to add co-referencing for these sentences.
@@ -70,21 +72,26 @@ def process(text):
 
 def main():
     sposs = process(text)
-    print(sposs)
-    # for sentence in sposs.keys():
-    #     poss = sposs[sentence]
-    
-    # (word,original,replaced) = remove_word(sentence,poss)
+    # print(sposs)
 
-    # if replaced is None:
-    #     pass
-    # else:
-    #     print(replaced)
-    #     print ("\n===============")
-    #     print(word)
-    #     print ("===============")
-    #     print("\n")
-        
+    for sentence in sposs.keys():
+
+        poss = sposs[sentence]
+        # print(sentence,poss)
+        # print()
+        # print()
+    
+        (word,original,replaced) = remove_word(sentence,poss)
+
+        if replaced is None:
+            pass
+        else:
+            print(replaced)
+            print ("\n===============")
+            print(word)
+            print ("===============")
+            print("\n")
+            
 
 if __name__ == "__main__":
     command = ''
