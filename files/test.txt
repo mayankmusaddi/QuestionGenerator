@@ -1,0 +1,153 @@
+['physical', 'world', 'physic', 'scope', 'excitement', 'technology', 'society', 'fundamental', 'human', 'curious']
+(c)	The square of the orbital period of a planet is proportional to the cube of the   semi-major axis of the elliptical orbit of the planet
+	The period T and radius R of the circular orbit of a planet about the Sun are related by
+ 
+	where Ms is the mass of the Sun.
+If a particle is outside a uniform spherical shell or solid sphere with a spherically symmetric internal mass distribution, the sphere attracts the particle as though the mass of the sphere or shell were concentrated at the centre of the sphere.
+For two special cases, a  simple law results when you do that :
+(1)	The force of attraction between a hollow spherical shell of uniform density and a point mass situated outside is just as if the entire mass of the shell is concentrated at the centre of the shell.
+The gravitational potential due to the gravitational force of the earth is defined as the potential energy of  a particle of unit mass at that point.
+If m is the mass of the satellite and V its speed, the centripetal force required for this orbit is 
+We note that the orbits of all planets except Mercury, Mars and Pluto* are very close to being circular.
+Stated Mathematically, Newton’s gravitation law reads : The force F on a point mass m2 due to another point mass m1 has the magnitude
+Equation (8.5) can be expressed in vector form as 
+where G is the universal gravitational constant, is the unit vector from m1 to m2 and r = r2 – r1 as shown in Fig.
+If we consider a point at a height h1 from the surface of the earth and another point vertically above it at a height h2 from the surface, the work done in lifting the particle of mass m from the first to the second position is denoted by W12
+ W12 = Force × displacement
+	      = mg (h2 – h1)                                                        (8.20)
+If we associate a potential energy W(h) at a point at a height h above the surface such that
+ W(h) = mgh  + Wo                                                   (8.21)
+(where Wo = constant) ; 
+then it is clear that 
+ W12 = W(h2)  – W(h1)                                            (8.22)
+The work done in moving the particle is just the difference of potential energy between its final and initial positions.Observe that the constant Wo cancels out in Eq.
+As far as the smaller  sphere of radius  ( RE  – d  ) is concerned, the point mass is outside it and hence according to the result quoted earlier, the force due to this smaller sphere is just as if the entire mass of the smaller sphere is concentrated at the centre.
+Newton’s law of universal gravitation states that the gravitational force of attraction between any two particles of masses m1 and m2 separated by a distance r has the magnitude
+ where G is the universal gravitational constant, which has the value  6.672 ×10–11 N m2 kg–2.
+On the other hand the mass of the sphere Mr of radius r is  and hence 
+If the mass m is situated on the surface of earth, then  r = RE and the gravitational force on it is, from Eq.
+Kepler’s laws of planetary motion state that
+(a)	All planets move in elliptical orbits with the Sun at one of the focal points
+(b)	The radius vector drawn from the Sun to a planet sweeps out equal areas in equal time intervals.
+From the earlier discussion, we learn that the gravitational potential energy associated with two particles of masses m1 and m2 separated by distance by a distance r is given by
+ (if we choose V = 0 as r → ∞ )
+It should be noted that an isolated system of particles will have the total potential energy that equals the sum of energies (given by the above equation) for all possible pairs of its constituent particles.
+If we have a collection of point masses, the force on any one of them is the vector sum of the gravitational forces exerted by the other point masses as shown in Fig 8.4.
+In a satellite around the earth, every part and parcel of the satellite has an acceleration towards the centre of the earth which is exactly the value of earth’s acceleration due to gravity at that position.
+Thus the force on the mass m at P has a magnitude 
+We assume that the entire earth is of uniform density and hence its mass is  where ME is the mass of the earth RE is its radius and ρ is the density.
+If an isolated system consists of a particle of mass m moving with a speed v in the vicinity of a massive body of mass M, the total mechanical energy of the particle is given by
+	That is, the total mechanical energy is the sum of the kinetic and potential energies.
+Satellites in a circular orbits around the earth in the equatorial plane with T = 24 hours are called Geostationery Satellites.
+8.8 (b)	g at a depth d. In this case only the smaller sphere of radius (RE–d) contributes to g.
+Thus the force on the point mass is 
+ F (d)  =   G Ms  m  /  (RE  – d ) 2                                                  (8.17)
+	Substituting for  Ms  from above , we get
+ F (d)   =  G ME m ( RE – d ) /  RE 3                                          (8.18) 
+and hence the acceleration due to gravity at a depth d,
+ g(d) = is 
+Thus, as we go down below earth’s surface, the acceleration due gravity decreases by a factor The remarkable thing about acceleration due to earth’s gravity is that it is maximum on its surface decreasing whether you go up or down.
+The force of gravity is a conservative force and we can calculate the potential energy of a body arising out of this force, called the gravitational potential energy.
+(b) Now if the mass at vertex A is doubled then
+For the gravitational force between an extended object (like the earth) and a point mass, Eq.
+Thus, all the shells exert a gravitational force at the point outside just as if their masses are concentrated at their common centre according to the result stated in section 8.3.
+If Ms is the mass of the smaller sphere, then, 
+ Ms/ME = ( RE – d)3  / RE3                                            ( 8.16) 
+Since  mass of a sphere is proportional to be cube of its radius.
+Hence according to result stated in the last section, they exert no gravitational force on mass m kept at P.  The shells with radius ≤ r make up a sphere of radius r for which the point P lies on the surface.
+Law of periods : The square of the time period of revolution of a planet is proportional to the cube of the semi-major axis of the ellipse traced out by  the planet.
+Law of orbits : All planets move in elliptical orbits with the Sun situated at one of the  foci of the ellipse (Fig.
+if we presume that the potential energy of the object at infinity is zero), the gravitational potential energy of an object is negative.
+This smaller sphere therefore exerts a force on a mass m at P as if its mass Mr is concentrated at the centre.
+We have  calculated the potential energy at a point of a particle  due to gravitational forces on it due to the earth and it is proportional to the mass of the particle.
+This force also satisfies the requirement F = F(r), since F = G m1m2/r2 where m1and m2 are respectively the masses of the planet and the sun and G is the universal constant of gravitation.
+However, from our discussion we know that a point outside the earth, the force of gravitation on a particle directed towards the centre of the earth is  
+where ME = mass of earth, m = mass of the particle and r its distance from the centre of the earth.
+However, (unlike a metallic shell which shields electrical forces) the shell does not shield other bodies outside it from exerting gravitational forces on a particle inside.
+ISRO develops and delivers application specific satellite products and tools for broadcasts, communication, weather forecasts, disaster management tools, Geographic Information System, cartography, navigation, telemedicine, dedicated distance education satellite etc.
+The total mass of all the shells combined is just the mass of the earth.
+Although the gravitational force between two particles is central, the force between two finite rigid bodies is not necessarily along the line joining their centre of mass.
+The INSAT  group of satellites sent up by India are one such group of Geostationary satellites widely used for telecommunications in India.
+If the circular orbit is in the equatorial plane of the earth, such a satellite, having the same period as the period of rotation of the earth about its own axis would appear stationery viewed from a point on earth.
+Qualitatively this can be understood as follows: Gravitational forces caused by the various regions of the shell have components along the line joining the point mass to the centre as well as along a direction prependicular to this line.
+Hence, at a point outside the earth, the gravitational force is just as if its entire mass of the earth is concentrated at its centre.
+The commonly encountered expression m g h for the potential energy is actually an approximation to the difference in the gravitational potential energy discussed in the point 6, above.
+A central force is such that  the force on the planet is along the vector joining the Sun and the planet.
+The gravitational force between the spherical balls is the same as if their masses are concentrated at their centres.
+Thus if d is the separation between the centres of the big and its neighbouring small ball, M and m their masses, the gravitational force between the big sphere and its neighouring small ball is.
+The gravitational force of the sun on the planet is directed towards the sun.
+In 2001, the Geosynchronous Satellite Launch Vehicle (GSLV) was developed for launching heavier and more demanding Geosynchronous communication satellites.
+Moon is the only natural satellite of the earth with a near circular orbit with a time period of approximately 27.3 days which is also roughly equal to the rotational period of the moon about its own axis.
+For a spherically symmetric body however the force on a particle external to the body is as if the mass is concentrated at the centre and this force is therefore central.
+These observations led Newton to propose the following Universal Law of Gravitation : 
+Every body in the universe attracts every other body with a force which is directly proportional to the product of their masses and inversely proportional to the square of the distance between them.
+Another class of satellites are called the Polar satellites (Fig.
+(2)	The force of attraction due to a hollow spherical shell of uniform density, on a point mass situated inside it is zero.
+Each point mass in the extended object will exert a force on the given point mass and these force will not all be in the same direction.
+India launched its first low orbit satellite Aryabhata in 1975, for which the launch vehicle was provided by the erstwhile Soviet Union.
+An immediate application of the above discussion can be made to the motion of a planet under the gravitational force of the sun.
+As before W1 denotes that gravitational potential energy of the object at infinity.
+The  gravitational force is attractive, i.e., the force F is along – r. The force on point mass m1 due to m2 is of course – F by Newton’s third law.
+If we have to find the resultant gravitational force acting on the particle m due to a number of masses M1, M2, ….Mn etc.
+Various regions of the spherical shell attract the point mass inside it in various directions.
+Their motion is very similar to the motion of planets around the Sun and hence Kepler’s laws of planetary motion are equally applicable to them.
+The total energy of an circularly orbiting satellite is thus negative, with the potential energy being negative but twice is magnitude of the positive kinetic energy.
+A thousand years later, a Polish monk named Nicolas Copernicus (1473-1543) proposed a definitive model in which the planets moved in circles around a fixed central sun.
+The gravitational force on a particle inside a spherical shell is zero.
+If a particle is inside a uniform spherical shell, the gravitational force on the particle is zero.
+The value of the gravitational constant G entering the Universal law of gravitation  can be determined experimentally and this was first done by English scientist Henry Cavendish in 1798.
+Then the area swept out by the planet of mass m in time interval ∆t is (Fig.
+A geostationary (geosynchronous communication) satellite moves in a circular orbit in the equatorial plane at a approximate distance of 4.22 × 104 km from the earth’s centre.
+These are low altitude (h ≈  500 to 800 km) satellites, but they go around the poles of the earth in a north-south direction whereas the earth rotates around its axis in an east-west direction.
+Again consider the earth  to be made up of concentric shells as before and a point mass m situated at a distance r from the centre.
+Due to this torque, the suspended wire  gets twisted till such time as the restoring torque of the wire equals the gravitational torque .
+The gravitational potential energy associated with two particles separated by a distance r is given by
+ where V is taken to be zero at r → ∞.
+The gravitational potential energy associated with two particles separated by a distance r is given by
+ 
+	The constant can be given any value.
+The gravitational force is a conservative force, and therefore a potential energy function can be defined.
+Choosing location of zero of the gravitational energy is the same as choosing the arbitrary constant in the potential energy.
+The total energy of the projectile at infinity then is
+Earth satellites are objects which revolve around the earth.
+Most planets have nearly circular orbits about the Sun.
+When the orbit of a satellite becomes elliptic, both the K.E.
+We will consider a satellite in a circular orbit of a distance (RE + h) from the centre of the earth, where RE = radius of the earth.
+This follows from the fact that the force of gravitation on the planet is central and hence angular momentum is conserved.
+The earth can be thought of as being composed of a smaller sphere of radius  (RE  – d )  and a spherical shell of thickness d.  The force on m due to the outer shell of thickness  d is zero because the result quoted in the previous section.
+Thus, in a manned satellite, people inside experience no gravity.
+ISRO started employing its indigenous launching vehicle in 1979 by sending Rohini series of satellites into space from its main launch site at Satish Dhawan Space Center, Sriharikota, Andhra Pradesh.
+From the principle of superposition and the law of vector addition, the resultant gravitational force	 FR on (2m) is 
+  FR  =  FGA + FGB + FGC 
+Alternatively, one expects on the basis of symmetry that the resultant force ought to be zero.
+Historically it was the Italian Physicist Galileo (1564-1642) who recognised the fact that all bodies, irrespective of their masses, are accelerated towards the earth with a constant acceleration.
+Similarly, LA = mp rA vA. From angular momentum conservation
+	mp rp vp = mp rA vA 
+or	
+Since rA   > rp, vp > vA .
+8.1(a) be vP  and the Sun-planet distance SP be rP.
+The earliest recorded model for planetary motions proposed by Ptolemy about 2000 years ago was a ‘geocentric’ model in which all celestial objects, stars, the sun and the planets, all revolved around the earth.
+Since, 1957, advances in technology have enabled many countries including India to launch artificial earth satellites for practical use in fields like telecommunication, geophysics and meteorology.
+Thus, the gravitational force F12 on the body 1 due to 2 and F21 on the body 2 due to 1 are related as F12 = – F21.
+(8.3), we get a value of am much smaller than the value of acceleration due to gravity g on the surface of the earth, arising also due to earth’s gravitational attraction.
+For the next revolution of the satellite, the earth has rotated a little on its axis so that an adjacent strip becomes visible.
+It takes very powerful rockets to throw up a satellite to such large heights above the earth but this has been done in view of the several benefits of many practical applications.
+The point  P lies outside the sphere of radius r.  For the shells of radius greater than r, the point P lies inside.
+This is because  the spring is  pulled down a little by the gravitational pull of the object and in turn the spring exerts a force on the object vertically upwards.
+In considering motion of an object under the gravitational influence of another object the following quantities are conserved:
+	(a)  Angular momentum
+	(b)  Total mechanical energy
+	Linear momentum is not conserved
+2.
+Newton’s reasoning was that the moon revolving in an orbit of radius Rm was subject to a centripetal acceleration due to earth’s gravity of magnitude 
+where V is the speed of the moon related to the time period T  by the relation .
+However a more elegant model in which the Sun was the centre around which the planets revolved – the ‘heliocentric’ model – was already mentioned by Aryabhatta (5th century A.D.) in his treatise.
+For a central  force, which is directed along r, L is  a constant as the planet goes around.
+Clearly, since the earth rotates with the same period, the satellite would appear fixed from any point on earth.
+Let the Sun be at the origin and let the position and momentum of the planet be denoted by r and p  respectively.
+If m moves in a circular orbit of radius a about M, where M >> m, the total energy of the system is
+	with the choice of the arbitrary constant in the potential energy given in the point 5., above.
+The constant KS is the same for all planets in circular orbits.
+Since Cavendish’s  experiment, the measurement of G has been refined and the currently accepted value is 
+ G = 6.67×10-11  N m2/kg2
+The earth can be imagined to be a sphere made of a large number of concentric spherical shells with the smallest one at the centre and the largest one at its surface.

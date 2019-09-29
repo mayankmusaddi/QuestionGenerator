@@ -38,8 +38,8 @@ def remove_word(sentence,poss):
     
     if len(words) > 0:
         word = random.choice(words)
-        replaced = create_blank(word,sentence)
-        return (word,sentence,replaced)
+        replaced = sentence
+        return (words,sentence,replaced)
     else:
         # print("No instance of NN and NNP-2")
         pass
@@ -81,14 +81,14 @@ def main(text):
         # print()
         # print()
     
-        (word,original,replaced) = remove_word(sentence,poss)
+        (words,original,replaced) = remove_word(sentence,poss)
 
         if replaced is None:
             pass
         else:
             print(replaced)
             print ("\n===============")
-            print(word)
+            print(words)
             print ("===============")
             print("\n")
             
