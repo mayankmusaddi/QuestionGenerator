@@ -45,5 +45,5 @@ def preprocess(DirectoyPath):
         f.write(data)
         f.close()
 
-directorypath = "./"
+directorypath = "./output/"
 preprocess(directorypath)
