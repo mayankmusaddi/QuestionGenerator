@@ -29,6 +29,7 @@ def main():
     text = read_data(file_path)
     processed_text = nlp(text)
 
+    final_array = []
     for sentence in processed_text.sents:
         if len(sentence) > 7:
 
@@ -36,23 +37,30 @@ def main():
                 print(len(sentence))
                 print(sentence)
             
+            words = []
             sentence_str = ''
             for token in sentence:
                 sentence_str = sentence_str + ' ' + str(token.text)
 
-                if len(sentence.ents) > 0:
-                    word = random.choice(sentence.ents).text
-                    
-                    words = []
-                    for i in sentence.ents:
-                        words.append(i.text)
-                    
-                    if debug_flag == 1:                
-                        print(sentence_str)               
-                        print ("\n===============")
-                        print(sentence.ents)
-                        print ("===============")
-                        print("\n")
+        
+            if len(sentence.ents) > 0:
+                word = random.choice(sentence.ents).text
+
+                for i in sentence.ents:
+                    words.append(i.text)
+
+                if debug_flag == 1:                
+                    print(sentence_str)               
+                    print ("\n===============")
+                    print(sentence.ents)
+                    print ("===============")
+                    print("\n")
+
+                dict = {"text": sentence_str, "fibs": words}
+                final_array.append(dict)
+
+    for i in final_array:
+        print (i)
                     
 
 if __name__ == "__main__":

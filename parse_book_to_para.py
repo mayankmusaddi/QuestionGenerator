@@ -1,11 +1,9 @@
-from textblob import TextBlob
-
 def read_data(file_path):
     file = open(file_path, 'r')
     text = file.read()
     return text
 
-filenames = ['dataset/chemistry_data/kech101.txt']
+filenames = ['./../chemistry_data/lech102.txt']
 
 for filename in filenames:
     text = read_data(filename)
