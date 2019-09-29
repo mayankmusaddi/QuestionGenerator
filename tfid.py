@@ -23,10 +23,14 @@ def read_data(file_path):
 
 def load_data(folder_path):
     dataset = []
+    fnames = []
     for file in os.listdir(folder_path):
         if file.endswith("_final.txt"):
-            dataset.append(os.path.join(folder_path, file))
-    return dataset
+            filename = os.path.join(folder_path, file)
+            fnames.append(filename)
+            text = read_data(filename)
+            dataset.append(text)
+    return dataset,fnames
 
 def create_corpus(dataset):
     corpus = []
@@ -149,19 +153,22 @@ def final_out(fileno,num):
         imp.append([score,str(text)])
     imp.sort(reverse = True)
 
+    n  = min(len(imp),num)
     final = ""
-    for i in range(num):
-        print(imp[i][1])
+    for i in range(n):
+        # print(imp[i][1])
         final +=imp[i][1]+"\n"
     return final
 
 if __name__ == "__main__":
-    directorypath = "./../data/"
-    dataset = load_data(directorypath)
+    directorypath = "./output/"
+    dataset,fnames = load_data(directorypath)
+    # print(dataset)
     
     # ##Creating a list of stop words and adding custom stopwords
     stop_words = set(stopwords.words("english"))
     corpus = create_corpus(dataset)
+    # print(corpus[0])
     
     cv=CountVectorizer(max_df=0.8,stop_words=stop_words, max_features=10000, ngram_range=(1,3))
     X=cv.fit_transform(corpus) 
@@ -171,9 +178,10 @@ if __name__ == "__main__":
     
     # fetch document for which keywords needs to be extracted
     # doc=corpus[9]
-    for i in range(len(dataset)):
+    out = final_out(0,100)
+    for i in range(len(fnames)):
         out = final_out(i,100)
-        filename = dataset[i].replace("_final.txt", "_tfidf.txt")
+        filename = fnames[i].replace("_final.txt", "_tfidf.txt")
         f = open(filename, "w")
         f.write(out)
         f.close()
