@@ -1,0 +1,120 @@
+{'text': ' India started its space programme in 1962 when Indian National Committee for Space Research was set up by the Government of India which was superseded by the Indian Space Research Organisation ( ISRO ) in 1969.ISRO identified the role and importance of space technology in nation ’s development and \xa0 bringing space to the service of the common man .', 'fibs': ['India', '1962', 'Indian National Committee for Space Research', 'the Government of India', 'the Indian Space Research Organisation', 'ISRO', '’s']}
+{'text': ' India launched its first low orbit satellite Aryabhata in 1975 , for which the launch vehicle was provided by the erstwhile Soviet Union .', 'fibs': ['India', 'first', 'Aryabhata', '1975', 'Soviet Union']}
+{'text': ' ISRO started employing its indigenous launching vehicle in 1979 by sending Rohini series of satellites into space from its main launch site at Satish Dhawan Space Center , Sriharikota , Andhra Pradesh .', 'fibs': ['ISRO', '1979', 'Satish Dhawan Space Center', 'Sriharikota', 'Andhra Pradesh']}
+{'text': ' The tremendous progress in India ’s space programme has made ISRO one of the six largest space agencies in the world .', 'fibs': ['India', 'ISRO', 'six']}
+{'text': ' ISRO \xa0 develops and delivers application specific satellite products and tools for broadcasts , communication , weather forecasts , disaster management tools , Geographic Information System , cartography , navigation , telemedicine , dedicated distance education satellite etc .', 'fibs': ['ISRO', 'Geographic Information System']}
+{'text': ' In order to achieve complete self - reliance in these applications , cost effective and reliable Polar Satellite Launch Vehicle ( PSLV ) was developed in early 1990s .', 'fibs': ['Polar Satellite Launch Vehicle', 'early 1990s']}
+{'text': ' In 2001 , the Geosynchronous Satellite Launch Vehicle ( GSLV ) was developed for launching heavier and more demanding Geosynchronous communication satellites .', 'fibs': ['2001', 'GSLV']}
+{'text': ' Various research centers and autonomous institutions for remote sensing , astronomy and astrophysics , atmospheric sciences and space research are functioning under the aegis of the Department of Space , Government of India .', 'fibs': ['the Department of Space, Government of India']}
+{'text': ' inter planetary ( Mangalyaan ) missions along with other scientific projects has been landmark achievements of ISRO.Future endeavors of ISRO include human space flight projects , the development of heavy lift launchers , reusable launch vehicles , semi - cryogenic engines , single and two stage to orbit ( SSTO and TSTO ) vehicles , development and use of composite materials for space application etc .', 'fibs': ['Mangalyaan', 'ISRO', 'two']}
+{'text': ' In 1984 Rakesh Sharma became the first Indian to go into outer space aboard in a USSR spaceship . \n', 'fibs': ['1984', 'Rakesh Sharma', 'first', 'Indian', 'USSR']}
+{'text': ' Another class of satellites are called the Polar satellites ( Fig.8.11).These are low altitude ( h ≈ \xa0 500 to 800 km ) satellites , but they go around the poles of the earth in a north - south direction whereas the earth rotates around its axis in an east - west direction .', 'fibs': ['Polar', '500 to']}
+{'text': ' Since its time period is around 100 minutes it crosses any altitude many times a day .', 'fibs': ['around 100 minutes']}
+{'text': ' However , since its height h above the earth is about   500 - 800 km , a camera fixed on it can view only   small strips of the earth in one orbit .', 'fibs': ['500-800 km', 'one']}
+{'text': ' Adjacent strips are viewed in the next orbit , so that in effect the whole earth can be viewed strip by strip during the entire day .', 'fibs': ['the entire day']}
+{'text': ' Observations since early times recognised stars which appeared in the sky with positions unchanged year after year .', 'fibs': ['year', 'year']}
+{'text': ' The earliest recorded model for planetary motions proposed by Ptolemy about 2000 years ago was a ‘ geocentric ’ model in which all celestial objects , stars , the sun and the planets , all revolved around the earth .', 'fibs': ['Ptolemy', 'about 2000 years ago']}
+{'text': ' Complicated schemes of motion   were put forward by Ptolemy in order to describe the observed motion of the planets .', 'fibs': ['Ptolemy']}
+{'text': ' Similar theories were also advanced by Indian astronomers some 400 years later .', 'fibs': ['Indian', 'some 400 years later']}
+{'text': ' However a more elegant model in which the Sun was the centre around which the planets revolved –', 'fibs': ['Sun']}
+{'text': ' the ‘ heliocentric ’ model – was already mentioned by Aryabhatta ( 5th century A.D. ) in his treatise .', 'fibs': ['Aryabhatta', '5th century A.D.']}
+{'text': ' A thousand years later , a Polish monk named Nicolas Copernicus ( 1473 - 1543 ) proposed a definitive model in which the planets moved in circles around a fixed central sun .', 'fibs': ['A thousand years later', 'Polish', 'Nicolas Copernicus', '1473-1543']}
+{'text': ' His theory was discredited by the church , but notable amongst its supporters was Galileo who had to face prosecution from the state for his beliefs . \n', 'fibs': ['Galileo']}
+{'text': ' The bar AB has two small lead spheres attached at its ends .', 'fibs': ['two']}
+{'text': ' Two large lead spheres are brought close to the small ones but on opposite sides as shown .', 'fibs': ['Two']}
+{'text': ' Earth satellites are objects which revolve around the earth .', 'fibs': ['Earth']}
+{'text': ' Their motion is very similar to the motion of planets around the Sun and hence Kepler ’s laws of planetary motion are equally applicable to them .', 'fibs': ['Sun', 'Kepler']}
+{'text': ' Moon is the only natural satellite of the earth with a near circular orbit with a time period of approximately 27.3 days which is also roughly equal to the rotational period of the moon about its own axis .', 'fibs': ['Moon', 'approximately 27.3 days']}
+{'text': ' Since , 1957 , advances in technology have enabled many countries including India to launch artificial earth satellites for practical use in fields like telecommunication , geophysics and meteorology . \n', 'fibs': ['1957', 'India']}
+{'text': ' and for T = 24 hours , h works out to be 35800 km.which is   much larger than RE.Satellites in a circular orbits around the earth in the equatorial plane with T = 24 hours are called Geostationery Satellites .', 'fibs': ['24 hours', '35800', '24 hours', 'Geostationery Satellites']}
+{'text': ' where \xa0 m1and \xa0 m2 \xa0 are respectively the masses of the planet and the sun and \xa0 G \xa0', 'fibs': ['G']}
+{'text': ' The two results ( 1 ) and ( 2 ) described above , therefore , apply to the motion of the planet .', 'fibs': ['two', '1', '2']}
+{'text': ' In fact , the result ( 2 ) is the well - known second law of Kepler . \n', 'fibs': ['2', 'second', 'Kepler']}
+{'text': ' Thus , all the shells exert a gravitational force at the point outside just as if their masses are concentrated at their common centre according to the result stated in section 8.3.The total mass of all the shells combined is just the mass of the earth .', 'fibs': ['section 8.3.The']}
+{'text': ' A Geostationery satellite , appearing fixed above the broadcasting station can however receive these signals and broadcast them back to a wide area on earth .', 'fibs': ['Geostationery', 'earth']}
+{'text': ' The INSAT   group of satellites sent up by India are one such group of Geostationary satellites widely used for telecommunications in India . \n', 'fibs': ['India', 'one', 'Geostationary', 'India']}
+{'text': ' Hence according to result stated in the last section , they exert no gravitational force on mass m kept at P.  ', 'fibs': ['P.  ']}
+{'text': ' This smaller sphere therefore exerts a force on a mass m at P as if its mass Mr is concentrated at the centre . \n', 'fibs': ['Mr']}
+{'text': ' The law of areas can be understood as a consequence of   conservation of angular momentum whch is valid for any central force .A central force is such that   the force on the planet is along the vector joining the Sun and the planet .', 'fibs': ['Sun']}
+{'text': ' Let the Sun be at the origin and let the position and momentum of the planet be denoted by r and p   respectively .', 'fibs': ['Sun']}
+{'text': ' d is zero because the result quoted in the previous section .', 'fibs': ['zero']}
+{'text': ' where Ms is the mass of the Sun .', 'fibs': ['Ms', 'Sun']}
+{'text': ' Most planets have nearly circular orbits about the Sun .', 'fibs': ['Sun']}
+{'text': ' For elliptical orbits , the above equation is valid if R is replaced by the semi - major axis , a. \n where V is taken to be zero at r → ∞.The total potential energy for a system of particles is the sum of energies for all pairs of particles , with each pair represented by a term of the form given by above equation .', 'fibs': ['zero']}
+{'text': ' Around 1685 , Edmund Halley ( after whom the famous Halley ’s comet is named ) , came to visit Newton at Cambridge and asked him about the nature of the trajectory of a body moving under the influence of an inverse square law .', 'fibs': ['Around 1685', 'Edmund Halley', 'Halley', 'Newton', 'Cambridge']}
+{'text': ' Without hesitation Newton replied that it had to be an ellipse , and further that he had worked it out long ago around 1665 when he was forced to retire to his farm house from Cambridge on account of a plague outbreak .', 'fibs': ['Newton', '1665', 'Cambridge']}
+{'text': ' Unfortunately , Newton had lost his papers .', 'fibs': ['Newton']}
+{'text': ' Halley prevailed upon Newton to produce his work in book form and agreed to bear the cost of publication .', 'fibs': ['Halley', 'Newton']}
+{'text': ' Newton accomplished this feat in eighteen months of superhuman effort .', 'fibs': ['Newton', 'eighteen months']}
+{'text': ' The \xa0 Principia \xa0 is a singular scientific masterpiece and in the words of Lagrange it is “ the greatest production of the human mind .', 'fibs': ['Lagrange']}
+{'text': ' The Indian born astrophysicist and Nobel laureate S. Chandrasekhar spent ten years writing a treatise on the \xa0 Principia .', 'fibs': ['Indian', 'Nobel', 'S. Chandrasekhar', 'ten years']}
+{'text': ' His book , Newton ’s \xa0 Principia for the Common Reader \xa0 brings into sharp focus the beauty , clarity and breath taking economy of Newton ’s methods . \n', 'fibs': ['Newton', 'Common Reader\xa0', 'Newton']}
+{'text': ' This is what we expect , since as we have discussed before if the total energy is positive or zero , the object escapes to infinity .', 'fibs': ['zero']}
+{'text': ' Satellites are always at finite distance from the earth and hence their energies can not be positive or zero . \n', 'fibs': ['zero']}
+{'text': ' Both ends of the spring as well as the object move with identical acceleration g.  ', 'fibs': ['the spring']}
+{'text': ' The reading recorded in the spring balance is zero since the spring is not stretched at all .', 'fibs': ['zero', 'the spring']}
+{'text': ' Clearly for any point T on the ellipse , the sum of the distances from F1 and F2 is a constant .', 'fibs': ['F2']}
+{'text': ' F1 , F2 are called the focii .', 'fibs': ['F2']}
+{'text': ' Join the points F1 and F2   and extend   the line to intersect the ellipse at points P and A as shown in Fig.8.1(b).The midpoint of the line PA is the centre of the ellipse O and the length PO =', 'fibs': ['Join', 'F2  ', 'PA', 'PO']}
+{'text': ' AO   is called the semi - major axis of the ellipse .', 'fibs': ['AO']}
+{'text': ' For a circle , the two focii   merge into one   and the semi - major axis becomes the radius of the circle . \n', 'fibs': ['two']}
+{'text': ' It was around the same time as Galileo , a nobleman called Tycho Brahe ( 1546 - 1601 ) hailing from Denmark , spent his entire lifetime recording observations of the planets with the naked eye .', 'fibs': ['Galileo', 'Tycho Brahe', '1546-1601', 'Denmark']}
+{'text': ' His compiled data were analysed later by his assistant Johannes Kepler ( 1571 - 1640).He could extract from the data three elegant laws that now go by the name of Kepler ’s laws .', 'fibs': ['Johannes Kepler', '1571-1640).He', 'three', 'Kepler']}
+{'text': ' These laws were known to Newton and enabled him to make a great scientific leap in proposing his universal law of gravitation . \n', 'fibs': ['Newton']}
+{'text': ' ’s surface ( shown shaded ) is visible from the satellite during one cycle .', 'fibs': ['one']}
+{'text': ' For the next revolution of the satellite , the earth has rotated a little on its axis so that an adjacent strip becomes visible . \n', 'fibs': ['the next revolution of the satellite']}
+{'text': ' ( 1 ) \t The force of attraction between a hollow spherical shell of uniform density and a point mass situated outside is just as if the entire mass of the shell is concentrated at the centre of the shell . \n', 'fibs': ['1']}
+{'text': ' The radius vector drawn from the Sun to a planet sweeps out equal areas in equal time intervals .', 'fibs': ['Sun']}
+{'text': ' ( 8.37 ) becomes equal to 24 hours .', 'fibs': ['8.37', '24 hours']}
+{'text': ' This choice implies that V →   0 as r →   ∞.Choosing location of zero of the gravitational energy is the same as choosing the arbitrary constant in the potential energy .', 'fibs': ['zero']}
+{'text': ' , L is   a constant as the planet goes around .', 'fibs': ['L']}
+{'text': ' Hence , ∆A /∆t is a constant according to the last equation .', 'fibs': ['∆A']}
+{'text': ' so that once again W12 = W(r2 )', 'fibs': ['W12', 'W(r2']}
+{'text': ' W(r1).Setting    r = infinity in the last equation , we get W ( r = infinity ) =   ', 'fibs': ['W']}
+{'text': ' One should note that only the difference of potential energy between two points has a definite meaning   from Eqs . \n', 'fibs': ['One', 'two', 'Eqs']}
+{'text': ' – F by Newton ’s third law .', 'fibs': ['Newton', 'third']}
+{'text': ' Thus , the gravitational force F12 on the body 1 due to 2 and F21 on the body 2 due to 1 are related as F12 =', 'fibs': ['1', '2', '2', '1']}
+{'text': ' We note that the orbits of all planets except Mercury , Mars and Pluto * are very close to being circular .', 'fibs': ['Mercury', 'Mars']}
+{'text': ' For example , the ratio of the semi - minor to semi - major axis for our Earth is , b / a = 0.99986 . \n with the choice of the arbitrary constant in the potential energy given in the point 5 . , above .', 'fibs': ['Earth', '0.99986', '5']}
+{'text': ' the radius vectors SB and SC is larger than SBPC in Fig.8.1.From Kepler ’s second law , equal areas are swept in equal times .', 'fibs': ['SC', 'SBPC', 'Kepler', 'second']}
+{'text': ' Hence the planet will take a longer time to traverse BAC than CPB . \n', 'fibs': ['BAC']}
+{'text': ' ( 1571–1630 ) \xa0 was a scientist of German origin .', 'fibs': ['1571–1630', 'German']}
+{'text': ' He formulated the three laws of planetary motion based on the painstaking observations of Tycho Brahe and coworkers .', 'fibs': ['three', 'Tycho Brahe']}
+{'text': ' Kepler himself was an assistant to Brahe and it took him sixteen long years to arrive at the three planetary laws .', 'fibs': ['Kepler', 'Brahe', 'sixteen long years', 'three']}
+{'text': ' He is also known as the founder of geometrical optics , being the first to describe what happens to light after it enters a telescope . \n', 'fibs': ['first']}
+{'text': ' Historically it was the Italian Physicist Galileo ( 1564 - 1642 ) who recognised the fact that all bodies , irrespective of their masses , are accelerated towards the earth with a constant acceleration .', 'fibs': ['Italian', 'Galileo', '1564-1642']}
+{'text': ' The moon is a satellite of the Earth .', 'fibs': ['Earth']}
+{'text': ' From the derivation of Kepler ’s third law [ see Eq . \n', 'fibs': ['Kepler', 'third']}
+{'text': ' The value of the gravitational constant G entering the Universal law of gravitation   can be determined experimentally and this was first done by English scientist Henry Cavendish in 1798 . \n', 'fibs': ['Universal', 'first', 'English', 'Henry Cavendish', '1798']}
+{'text': ' The force of attraction due to a hollow spherical shell of uniform density , on a point mass situated inside it is zero . \n', 'fibs': ['zero']}
+{'text': ' Kepler had formulated his third law by 1619.The announcement of the underlying universal law of gravitation came about seventy years later with the publication in 1687 of Newton ’s masterpiece \xa0 Philosophiae Naturalis Principia Mathematica , often simply called thePrincipia . \n', 'fibs': ['Kepler', 'third', '1619.The', 'about seventy years later', '1687', 'Newton', 'Principia Mathematica']}
+{'text': ' Legend has it that observing an apple falling from a tree , Newton was inspired to arrive at an universal law of gravitation that led to an explanation of terrestrial   gravitation as well as of Kepler ’s laws . \n', 'fibs': ['Legend', 'Newton', 'Kepler']}
+{'text': ' ( 8.3 ) , we get a value of am much smaller than the value of acceleration due to gravity g on the surface of the earth , arising also due to earth ’s gravitational attraction . \n', 'fibs': ['8.3']}
+{'text': ' Radio waves used for radio broadcast which are in the frequency range 2 MHz to 10 MHz , are below the critical frequency .', 'fibs': ['2 MHz', '10 MHz']}
+{'text': ' where G is the universal gravitational constant , \xa0 is the unit vector from m1 to m2 and', 'fibs': ['G']}
+{'text': ' ( 8.5 ) to objects under consideration , we have to be careful since the law refers to point masses whereas we deal with extended objects which have finite size .', 'fibs': ['8.5']}
+{'text': ' If we have a collection of point masses , the force on any one of them is the vector sum of the gravitational forces exerted by the other point masses as shown in Fig 8.4 . \n', 'fibs': ['one', 'Fig 8.4']}
+{'text': ' If one assumes that the gravitational force due to the earth decreases in proportion to the inverse square of the distance from the centre of the earth , we will have \xa0 and we get in agreement with a value of g ≅ 9.8   m s-2 and the value of am from Eq.(8.3 ) . \n', 'fibs': ['≅']}
+{'text': ' Observe that the constant Wo cancels out in Eq . \n ( 8.22 ) and ( 8.24).One conventionally sets  ', 'fibs': ['8.22', '8.24).One']}
+{'text': ' W1 equal to zero , so that the potential energy at a point is just the amount of work done in displacing the particle from infinity to that point . \n', 'fibs': ['zero']}
+{'text': ' Wo .. h = 0 means points on the surface of the earth .', 'fibs': ['0']}
+{'text': ' where G is the universal gravitational constant , which has the value   6.672', 'fibs': ['G', '6.672']}
+{'text': ' If the mass m is situated on the surface of earth , then  ', 'fibs': ['earth']}
+{'text': ' and Rm was already known then to be about 3.84 × 10\xad8m .', 'fibs': ['Rm', 'about 3.84']}
+{'text': ' This happens either when \xa0 F \xa0 is zero or when \xa0 F \xa0 is along \xa0 r.', 'fibs': ['zero']}
+{'text': ' Select two points F1 and F2.Take a length of a string and   fix its ends at F1 and F2 by pins .', 'fibs': ['two', 'F2']}
+{'text': ' ( 8.5 ) is not directly applicable .', 'fibs': ['8.5']}
+{'text': ' Tr is the trejectory of the particle under the central force .', 'fibs': ['Tr']}
+{'text': ' We assume that the entire earth is of uniform density and hence its mass is   where ME is the mass of the earth RE', 'fibs': ['ME', 'RE']}
+{'text': ' The quotation is essentially from Newton ’s famous treatise   called ‘ Mathematical Principles of Natural Philosophy ’ ( Principia for short ) . \n', 'fibs': ['Newton']}
+{'text': ' where ME = mass of earth , m = mass of the particle and r', 'fibs': ['ME']}
+{'text': ' ( 8.12).This is the reason why there is a popular statement regarding Cavendish :', 'fibs': ['Cavendish']}
+{'text': ' ( 1 ) \t The motion of a particle under the central force is always confined to a plane . \n', 'fibs': ['1']}
+{'text': ' is ( RE \xa0 + \xa0 h \xa0 )', 'fibs': ['RE\xa0+\xa0']}
+{'text': ' The measurement of G by Cavendish ’s experiment ( or otherwise ) , combined with knowledge of g and RE enables one to estimate ME from Eq . \n', 'fibs': ['Cavendish’s', 'RE', 'ME']}
+{'text': ' The acceleration experienced by the mass m , which is usually denoted by the symbol g is related to F by Newton ’s 2nd law by relation F = mg . \n', 'fibs': ['Newton', '2nd']}
+{'text': ' Observation of θ thus enables one to calculate G from this equation . \n and has a value of 11.2 km s–1 . \n', 'fibs': ['11.2 km']}
+{'text': ' The simplest choice is to take it to be zero . \n', 'fibs': ['zero']}
+{'text': ' Alternatively , one expects on the basis of symmetry that the resultant force ought to be zero . \n', 'fibs': ['zero']}
+{'text': ' Both methods yield almost the same answer , the difference between them being less than 1 % . \n', 'fibs': ['less than 1%']}
+{'text': ' For we can expand the RHS of Eq . \n', 'fibs': ['the RHS of Eq']}

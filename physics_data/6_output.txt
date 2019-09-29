@@ -1,0 +1,181 @@
+{'text': ' Consider two lenses A and B of focal length f1 and f2 placed in contact with each other .', 'fibs': ['two']}
+{'text': ' Let the object be placed at a point O beyond the focus of the first lens A ( Fig.9.21).The first lens produces an image at I1.Since image I1 is real , it serves as a virtual object for the second lens B , producing the final image at I.It must , however , be borne in mind that formation of image by the first lens is presumed only to facilitate determination of the position of the final image .', 'fibs': ['first', 'first', 'second', 'first']}
+{'text': ' In fact , the direction of rays emerging from the first lens gets modified in accordance with the angle at which they strike the second lens .', 'fibs': ['first', 'second']}
+{'text': ' Let this central point be denoted by P. \n Adding Eqs . \n', 'fibs': ['P.\nAdding Eqs']}
+{'text': ' Solution \xa0 Image formed by the first lensor \t v1 \xa0 = 15 cmThe image formed by the first lens serves as the object for the second .', 'fibs': ['Solution\xa0Image', 'first', '15', 'first', 'second']}
+{'text': ' This is at a distance of ( 15 – 5 ) cm = 10 cm to the right of the second lens .', 'fibs': ['15', '10 cm', 'second']}
+{'text': ' Though the image is real , it serves as a virtual object for the second lens , which means that the rays appear to come from it for the second lens.or \t v2 \xa0 = \xa0', 'fibs': ['second', 'second']}
+{'text': ' ∞The virtual image is formed at an infinite distance to the left of the second lens .', 'fibs': ['second']}
+{'text': ' This acts as an object for the third lens.or \t or \xa0 v3 \xa0 = 30 cmThe final image is formed 30 cm to the right of the third lens . \n', 'fibs': ['third', '30', '30 cm', 'third']}
+{'text': ' A simple magnifier or microscope is a converging lens of small focal length ( Fig.9.27).In order to use such a lens as a microscope , the lens is held near the object , one focal length away or less , and the eye is positioned close to the lens on the other side .', 'fibs': ['one']}
+{'text': ' The idea is to get an erect , magnified and virtual image of the object at a distance so that it can be viewed comfortably , i.e. , at 25 cm or more .', 'fibs': ['25 cm']}
+{'text': ' We show both cases , the first in Fig.9.27(a ) , and the second in Fig.9.27(b ) and ( c ) . \n', 'fibs': ['first', 'Fig.9.27(a', 'second', 'Fig.9.27(b']}
+{'text': ' The SI unit for power of a lens is dioptre ( D ) :', 'fibs': ['SI']}
+{'text': ' 1m–1.The power of a lens of focal length of 1 metre is one dioptre .', 'fibs': ['1 metre', 'one']}
+{'text': ' Thus , when an optician prescribes a corrective lens of power + 2.5 D , the required lens is a convex lens of focal length + 40 cm .', 'fibs': ['2.5', '40 cm']}
+{'text': ' A lens of power of – 4.0 D means a concave lens of focal length – 25 cm . \n', 'fibs': ['– 4.0 D means', '25 cm']}
+{'text': ' A simple microscope has a limited maximum magnification ( ≤ 9 ) for realistic focal lengths .', 'fibs': ['9']}
+{'text': ' For much larger magnifications , one uses two lenses , one compounding the effect of the other .', 'fibs': ['one', 'two', 'one']}
+{'text': ' This serves as the object for the second lens , the eyepiece , which functions essentially like a simple microscope or magnifier , produces the final image , which is enlarged and virtual .', 'fibs': ['second']}
+{'text': ' The first inverted image is thus near ( at or within ) the focal plane of the eyepiece , at a distance appropriate for final image formation at infinity , or a little closer for image formation at the near point .', 'fibs': ['first']}
+{'text': ' Telescopes with mirror objectives are called reflecting telescopes .', 'fibs': ['Telescopes']}
+{'text': ' One obvious problem with a reflecting telescope is that the objective mirror focusses light inside the telescope tube .', 'fibs': ['One']}
+{'text': ' One must have an eyepiece and the observer right there , obstructing some light ( depending on the size of the observer cage).This is what is done in the very large 200 inch ( ~5.08 m ) diameters , Mt .', 'fibs': ['One', '200 inch', 'Mt']}
+{'text': ' One such arrangement using a convex secondary mirror to focus the incident light , which now passes through a hole in the objective primary mirror , is shown in Fig.9.30.This is known as a Cassegrain telescope , after its inventor .', 'fibs': ['One']}
+{'text': ' The largest telescope in India is in Kavalur , Tamil Nadu .', 'fibs': ['India', 'Kavalur', 'Tamil Nadu']}
+{'text': ' It is a 2.34 m diameter reflecting telescope ( Cassegrain).It was ground , polished , set up , and is being used by the Indian Institute of Astrophysics , Bangalore .', 'fibs': ['2.34', 'the Indian Institute of Astrophysics, Bangalore']}
+{'text': ' The largest reflecting telescopes in the world are the pair of Keck telescopes in Hawaii , USA , with a reflector of 10 metre in diameter . \n', 'fibs': ['Keck', 'Hawaii, USA', '10 metre']}
+{'text': ' We shall now consider refraction at a spherical interface between two transparent media .', 'fibs': ['two']}
+{'text': ' We first consider refraction by a single spherical surface and follow it by thin lenses .', 'fibs': ['first']}
+{'text': ' A thin lens is a transparent optical medium bounded by two surfaces ; at least one of which should be spherical .', 'fibs': ['two', 'at least one']}
+{'text': ' Applying the formula for image formation by a single spherical surface successively at the two surfaces of a lens , we shall obtain the lens maker ’s formula and then the lens formula . \n', 'fibs': ['two']}
+{'text': ' While studying dispersion of visible ( or white ) light by a prism(Class X ) and the electromagnetic spectrum ( Chapter 8 , Class XII ) , we got to know that colour is associated with the frequency of light or the wavelength of light in the given medium .', 'fibs': ['Chapter 8', 'XII']}
+{'text': ' In the visible spectrum , red light is at the long wavelength end ( ~700 nm ) while the violet light is at the short wavelength end ( ~ 400 nm).Dispersion takes place because the refractive index of medium for different frequencies ( colours ) is different .', 'fibs': ['400']}
+{'text': ' Table 9.2 gives the refractive indices for different wavelength for crown glass and flint glass .', 'fibs': ['9.2']}
+{'text': ' incident ray AO1 is partially reflected ( O1C ) and partially transmitted ( O1B ) or refracted , the angle of refraction ( r ) being larger than the angle of incidence ( i).As the angle of incidence increases , so does the angle of refraction , till for the ray AO3 , the angle of refraction is π/2.The refracted ray is bent so much away from the normal that it grazes the surface at the interface between the two media .', 'fibs': ['O1C', 'AO3', 'two']}
+{'text': ' This is shown by the ray AO3 D in Fig.9.12.If the angle of incidence is increased still further ( e.g. , the ray AO4 ) , refraction is not possible , and the incident ray is totally reflected .', 'fibs': ['Fig.9.12.If']}
+{'text': ' Light from a distant object enters the objective and a real image is formed in the tube at its second focal point .', 'fibs': ['second']}
+{'text': ' ( 9.32 ) is an algebraic sum of individual powers , so some of the terms on the right side may be positive ( for convex lenses ) and some negative ( for concave lenses).Combination of lenses helps to obtain diverging or converging lenses of desired magnification .', 'fibs': ['9.32']}
+{'text': ' Since the image formed by the first lens becomes the object for the second , Eq . \n', 'fibs': ['first', 'second']}
+{'text': ' ( 9.9 ) , for the case of real , inverted image formed by a concave mirror .', 'fibs': ['9.9']}
+{'text': ' Figure 9.6 shows the ray diagrams for virtual image formed by a concave and convex mirror .', 'fibs': ['9.6']}
+{'text': ' On hot summer days , the air near the ground becomes hotter than the air at higher levels .', 'fibs': ['hot summer days']}
+{'text': ' Some of you might have noticed that while moving in a bus or a car during a hot summer day , a distant patch of road , especially on a highway , appears to be wet .', 'fibs': ['a hot summer day']}
+{'text': ' A ray emanating from the object parallel to the principal axis of the lens after refraction passes through the second principal focus F′ ( in a convex lens ) or appears to diverge ( in a concave lens ) from the first principal focus F. \n (', 'fibs': ['second', 'first', 'F.\n']}
+{'text': ' To derive the relevant formulae for reflection by spherical mirrors and refraction by spherical lenses , we must first adopt a sign convention for measuring distances .', 'fibs': ['first']}
+{'text': ' In this book , we shall follow the Cartesian sign convention .', 'fibs': ['Cartesian']}
+{'text': ' The resolving power , or the ability to observe two objects distinctly , which are in very nearly the same direction , also depends on the diameter of the objective .', 'fibs': ['two']}
+{'text': ' The largest lens objective in use has a diameter of 40 inch', 'fibs': ['40 inch']}
+{'text': ' ( ~1.02 m).It is at the Yerkes Observatory in Wisconsin , USA.Such big lenses tend to be very heavy and therefore , difficult to make and support by their edges .', 'fibs': ['the Yerkes Observatory', 'Wisconsin']}
+{'text': ' Equation ( 9.23 ) is the familiar thin lens formula .', 'fibs': ['9.23']}
+{'text': ' The angle of reflection ( i.e. , the angle between reflected ray and the normal to the reflecting surface or the mirror ) equals the angle of incidence ( angle between incident ray and the normal).Also that the incident ray , reflected ray and the normal to the reflecting surface at the point of incidence lie in the same plane ( Fig.9.1).These laws are valid at each point on any reflecting surface whether plane or curved .', 'fibs': ['Fig.9.1).These']}
+{'text': ' If rays emanating from a point actually meet at another point after reflection and/or refraction , that point is called the image of the first point .', 'fibs': ['first']}
+{'text': ' An object 1.5 cm in size is placed on the side of the convex lens in the arrangement ( a ) above .', 'fibs': ['1.5 cm']}
+{'text': ' The distance between the object and the convex lens is 40cm .', 'fibs': ['40cm']}
+{'text': ' Determine the magnification produced by the two - lens system , and the size of the image . \n', 'fibs': ['two']}
+{'text': ' For a rectangular slab , refraction takes place at two interfaces ( air - glass and glass - air).It is easily seen from Fig.9.9 that \xa0', 'fibs': ['two']}
+{'text': ' Here h′ is the size of the first image , the object size being h and fo being the focal length of the objective .', 'fibs': ['first']}
+{'text': ' The first image is formed near the focal point of the eyepiece .', 'fibs': ['first']}
+{'text': ' The distance L , i.e. , the distance between the second focal point of the objective and the first focal point of the eyepiece ( focal length fe ) is called the tube length of the compound microscope . \n', 'fibs': ['second', 'first']}
+{'text': ' What a single - lens simple magnifier achieves is that it allows the object to be brought closer to the eye than D. \n We will now find the magnification when the image is at infinity .', 'fibs': ['D.']}
+{'text': ' For example , consider a telescope whose objective has a focal length of 100 cm and the eyepiece a focal length of 1 cm .', 'fibs': ['100 cm', '1 cm']}
+{'text': ' Equation ( 9.21 ) is known as the lens maker ’s formula .', 'fibs': ['9.21']}
+{'text': ' In that case R1is negative , R2 positive and therefore , f is negative . \n', 'fibs': ['R1is']}
+{'text': ' Solution You may think that the image will now show only half of the object , but taking the laws of reflection to be true for all points of the remaining part of the mirror , the image will be that of the whole object .', 'fibs': ['only half']}
+{'text': ' However , as the area of the reflecting surface has been reduced , the intensity of the image will be low ( in this case , half ) . \n', 'fibs': ['half']}
+{'text': ' A lens has two foci , F and F′ , on either side of it ( Fig.9.19 ) . \n', 'fibs': ['two']}
+{'text': ' A ray of light passing through the first principal focus ( for a convex lens ) or appearing to meet at it ( for a concave lens ) emerges parallel to the principal axis after refraction . \n', 'fibs': ['first']}
+{'text': ' When a signal in the form of light is directed at one end of the fibre at a suitable angle , it undergoes repeated total internal reflections along the length of the fibre and finally comes out at the other end ( Fig.9.16).Since light undergoes total internal reflection at each stage , there is no appreciable loss in the intensity of the light signal .', 'fibs': ['one']}
+{'text': ' Optical fibres are fabricated such that light reflected at one side of inner surface strikes the other at an angle larger than the critical angle .', 'fibs': ['one']}
+{'text': ' ( 9.25(a).Sunlight is first refracted as it enters a raindrop , which causes the different wavelengths ( colours ) of white light to separate .', 'fibs': ['first']}
+{'text': ' Next , these component rays strike the inner surface of the water drop and get internally reflected if the angle between the refracted ray and normal to the drop surface is greater then the critical angle ( 48 ° in this case).The reflected light is refracted again when it comes out of the drop , as shown in the figure .', 'fibs': ['48']}
+{'text': ' It is found that the violet light emerges at an angle of 40 ° related to the incoming sunlight and red light emerges at an angle of 42 ° .For other colours , angles lie in between these two values . \n', 'fibs': ['40', '°', '42', '°', 'two']}
+{'text': ' In the field of optics , Newton – the experimenter , was greater than Newton – the theorist .', 'fibs': ['Newton', 'Newton']}
+{'text': ' Newton argued that some of the corpuscles , which fall on the water , get reflected and some get transmitted .', 'fibs': ['Newton']}
+{'text': ' But what property could distinguish these two kinds of corpuscles?Newton had to postulate some kind of unpredictable , chance phenomenon , which decided whether an individual corpuscle would be reflected or not .', 'fibs': ['two']}
+{'text': ' An incoming wave can be divided into two weaker waves at the boundary between air and water . \n', 'fibs': ['two']}
+{'text': ' In such a case medium 2 is said to be optically denser ( or denser , in short ) than medium 1.On the other hand , if n21 < 1 , r >', 'fibs': ['2', '1']}
+{'text': ' Our eye is , of course , one of the most important optical device the nature has endowed us with .', 'fibs': ['one']}
+{'text': ' To find the image of an object by a lens , we can , in principle , take any two rays emanating from a point on an object ; trace their paths using the laws of refraction and find the point where the refracted rays meet ( or appear to meet ) . \n', 'fibs': ['two']}
+{'text': ' Do you find that it undergoes partial reflection ( which is seen as a spot on the table below ) and partial refraction [ which comes out in the air and is seen as a spot on the roof ; Fig.9.13(a)]?Now direct the laser beam from one side of the beaker such that it strikes the upper surface of water more obliquely', 'fibs': ['Fig.9.13(a)]?Now', 'one']}
+{'text': ' All these rays will pass through the same image point after refraction at the lens . \n where u and v are object and image distances , respectively and f is the focal length of the mirror.f is ( approximately ) half the radius of curvature R. f is negative   for concave mirror ; f   is positive for a convex mirror . \n', 'fibs': ['half', 'R.']}
+{'text': ' When a beam of light encounters another transparent medium , a part of light gets reflected back into the first medium while the rest enters the other .', 'fibs': ['first']}
+{'text': ' The direction of propagation of an obliquely incident ( 0 ° < i < 90 ° ) ray of light that enters the other medium , changes at the interface of the two media .', 'fibs': ['90', '°', 'two']}
+{'text': ' For example , the Sun is visible a little before the actual sunrise and until a little after the actual sunset due to refraction of light through the atmosphere ( Fig.9.11).By actual sunrise we mean the actual crossing of the horizon by the sun .', 'fibs': ['Sun', 'Fig.9.11).By']}
+{'text': ' Figure 9.11 shows the actual and apparent positions of the Sun with respect to the horizon .', 'fibs': ['9.11', 'Sun']}
+{'text': ' The refractive index of air with respect to vacuum is 1.00029.Due to this , the apparent shift in the direction of the Sun is by about half a degree and the corresponding time difference between actual sunset and apparent sunset is about 2 minutes ( see', 'fibs': ['Sun', 'about half', 'about 2 minutes']}
+{'text': ' 9.5).The apparent flattening ( oval shape ) of the Sun at sunset and sunrise is also due to the same phenomenon . \n', 'fibs': ['Sun']}
+{'text': ' This image is formed at 15 cm behind the mirror .', 'fibs': ['15 cm']}
+{'text': ' The refractive index of the liquid must be equal to 1.47 in order to make the lens disappear .', 'fibs': ['1.47']}
+{'text': ' 1/f = 0 or f → ∞.The lens in the liquid will act like a plane sheet of glass .', 'fibs': ['1/f', '0']}
+{'text': ' M. Let θ be the angle of incidence , and MD be the perpendicular from M on the principal axis . \n', 'fibs': ['M. Let', 'MD']}
+{'text': ' Since the jogger moves at a constant speed of 5 m s–1 , after 1 s the position of the image \xa0 v \xa0 ( for \xa0 u \xa0', 'fibs': ['5', '1']}
+{'text': ' = –39 + 5 = –34 ) is ( 34/35 ) m. \n', 'fibs': ['5', '–34', '34/35']}
+{'text': ' The critical angle for diamond - air interface ( ≅ 24.4 ° ) is very small , therefore once light enters a diamond , it is very likely to undergo total internal reflection inside it .', 'fibs': ['≅ 24.4°']}
+{'text': ' Diamonds found in nature rarely exhibit the brilliance for which they are known .', 'fibs': ['Diamonds']}
+{'text': ' It is worth mentioning that the two foci , F and F′ , of a double convex or concave lens are equidistant from the optical centre .', 'fibs': ['two']}
+{'text': ' The focus on the side of the ( original ) source of light is called the first focal point , whereas the other is called the second focal point . \n', 'fibs': ['first', 'second']}
+{'text': ' In practice , it is difficult to make the focal length much smaller than 1 cm .', 'fibs': ['1 cm']}
+{'text': ' ( b ) \t If this telescope is used to view the moon , what is the diameter of the image of the moon formed by the objective lens?The diameter of the moon is 3.48 × 106 m , and the radius of lunar orbit is 3.8 × 108 m . \n', 'fibs': ['3.48', '106', '3.8']}
+{'text': ' Newton ’s fundamental contributions to mathematics , mechanics , and gravitation often blind us to his deep experimental and theoretical study of light .', 'fibs': ['Newton']}
+{'text': ' He further developed the corpuscular model of light proposed by Descartes .', 'fibs': ['Descartes']}
+{'text': ' Newton argued that smooth surfaces like mirrors reflect the corpuscles in a similar manner . \n', 'fibs': ['Newton']}
+{'text': ' ( b ) \t If this telescope is used to view a 100 m tall tower 3 km away , what is the height of the image of the tower formed by the objective lens ? \n', 'fibs': ['100', '3 km']}
+{'text': ' It is possible that mass density of an optically denser medium may be less than that of an optically rarer medium ( optical density is the ratio of the speed of light in two media).For example , turpentine and water .', 'fibs': ['two']}
+{'text': ' The distance between the focus F and the pole P of the mirror is called thefocal length \xa0 of the mirror , denoted by \xa0', 'fibs': ['F']}
+{'text': ' The geometry of reflection of an incident ray is shown in Fig.9.4 . \n', 'fibs': ['Fig.9.4']}
+{'text': ' The conditions for observing a rainbow are that the Sun should be shining in one part of the sky ( say near western horizon ) while it is raining in the opposite part of the sky ( say eastern horizon).An observer can therefore see a rainbow only when his back is towards the Sun . \n', 'fibs': ['Sun', 'one', 'Sun']}
+{'text': ' In principle , we can take any two rays emanating from a point on an object , trace their paths , find their point of intersection and thus , obtain the image of the point due to reflection at a spherical mirror . \n', 'fibs': ['two']}
+{'text': ' When light travels from an optically denser medium to a rarer medium at the interface , it is partly reflected back into the same medium and partly refracted to the second medium .', 'fibs': ['second']}
+{'text': ' The SI unit of luminous intensity ( I ) is candela ( cd).The candela is the luminous intensity , in a given direction , of a source that emits monochromatic radiation of frequency 540 ×', 'fibs': ['SI', '540']}
+{'text': ' and that has a radiant intensity in that direction of 1/683 watt per steradian .', 'fibs': ['1/683 watt']}
+{'text': ' If a light source emits one candela of luminous intensity into a solid angle of one steradian , the total luminous flux emitted into that solid angle is one lumen ( lm).A standard 100 watt incadescent light bulb emits approximately 1700 lumens . \n', 'fibs': ['one', 'one', 'one', '100 watt', 'approximately 1700 lumens']}
+{'text': ' When light rays undergoes two internal reflections inside a raindrop , instead of one as in the primary rainbow , a secondary rainbow is formed as shown in Fig.9.25(c).It is due to four - step process .', 'fibs': ['two', 'one', 'four']}
+{'text': ' The intensity of light is reduced at the second reflection and hence the secondary rainbow is fainter than the primary rainbow .', 'fibs': ['second']}
+{'text': ' Further , the order of the colours is reversed in it as is clear from Fig.9.25(c ) . \n', 'fibs': ['Fig.9.25(c']}
+{'text': ' Since D is about 25 cm ,   to have a magnification of six , one needs a convex lens of focal length , f \xa0 = \xa0 5 \xa0 cm . \n', 'fibs': ['about 25 cm', 'six', 'one', '5']}
+{'text': ' It is known that a body above absolute zero temperature emits electromagnetic radiation .', 'fibs': ['zero']}
+{'text': ' 2850 K are partly invisible and mostly in infrared ( or heat ) region .', 'fibs': ['2850']}
+{'text': ' The sun with temperature of about 5500 K emits radiation whose energy versus wavelength graph peaks approximately at 550 nm corresponding to green light and is almost in the middle of the visible region .', 'fibs': ['5500', '550']}
+{'text': ' The intuitive notion that light travels in a straight line seems to contradict what we have learnt in Chapter 8 , that light is an electromagnetic wave of wavelength belonging to the visible part of the spectrum .', 'fibs': ['Chapter 8']}
+{'text': ' How to reconcile the two facts?The answer is that the wavelength of light is very small compared to the size of ordinary objects that we encounter commonly ( generally of the order of a few cm or larger).In this situation , as you will learn in Chapter 10 , a light wave can be considered to travel from one point to another , along a straight line joining them .', 'fibs': ['two', 'Chapter 10', 'one']}
+{'text': ' Equation ( 9.6 ) is a relation involving magnitude of distances .', 'fibs': ['9.6']}
+{'text': ' To reach the object AB , image A′B′ as well as the focus F from the pole P', 'fibs': ['AB', 'A′B′']}
+{'text': ' Hence , all the three will have negative signs . \n', 'fibs': ['three']}
+{'text': ' As the first inverted image is near the focal point of the eyepiece , we use the result from the discussion above for the simple microscope to obtain the ( angular ) magnification me due to it  ', 'fibs': ['first']}
+{'text': ' ( 9.39 ) , but the viewing is more comfortable and the difference in magnification is usually small .', 'fibs': ['9.39']}
+{'text': ' Equation ( 9.16 ) gives us a relation between object and image distance in terms of refractive index of the medium and the radius of curvature of the curved spherical surface .', 'fibs': ['9.16']}
+{'text': ' In viewing through a magnifying glass , one usually positions one ’s eyes very close to the lens .', 'fibs': ['one', 'one']}
+{'text': ' Does angular magnification change if the eye is moved back ? \n where n21 is a constant , called the refractive index of the second medium with respect to the first medium .', 'fibs': ['second', 'first']}
+{'text': ' Equation ( 9.10 ) is the well - known Snell ’s law of refraction .', 'fibs': ['9.10', 'Snell']}
+{'text': ' It also follows that if n32 is the refractive index of medium 3 with respect to medium 2 then   n32 = n31 ×   n12 , where   n31 is the refractive index   of medium 3 with respect to medium 1 . \n', 'fibs': ['3', '2', '3', '1']}
+{'text': ' ( iii ) \t Prism : Prisms designed to bend light by 90 ° or by 180 ° make use of total internal reflection [ Fig.9.15(a ) and ( b)].Such a prism is also used to invert images without changing their size [ Fig.9.15(c)]. \n ( i ) \t', 'fibs': ['90', '°', '180', '°']}
+{'text': ' The image is formed at a distance of 100 cm from the glass surface , in the direction of incident light . \n', 'fibs': ['100 cm']}
+{'text': ' The image is 30 cm from the mirror on the same side as the object . \n', 'fibs': ['30 cm']}
+{'text': ' In silica glass fibres , it is possible to transmit more than 95 % of the light over a fibre length of 1 km . \n', 'fibs': ['more than 95%', '1 km']}
+{'text': ' ( 9.35 ) , i.e. , δ   remains the same if i and e are interchanged .', 'fibs': ['9.35']}
+{'text': ' Physically , this is related to the fact that the path of ray in Fig.9.23 can be traced back , resulting in the same angle of deviation .', 'fibs': ['Fig.9.23']}
+{'text': ' In order to explain the phenomena of refraction , Newton postulated that the speed of the corpuscles was greater in water or glass than in air .', 'fibs': ['Newton']}
+{'text': ' For a glass lens in air , \xa0 n2 \xa0 = 1.5 , \xa0 n1 \xa0 = 1 , \xa0 f \xa0 = +20 cm . \n', 'fibs': ['1.5', '1']}
+{'text': ' ( The amount of scattering is inversely proportional to the fourth power of the wavelength .', 'fibs': ['fourth']}
+{'text': ' For the same glass lens in water , \xa0 n2 \xa0 = 1.5 , \xa0 n1 \xa0 =', 'fibs': ['1.5']}
+{'text': ' Pour this water in a long test tube and shine the laser light from top , as shown in Fig.9.13(c).Adjust the direction of the laser beam such that it is totally internally reflected every time it strikes the walls of the tube .', 'fibs': ['Pour']}
+{'text': ' ( b ) \t the final image is formed at the least distance of distinct vision ( 25 cm ) ? \n', 'fibs': ['25cm']}
+{'text': ' ( c ) \t What is the height of the final image of the tower if it is formed at 25 cm ? \n ( a ) \t the telescope is in normal adjustment ( i.e. , when the final image is at infinity ) ? \n', 'fibs': ['25cm']}
+{'text': ' a < < λ , one has Rayleigh scattering which is proportional to 1/λ4.For a >', 'fibs': ['1/λ4.For']}
+{'text': ' The SI unit for power of a lens is dioptre ( D )', 'fibs': ['SI']}
+{'text': ' : 1 D = 1 m–1 . \n where fo and fe are the focal lengths of the objective and eyepiece , respectively , and L is the distance between their focal points . \n', 'fibs': ['1', '1', 'L']}
+{'text': ' The refractive index of denser medium 1 with respect to rarer medium 2 will be n12 = 1/sinic .', 'fibs': ['1', '2']}
+{'text': ' Some typical critical angles are listed in Table 9.1 . \n', 'fibs': ['Table 9.1']}
+{'text': ' Its unit is cd / m2 ( sometimes called ‘ nit ’ in industry).A good LCD computer monitor has a brightness of about 250 nits . \n', 'fibs': ['about 250']}
+{'text': ' The angle of incidence corresponding to an angle of refraction 90 ° , say ∠AO3N , is called the critical angle ( ic ) for the given pair of media .', 'fibs': ['90', '°', '∠AO3N']}
+{'text': ' We see from Snell ’s law [ Eq . \n', 'fibs': ['Snell']}
+{'text': ' Nature has endowed the human eye ( retina ) with the sensitivity to detect electromagnetic waves within a small range of the electromagnetic spectrum .', 'fibs': ['Nature']}
+{'text': ' Electromagnetic radiation belonging to this region of the spectrum ( wavelength of about 400 nm to 750 nm ) is called light .', 'fibs': ['about 400', '750']}
+{'text': ' For values of i larger than ic , Snell ’s law of refraction can not be satisfied , and hence no refraction is possible . \n', 'fibs': ['Snell’s']}
+{'text': ' Should he / she take a straight line path GAC between G and C or GBC in which the path BC in water would be the shortest , or some other path', 'fibs': ['GAC', 'BC']}
+{'text': ' In the first two cases , the critical angle ic for the material of the prism must be less than 45 ° .We see from Table 9.1 that this is true for both crown glass and dense flint glass . \n', 'fibs': ['first', 'two', '45', 'Table 9.1']}
+{'text': ' = +10 cm , R2 = –15 cm . \n', 'fibs': ['–15']}
+{'text': ' Equation ( 9.38 ) thus provides a method of determining refractive index of the material of the prism . \n', 'fibs': ['9.38']}
+{'text': ' On doing all this algebra ( which we skip here ) , we find that the guard should enter water at a point where Snell ’s law is satisfied .', 'fibs': ['Snell']}
+{'text': ' To understand this , draw a perpendicular LM to side SR at X. \n', 'fibs': ['LM', 'X.\n']}
+{'text': ' = e , corresponds to two values i and hence of e.', 'fibs': ['corresponds to two']}
+{'text': ' In short , whether it is a wave or a particle or a human being , whenever two mediums and two velocities are involved , one must follow Snell ’s law if one wants to take the shortest time . \n', 'fibs': ['two', 'two', 'Snell’s']}
+{'text': ' There are two things that we can intuitively mention about light from common experience .', 'fibs': ['two']}
+{'text': ' First , that it travels with enormous speed and second , that it travels in a straight line .', 'fibs': ['First', 'second']}
+{'text': ' = 3 × 108 m s–1.The speed of light in vacuum is the highest speed attainable in nature . \n', 'fibs': ['3', '108']}
+{'text': ' Suppose the guard enters water at X.Let GX', 'fibs': ['X.Let GX']}
+{'text': ' = l1 \xa0 and XC = l2 . \n', 'fibs': ['XC']}
+{'text': ' ( 9.7 ) , and the magnification formula , Eq . \n', 'fibs': ['9.7']}
+{'text': ' Combining these two equations , we find \xa0 f \xa0 =', 'fibs': ['two']}
+{'text': ' The object distance \xa0 u \xa0 = –10 cm .', 'fibs': ['–10']}
+{'text': ' In order to understand the formation of rainbows , consider Fig . \n', 'fibs': ['Fig']}
+{'text': ' Let us consider a pair of stars of actual separation 1′ ( one minute of arc).The stars appear as though they are separated by an angle of 100', 'fibs': ['one minute', '100']}
+{'text': ' In terms of power , Eq . \n Suppose the object is at infinity , i.e. , OB → ∞ and DI', 'fibs': ['OB', 'DI']}
+{'text': ' In the quadrilateral AQNR , two of the angles ( at the vertices Q and R ) are right angles .', 'fibs': ['AQNR', 'two']}
+{'text': ' Therefore , the sum of the other angles of the quadrilateral is 180 ° . \n', 'fibs': ['180']}
+{'text': ' From Fig.9.5 , the two right - angled triangles A′B′F and MPF are similar . \n', 'fibs': ['two', 'A′B′F', 'MPF']}
+{'text': ' as is clear from Fig.9.29(c ) . \n', 'fibs': ['Fig.9.29(c']}
+{'text': ' ( 9.7 ) and ( 9.9 ) are valid for these cases as well . \n', 'fibs': ['9.7', '9.9']}
+{'text': ' Here , OM , MI and MC represent magnitudes of distances . \n or   for small value of δ . \n', 'fibs': ['OM', 'MI', 'MC']}
+{'text': ' We use the relation given by Eq.(9.16 ) . \n Using these in Eq . \n', 'fibs': ['Eq.(9.16']}

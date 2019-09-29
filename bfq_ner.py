@@ -25,7 +25,7 @@ def create_blank(word, sentence):
     return buff.sub('_______________', sentence)
 
 # =================== main
-def main():
+def main(file_path):
     data_arr = []
     nlp = en_core_web_sm.load()
     text = read_data(file_path)
@@ -33,7 +33,7 @@ def main():
 
     final_array = []
     for sentence in processed_text.sents:
-        if len(sentence) > 7:
+        if len(sentence) > 5:
 
             if debug_flag == 1:
                 print(len(sentence))
@@ -61,6 +61,8 @@ def main():
                 dict = {"text": sentence_str, "fibs": words}
                 final_array.append(dict)
 
+    return final_array
+
     for i in final_array:
         print (i)
 
@@ -76,13 +78,29 @@ if __name__ == "__main__":
     command = ''
     if len(sys.argv) < 2:
         print("Please Enter a Filename")
-        print("Usage: python3 bfq.py ''filename''")
+        print("Usage: python3 bfq_ner.py ''filename''")
         sys.exit(1)
     else:
         command = sys.argv
-        filename = sys.argv[1]
-        file_path = 'files/' + filename
-        if (path.exists(file_path) == False):
-            print("File Does Not Exist")
-        else:
-            main()
+        #directoryName
+        filepaths = []
+        # print(sys.argv[0])
+        # print(sys.argv[1])
+        directoryPath = sys.argv[1]
+        # print(directoryPath)
+        for file in os.listdir(directoryPath):
+            if file.endswith("_tfidf.txt"):
+                # print(file,type(file))
+                filepaths.append(os.path.join(directoryPath, file))
+        for filepath in filepaths:
+            data = main(filepath)
+            filename = filepath.replace("_tfidf.txt", "_output.txt")
+            # print(type(filename))
+            # print(str(filename))
+            f = open((filename), "w")
+            for line in data:
+                f.write(str(line))
+                f.write('\n')
+            f.close()
+
+

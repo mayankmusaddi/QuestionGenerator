@@ -1,0 +1,145 @@
+{'text': ' The model of the atom proposed by Rutherford assumes that the atom , consisting of a central nucleus and revolving electron is stable much like sun - planet system which the model imitates .', 'fibs': ['Rutherford']}
+{'text': ' However , there are some fundamental differences between the two situations .', 'fibs': ['two']}
+{'text': ' While the planetary system is held by gravitational force , the nucleus - electron system being charged objects , interact by Coulomb ’s Law of force .', 'fibs': ['Coulomb’s Law']}
+{'text': ' The existence of discrete energy levels in an atom was directly verified in 1914 by James Franck and Gustav Hertz .', 'fibs': ['1914', 'James Franck', 'Gustav Hertz']}
+{'text': ' This can only happen when the energy of the electron is higher than the energy difference between an energy level of Hg occupied by an electron and a higher unoccupied level ( see Figure).For instance , the difference between an occupied energy level of Hg and a higher unoccupied level is 4.9 eV.If an electron of having an energy of 4.9 eV or more passes through mercury , an electron in mercury atom can absorb energy from the bombarding electron and get excited to the higher level', 'fibs': ['Hg', 'Hg', '4.9', '4.9']}
+{'text': ' [ Fig ( a)].The colliding electron ’s kinetic energy would reduce by this amount . \n', 'fibs': ['Fig']}
+{'text': ' In Rutherford ’s nuclear model of the atom , the entire positive charge and most of the mass of the atom are concentrated in the nucleus with the electrons some distance away .', 'fibs': ['Rutherford’s']}
+{'text': ' Rutherford ’s experiments suggested the size of the nucleus to be about 10–15 m to 10–14 m.', 'fibs': ['Rutherford’s', 'about 10–15']}
+{'text': ' From kinetic theory , the size of an atom was known to be 10–10 m , about 10,000 to 100,000 times larger than the size of the nucleus ( see Chapter 11 , Section 11.6 in Class XI Physics textbook).Thus , the electrons would seem to be at a distance from the nucleus of about 10,000 to 100,000 times the size of the nucleus itself .', 'fibs': ['about 10,000 to 100,000', 'Chapter 11', 'Section 11.6', 'about 10,000 to 100,000']}
+{'text': ' The lowest state of the atom , called the ground state , is that of the lowest energy , with the electron revolving in the orbit of smallest radius , the Bohr radius , a0.The energy of this state ( n = 1 ) , E1 is –13.6 eV.Therefore , the minimum energy required to free the electron from the ground state of the hydrogen atom is 13.6 eV.It is called the ionisation energy of the hydrogen atom .', 'fibs': ['Bohr', '1', '13.6']}
+{'text': ' We are introduced to the Bohr Model of atom one time or the other in the course of physics .', 'fibs': ['the Bohr Model', 'one']}
+{'text': ' It has become a milestone since Bohr introduced the revolutionary idea of definite energy orbits for the electrons , contrary to the classical picture requiring an accelerating particle to radiate .', 'fibs': ['Bohr']}
+{'text': ' Bohr also introduced the idea of quantisation of angular momentum of electrons moving in definite orbits .', 'fibs': ['Bohr']}
+{'text': ' ( 12.19 ) , for n = 2 ; the energy E2 is –3.40 eV.It means that the energy required to excite an electron in hydrogen atom to its first excited state , is an energy equal to', 'fibs': ['12.19', '2', 'first']}
+{'text': ' 12.09 eV , or to excite the hydrogen atom from its ground state ( n = 1 ) to second excited state ( n = 3 ) , 12.09 eV energy is required , and so on .', 'fibs': ['12.09', '1', 'second', '3', '12.09']}
+{'text': ' The n = 1 state is called ground state .', 'fibs': ['1']}
+{'text': ' The Bohr model is applicable to hydrogenic atoms .', 'fibs': ['Bohr']}
+{'text': ' It can not be extended even to mere two electron atoms such as helium .', 'fibs': ['two']}
+{'text': ' The analysis of atoms with more than one electron was attempted on the lines of Bohr ’s model for hydrogenic atoms but did not meet with any success .', 'fibs': ['more than one', 'Bohr’s']}
+{'text': ' By the nineteenth century , enough evidence had accumulated in favour of atomic hypothesis of matter .', 'fibs': ['the nineteenth century']}
+{'text': ' In 1897 , the experiments on electric discharge through gases carried out by the English physicist J. J. Thomson ( 1856 – 1940 ) revealed that atoms of different elements contain negatively charged constituents ( electrons ) that are identical for all atoms .', 'fibs': ['1897', 'English', 'J. J. Thomson', '1856 – 1940']}
+{'text': ' The scattering data shown in Fig.12.3 can be analysed by employing Rutherford ’s nuclear model of the atom .', 'fibs': ['Rutherford’s']}
+{'text': ' Alpha - particles are nuclei of helium atoms and , therefore , carry two units , 2e , of positive charge and have the mass of the helium atom .', 'fibs': ['Alpha', 'two']}
+{'text': ' for gold Z = 79.Since the nucleus of gold is about 50 times heavier than an α - particle , it is reasonable to assume that it remains stationary throughout the scattering process .', 'fibs': ['about 50']}
+{'text': ' Under these assumptions , the trajectory of an alpha - particle can be computed employing Newton ’s second law of motion and the Coulomb ’s law for electrostatic force of repulsion between the alpha - particle and the positively charged nucleus . \n', 'fibs': ['Newton', 'second', 'Coulomb']}
+{'text': ' An orbit of the electron in the Bohr model is the circular path of motion of an electron around the nucleus .', 'fibs': ['Bohr']}
+{'text': ' This probability can be inferred from the one - electron wave function called the orbital .', 'fibs': ['one']}
+{'text': ' An orbit of the electron in the Bohr model is the circular path of motion of an electron around the nucleus .', 'fibs': ['Bohr']}
+{'text': ' This probability can be inferred from the one - electron wave function called the orbital .', 'fibs': ['one']}
+{'text': ' The first model of atom was proposed by J. J. Thomson in 1898.According to this model , the positive charge of the atom is uniformly distributed throughout the volume of the atom and the negatively charged electrons are embedded in it like seeds in a watermelon .', 'fibs': ['first', 'J. J. Thomson', '1898.According']}
+{'text': ' We are introduced to the Bohr Model of atom one time or the other in the course of physics .', 'fibs': ['the Bohr Model', 'one']}
+{'text': ' It has become a milestone since Bohr introduced the revolutionary idea of definite energy orbits for the electrons , contrary to the classical picture requiring an accelerating particle to radiate .', 'fibs': ['Bohr']}
+{'text': ' Bohr also introduced the idea of quantisation of angular momentum of electrons moving in definite orbits .', 'fibs': ['Bohr']}
+{'text': ' Rutherford ’s nuclear model was a major step towards how we see the atom today .', 'fibs': ['Rutherford', 'today']}
+{'text': ' Ernst Rutherford ( 1871–1937 ) , a former research student of J. J. Thomson , was engaged in experiments on α - particles emitted by some radioactive elements .', 'fibs': ['Ernst Rutherford', 'J. J. Thomson']}
+{'text': ' In 1906 , he proposed a classic experiment of scattering of these α - particles by atoms to investigate the atomic structure .', 'fibs': ['1906']}
+{'text': ' This experiment was later performed around 1911 by Hans Geiger ( 1882–1945 ) and Ernst Marsden ( 1889–1970 , who was 20 year - old student and had not yet earned his bachelor ’s', 'fibs': ['1911', 'Hans Geiger', 'Ernst Marsden', '1889–1970', '20 year-old']}
+{'text': ' degree).The details are discussed in Section 12.2.The explanation of the results led to the birth of Rutherford ’s planetary model of atom ( also called the nuclear model of the atom).According to this the entire positive charge and most of the mass of the atom is concentrated in a small volume called the nucleus with electrons revolving around the nucleus just as planets revolve around the sun . \n', 'fibs': ['Rutherford’s']}
+{'text': ' \uf06c Bohr model is valid for only one - electron atoms / ions ; an energy value , assigned to each orbit , depends on the principal quantum number n in this model .', 'fibs': ['\uf06c Bohr', 'only one']}
+{'text': ' We know that energy associated with a stationary state of an electron depends on n only , for one - electron atoms / ions .', 'fibs': ['one']}
+{'text': ' - Bohr model is valid for only one - electron atoms / ions ; an energy value , assigned to each orbit , depends on the principal quantum number n in this model .', 'fibs': ['- Bohr', 'only one']}
+{'text': ' We know that energy associated with a stationary state of an electron depends on n only , for one - electron atoms / ions .', 'fibs': ['one']}
+{'text': ' The Rutherford nuclear model of the atom which involves classical concepts , pictures the atom as an electrically neutral sphere consisting of a very small , massive and positively charged nucleus at the centre surrounded by the revolving electrons in their respective dynamically stable orbits .', 'fibs': ['Rutherford']}
+{'text': ' Bohr ’s first postulate was that an electron in an atom could revolve in certain stable orbits without the emission of radiant energy , contrary to the predictions of electromagnetic theory .', 'fibs': ['Bohr', 'first']}
+{'text': ' It was Niels Bohr ( 1885 – 1962 ) who made certain modifications in this model by adding the ideas of the newly developing quantum hypothesis .', 'fibs': ['Niels Bohr', '1885 – 1962']}
+{'text': ' Niels Bohr studied in Rutherford ’s laboratory for several months in 1912 and he was convinced about the validity of Rutherford nuclear model .', 'fibs': ['Niels Bohr', 'Rutherford’s', 'several months', '1912', 'Rutherford']}
+{'text': ' Faced with the dilemma as discussed above , Bohr , in 1913 , concluded that in spite of the success of electromagnetic theory in explaining large - scale phenomena , it could not be applied to the processes at the atomic scale .', 'fibs': ['Bohr', '1913']}
+{'text': ' Bohr combined classical and early quantum concepts and gave his theory in the form of three postulates . \n', 'fibs': ['Bohr', 'three']}
+{'text': ' J. Davisson and L. H. Germer later experimentally verified the wave nature of electrons in 1927.Louis de Broglie argued that the electron in its circular orbit , as proposed by Bohr , must be seen as a particle wave .', 'fibs': ['J. Davisson', 'L. H. Germer', '1927.Louis de Broglie', 'Bohr']}
+{'text': ' From Chapter 15 of Class XI Physics   textbook , we know that when a string is plucked , a vast number of wavelengths are excited .', 'fibs': ['Chapter 15']}
+{'text': ' It means that in a string , standing waves are formed when the total distance travelled by a wave down the string and back is one wavelength , two wavelengths , or any integral number of wavelengths .', 'fibs': ['two']}
+{'text': ' Waves with other wavelengths interfere with themselves upon reflection and their amplitudes quickly drop to zero .', 'fibs': ['zero']}
+{'text': ' Thus de Broglie hypothesis provided an explanation for Bohr ’s second postulate for the quantisation of angular momentum of the orbiting electron .', 'fibs': ['de Broglie', 'Bohr’s', 'second']}
+{'text': ' Hydrogen is the simplest atom and therefore , has the simplest spectrum .', 'fibs': ['Hydrogen']}
+{'text': ' In the observed spectrum , however , at first sight , there does not seem to be any resemblance of order or regularity in spectral lines .', 'fibs': ['first']}
+{'text': ' In 1885 , the first such series was observed by a Swedish school teacher Johann Jakob Balmer ( 1825–1898 ) in the visible region of the hydrogen spectrum .', 'fibs': ['1885', 'first', 'Swedish', 'Johann Jakob Balmer']}
+{'text': ' This series is called Balmer series ( Fig.12.6).The line with the longest wavelength , 656.3 nm in the red is called Hα ; the next line with wavelength 486.1 nm in the blue - green is called Hβ , the third line 434.1 nm in the violet is called Hγ ; and so on .', 'fibs': ['Balmer', '656.3', 'Hα', '486.1', 'Hβ', 'third', '434.1']}
+{'text': ' As mentioned in Section 12.1 , each element has a characteristic spectrum of radiation , which it emits .', 'fibs': ['Section 12.1']}
+{'text': ' Only about 0.14 % of the incident α - particles scatter by more than 1 ° ; and about 1 in 8000 deflect by more than 90 ° .Rutherford argued that , to deflect the α - particle backwards , it must experience a large repulsive force .', 'fibs': ['Only about 0.14%', 'more than 1', 'about 1', '8000', 'more than 90']}
+{'text': ' This is why Rutherford is credited with the discovery of the nucleus . \n', 'fibs': ['Rutherford']}
+{'text': ' The solution of the Schrödinger wave equation , obtained for hydrogen - like atoms / ions , called the wave function , gives information about the probability of finding an electron in various regions around the nucleus .', 'fibs': ['Schrödinger']}
+{'text': ' This orbital has no resemblance whatsoever with the orbit defined for an electron in the Bohr model . \n', 'fibs': ['Bohr']}
+{'text': ' - The solution of the Schrödinger wave equation , obtained for hydrogen - like atoms / ions , called the wave function , gives information about the probability of finding an electron in various regions around the nucleus .', 'fibs': ['Schrödinger']}
+{'text': ' This orbital has no resemblance whatsoever with the orbit defined for an electron in the Bohr model . \n', 'fibs': ['Bohr']}
+{'text': ' Of all the postulates , Bohr made in his model of the atom , perhaps the most puzzling is his second postulate .', 'fibs': ['Bohr', 'second']}
+{'text': ' It states that the angular momentum of the electron orbiting around the nucleus is quantised ( that is , Ln = nh/2π ; n   = 1 , 2 , 3 … ) .Why should the angular momentum have only those values that are integral multiples of h/2π?The French physicist Louis de Broglie', 'fibs': ['1', '2', '3', 'French', 'Louis de Broglie']}
+{'text': ' explained this puzzle in 1923 , ten years after Bohr proposed his model . \n', 'fibs': ['1923', 'ten years', 'Bohr']}
+{'text': ' The formulation of Bohr model involves electrical force between positively charged nucleus and electron .', 'fibs': ['Bohr']}
+{'text': ' ( ii ) \t While the Bohr ’s model correctly predicts the frequencies of the light emitted by hydrogenic atoms , the model is unable to explain the relative intensities of the frequencies in the spectrum .', 'fibs': ['Bohr']}
+{'text': ' Bohr ’s model is unable to account for the intensity variations . \n', 'fibs': ['Bohr']}
+{'text': ' Bohr ’s model presents an elegant picture of an atom and can not be generalised to complex atoms .', 'fibs': ['Bohr']}
+{'text': ' For complex atoms we have to use a new and radical theory based on Quantum Mechanics , which provides a more complete picture of the atomic structure . \n', 'fibs': ['Quantum Mechanics']}
+{'text': ' Lyman series : ; n = 2 , 3 , 4 , ... \n Balmer series : ; n = 3 , 4 , 5 , ... \n', 'fibs': ['Lyman', '2', '3', '4', 'Balmer', '3', '4', '5']}
+{'text': ' Paschen series : ; n = 4 , 5 , 6 , ... \n Brackett series : ; n = 5 , 6 , 7 , ... \n Pfund series : ; n = 6 , 7 , 8 , ... \n ( a ) \t', 'fibs': ['Paschen', '4', '5', '6', 'Brackett', '5', '6', '7', '6', '7', '8']}
+{'text': ' For hydrogen spectrum , the Balmer formula corresponds to nf = 2 and ni = 3 , 4 , 5 , etc .', 'fibs': ['Balmer', '2', '3', '4', '5']}
+{'text': ' The results of the Bohr ’s model suggested the presence of other series spectra for hydrogen atom –', 'fibs': ['Bohr’s']}
+{'text': ' = 1 and ni = 2 , 3 , etc . \n', 'fibs': ['1', '2', '3']}
+{'text': ' The ratio of the radius of electron ’s orbit to the radius of nucleus is ( 10–10 m)/(10–15 m ) = 105 , that is , the radius of the electron ’s orbit is 105 times larger than the radius of nucleus .', 'fibs': ['105', '105']}
+{'text': ' If the radius of the earth ’s orbit around the sun were 105 times larger than the radius of the sun , the radius of the earth', 'fibs': ['105']}
+{'text': ' ’s orbit would be 105 × 7 ×', 'fibs': ['105', '7']}
+{'text': ' This is more than 100 times greater than the actual orbital radius of earth .', 'fibs': ['more than 100']}
+{'text': ' In the early nineteenth century it was also established that each element is associated with a characteristic spectrum of radiation , for example , hydrogen always gives a set of lines with fixed relative position between the lines .', 'fibs': ['the early nineteenth century']}
+{'text': ' In 1885 , Johann Jakob Balmer ( 1825 – 1898 ) obtained a simple empirical formula which gave the wavelengths of a group of lines emitted by atomic hydrogen .', 'fibs': ['1885', 'Johann Jakob Balmer', '1825 – 1898']}
+{'text': ' ( ii ) \t Bohr ’s second postulate defines these stable orbits .', 'fibs': ['Bohr', 'second']}
+{'text': ' This postulate states that the electron revolves around the nucleus only in those orbits for which the angular momentum is some integral multiple of h/2π where h is the Planck ’s constant (= 6.6', 'fibs': ['Planck’s', '6.6']}
+{'text': ' Bohr ’s model , involving classical trajectory picture ( planet - like electron orbiting the nucleus ) , correctly predicts the gross features of the hydrogenic atoms * , in particular , the frequencies of the radiation emitted or selectively absorbed .', 'fibs': ['Bohr']}
+{'text': ' Niels Henrik David Bohr ( 1885 – 1962 )', 'fibs': ['Niels Henrik David Bohr', '1885 – 1962']}
+{'text': ' Danish physicist who explained the spectrum of hydrogen atom based on quantum ideas .', 'fibs': ['Danish']}
+{'text': ' Bohr contributed to the clarification of conceptual problems in quantum mechanics , in particular by proposing the comple- mentary principle . \n', 'fibs': ['Bohr']}
+{'text': ' ( 12.19 ) , is given in Fig.12.8.The principal quantum number n labels the stationary states in the ascending order of energy .', 'fibs': ['12.19']}
+{'text': ' n = ∞ in Eq , ( 12.19 )', 'fibs': ['12.19']}
+{'text': ' and has an energy \xa0 of 0 eV.This', 'fibs': ['0']}
+{'text': ' Ernst Rutherford ( 1871 – 1937 )  ', 'fibs': ['Ernst Rutherford', '1871 – 1937']}
+{'text': ' New Zealand born , British physicist who did pioneering work on radioactive radiation .', 'fibs': ['New Zealand', 'British']}
+{'text': ' Along with Federick Soddy , he created the modern theory of radioactivity .', 'fibs': ['Federick Soddy']}
+{'text': ' Solutions of the Schrödinger wave equation assign a wave - like description to the electrons bound in an atom due to attractive forces of the protons . \n', 'fibs': ['Schrödinger']}
+{'text': ' ( iii ) \t Bohr ’s third postulate incorporated into atomic theory the early quantum concepts that had been developed by Planck and Einstein .', 'fibs': ['Bohr', 'third', 'Planck and Einstein']}
+{'text': ' It states that an electron might make a transition from one of its specified non - radiating orbits to another of lower energy .', 'fibs': ['one']}
+{'text': ' The explanation of the hydrogen atom spectrum provided by Bohr ’s model was a brilliant achievement , which greatly stimulated progress towards the modern quantum theory .', 'fibs': ['Bohr’s']}
+{'text': ' In 1922 , Bohr was awarded Nobel Prize in Physics . \n', 'fibs': ['1922', 'Bohr', 'Nobel Prize in Physics']}
+{'text': ' ( 12.4 ) gives the expression to determine the energies of different energy states .', 'fibs': ['12.4']}
+{'text': ' To calculate r , Bohr ’s second postulate about the angular momentum of the electron –', 'fibs': ['Bohr', 'second']}
+{'text': ' where n is an integer , rn is the radius of nth possible orbit and vn is the speed of moving electron in the nth orbit .', 'fibs': ['nth']}
+{'text': ' The allowed orbits are numbered 1 , 2 , 3 ... , according to the values of n , which is called the principal quantum number of the orbit . \n', 'fibs': ['1', '2', '3']}
+{'text': ' From Example 12.3 we know that velocity of electron moving around a proton in hydrogen atom in an orbit of radius 5.3 × 10–11 m is 2.2 ×', 'fibs': ['12.3', '5.3', '2.2']}
+{'text': ' At the suggestion of Ernst Rutherford , in 1911 , H. Geiger and E. Marsden performed some experiments .', 'fibs': ['Ernst Rutherford', '1911', 'H. Geiger', 'E. Marsden']}
+{'text': ' In one of their experiments , as shown in Fig.12.1 , they directed a beam of 5.5 MeV α - particles emitted from a   radioactive source at a thin metal foil made of gold .', 'fibs': ['one', 'Fig.12.1', '5.5', 'MeV']}
+{'text': ' Figure 12.2 shows a schematic diagram of this experiment .', 'fibs': ['12.2']}
+{'text': ' Alpha - particles emitted by a   radioactive source were collimated into a narrow beam by their passage through lead bricks .', 'fibs': ['Alpha']}
+{'text': ' The beam was allowed to fall on a thin foil of gold of thickness 2.1 × 10–7 m.', 'fibs': ['2.1 × 10–7 m.']}
+{'text': ' The radius of gold nucleus is , therefore , less than 3.0 × 10–14 \xa0 m.', 'fibs': ['less than 3.0']}
+{'text': ' This is not in very good agreement with the observed result as the actual radius of gold nucleus is 6 fm .', 'fibs': ['6']}
+{'text': ' Thus the initial frequency of the light emitted is \xa0 6.6 × 1015 \xa0 Hz . \n', 'fibs': ['6.6 ×']}
+{'text': ' This is what may have suggested Bohr to discard c and look for ‘ something else ’ to get the right atomic size .', 'fibs': ['Bohr']}
+{'text': ' Bohr ’s great insight lay in recognising that h , me , and e will yield the right atomic size .', 'fibs': ['Bohr']}
+{'text': ' Equations ( 12.5 ) – ( 12.9 ) are useful as they give the wavelengths that hydrogen atoms radiate or absorb .', 'fibs': ['12.5', '12.9']}
+{'text': ' The third postulate states that an electron might make a transition from one of its specified non - radiating orbits to another of lower energy .', 'fibs': ['third']}
+{'text': ' ( a ) \t The size of the atom in Thomson ’s model is .......... the atomic size in Rutherford ’s model . \n', 'fibs': ['Thomson’s', 'Rutherford’s']}
+{'text': ' The potential energy \xa0 Ucan be calculated from Eq.(12.1 ) . \n', 'fibs': ['Ucan']}
+{'text': ' Equation ( 12.21 ) is the Rydberg formula , for the spectrum of the hydrogen atom .', 'fibs': ['12.21', 'Rydberg']}
+{'text': ' In this relation , if we take nf = 2 and ni = 3 , 4 , 5 ... , it reduces to a form similar to Eq . \n', 'fibs': ['2', '3', '4', '5']}
+{'text': ' If there are N atoms in a source , each emitting light with intensity I , then the total intensity produced by an ordinary source is proportional to NI , whereas in a laser source , it is proportional to N2I.Considering that N is very large , we see that the light from a laser can be much stronger than that from an ordinary source . \n', 'fibs': ['NI', 'N2I.Considering that N']}
+{'text': ' – ( 12.19 ) involves the assumption that the electronic orbits are circular , though orbits under inverse square force are , in general elliptical .', 'fibs': ['12.19']}
+{'text': ' However , it was shown by the German physicist Arnold Sommerfeld ( 1868 – 1951 ) that , when the restriction of circular orbit is relaxed , these equations continue to hold even for elliptic orbits . \n', 'fibs': ['German', 'Arnold Sommerfeld', '1868 – 1951']}
+{'text': ' This is the quantum condition proposed by Bohr for the angular momentum of the electron [ Eq . \n where r is the distance between the α - particle and the nucleus .', 'fibs': ['Bohr']}
+{'text': ' The acronym LASER stands for Light Amplification by Stimulated Emission of Radiation .', 'fibs': ['Light Amplification by Stimulated Emission of Radiation']}
+{'text': ' Since its development in 1960 , it has entered into all areas of science and technology .', 'fibs': ['1960']}
+{'text': ' There are low power lasers , with a power of 0.5 mW , called pencil lasers , which serve as pointers .', 'fibs': ['0.5']}
+{'text': ' Light is emitted from a source in the form of packets of waves .', 'fibs': ['Light']}
+{'text': ' For a hydrogen atom , Eq . \n ( a ) \t Is the average angle of deflection of α - particles by a thin gold foil predicted by Thomson ’s model much less , about the same , or much greater than that predicted by Rutherford ’s model ? \n', 'fibs': ['Thomson’s', 'Rutherford’s']}
+{'text': ' Since 1 eV = 1.6 × 10–19 J', 'fibs': ['1', '1.6', '× 10–19']}
+{'text': ' , Eq . \n ( b ) \t Is the probability of backward scattering ( i.e. , scattering of α - particles at angles greater than 90 ° ) predicted by Thomson ’s model much less , about the same , or much greater than that predicted by Rutherford ’s model ? \n', 'fibs': ['90', '°', 'Thomson’s', 'Rutherford’s']}
+{'text': ' For n = 4 , one obtains the wavelength of Hβ line , etc .', 'fibs': ['4', 'one', 'Hβ']}
+{'text': ' For n = ∞ , one obtains the limit of the series , at λ = 364.6 nm .', 'fibs': ['one', '364.6']}
+{'text': ' This is the shortest wavelength in the Balmer series .', 'fibs': ['Balmer']}
+{'text': ' These are known , after their discoverers , as Lyman , Paschen , Brackett , and Pfund series . \n ; nf = 3 and ni = 4 , 5 , etc . , and so on .', 'fibs': ['Lyman', 'Paschen', 'Brackett', 'Pfund', '3', '4', '5']}
+{'text': ' Such series were identified in the course of spectroscopic investigations and are known as the Lyman , Balmer , Paschen , Brackett , and Pfund series .', 'fibs': ['Lyman', 'Balmer', 'Paschen', 'Brackett', 'Pfund']}
+{'text': ' This is a value very close to the value ( 1.097 × 107 m–1 ) obtained from the empirical Balmer formula .', 'fibs': ['1.097', '107', 'Balmer']}
+{'text': ' This agreement between the theoretical and experimental values of the Rydberg constant provided a direct and striking confirmation of the Bohr ’s model . \n', 'fibs': ['Rydberg', 'Bohr’s']}
+{'text': ' The model is based on just three postulates but accounts for almost all the general features of the hydrogen spectrum . \n', 'fibs': ['three']}
+{'text': ' ( i)The model is based on just three postulates but accounts for almostall the general features of the hydrogen spectrum . \n', 'fibs': ['three']}
+{'text': ' We studied , in Chapter 11 , about the de Broglie ’s hypothesis that material particles , such as electrons , also have a wave nature .', 'fibs': ['Chapter 11', 'the de Broglie’s']}
+{'text': ' When astronauts of the Apollo missions visited the moon , they placed a mirror on its surface , facing the earth .', 'fibs': ['Apollo']}
+{'text': ' The wavelengths of the first four lines in the Lyman series correspond to transitions from ni =', 'fibs': ['first', 'four', 'Lyman']}
+{'text': ' By direct measurement , Franck and Hertz found that the emission spectrum of mercury has a line corresponding to this wavelength . \n', 'fibs': ['Franck', 'Hertz']}

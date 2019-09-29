@@ -1,0 +1,129 @@
+{'text': ' Basically , there are two domains of interest : macroscopic and microscopic .', 'fibs': ['two']}
+{'text': ' The microscopic domain includes atomic , molecular and nuclear phenomena*.Classical Physics deals mainly with macroscopic phenomena and includes subjects like Mechanics , Electrodynamics , Optics and Thermodynamics .', 'fibs': ['Mechanics, Electrodynamics, Optics and Thermodynamics']}
+{'text': ' Mechanics founded on Newton ’s laws of motion and the law of gravitation is concerned with the motion ( or equilibrium ) of particles , rigid and deformable bodies , and general systems of particles .', 'fibs': ['Newton']}
+{'text': ' Its basic laws were given by Coulomb , Oersted , Ampere and Faraday , and encapsulated by Maxwell in his famous set of equations .', 'fibs': ['Coulomb', 'Oersted', 'Ampere', 'Faraday', 'Maxwell']}
+{'text': ' First , it was realised that for scientific progress , only qualitative thinking , though no doubt important , is not enough .', 'fibs': ['First']}
+{'text': ' Quantitative measurement is central to the growth of science , especially physics , because the laws of nature happen to be expressible in precise mathematical equations .', 'fibs': ['Quantitative']}
+{'text': ' The second most important insight was that the basic laws of physics are universal — the same laws apply in widely different contexts .', 'fibs': ['second']}
+{'text': ' Most observed phenomena in daily life are rather complicated manifestations of the basic laws .', 'fibs': ['daily']}
+{'text': ' It is not practical to take into account all the complexities of a phenomenon in one go .', 'fibs': ['one']}
+{'text': ' A good strategy is to focus first on the essential features , discover the basic principles and then introduce corrections to build a more refined theory of the phenomenon .', 'fibs': ['first']}
+{'text': ' In that case , the two objects will fall almost at the same rate , giving the basic law that acceleration due to gravity is independent of the mass of the object .', 'fibs': ['two']}
+{'text': ' We remarked in section 1.1 that unification is a basic quest in physics .', 'fibs': ['section 1.1']}
+{'text': ' Newton unified terrestrial and celestial domains under a common law of gravitation .', 'fibs': ['Newton']}
+{'text': ' The experimental discoveries of Oersted and Faraday showed that electric and magnetic phenomena are in general inseparable .', 'fibs': ['Oersted', 'Faraday']}
+{'text': ' Maxwell unified electromagnetism and optics with the discovery that light is an electromagnetic wave .', 'fibs': ['Maxwell']}
+{'text': ' Einstein attempted to unify gravity and electromagnetism but could not succeed in this venture .', 'fibs': ['Einstein']}
+{'text': ' The steam engine , as we know , is inseparable from the Industrial Revolution in England in the eighteenth century , which had great impact on the course of human civilisation .', 'fibs': ['the Industrial Revolution in England', 'the eighteenth century']}
+{'text': ' An example of the latter is the wireless communication technology that followed the discovery of the basic laws of electricity and magnetism in the nineteenth century .', 'fibs': ['the nineteenth century']}
+{'text': ' As late as 1933 , the great physicist Ernest Rutherford had dismissed the possibility of tapping energy from atoms .', 'fibs': ['late as 1933', 'Ernest Rutherford']}
+{'text': ' But only a few years later , in 1938 , Hahn and Meitner discovered the phenomenon of neutron - induced fission of uranium , which would serve as the basis of nuclear power reactors and nuclear weapons .', 'fibs': ['only a few years later', '1938', 'Hahn', 'Meitner']}
+{'text': ' Yet another important example of physics giving rise to technology is the silicon ‘ chip ’ that triggered   the computer revolution in the last three decades of the twentieth century .', 'fibs': ['the last three decades of the twentieth century']}
+{'text': ' Albert Einstein , born in Ulm , Germany in 1879 , is universally regarded as one of the greatest physicists of all time .', 'fibs': ['Albert Einstein', 'Ulm', 'Germany', '1879', 'one']}
+{'text': ' His astonishing scientific career began with the publication of three path - breaking papers in 1905.In the first paper , he introduced the notion of light quanta ( now called photons ) and used it to explain the features of photoelectric effect that the classical wave theory of radiation could not account for .', 'fibs': ['three', '1905.In', 'first']}
+{'text': ' In the second paper , he developed a theory of Brownian motion that was confirmed experimentally a few years later and provided a convincing evidence of the atomic picture of matter .', 'fibs': ['second', 'Brownian', 'a few years later']}
+{'text': ' The third paper gave birth to the special theory of relativity that made Einstein a legend in his own life time .', 'fibs': ['third', 'Einstein']}
+{'text': ' In the next decade , he explored the consequences of his new theory which included , among other things , the mass - energy equivalence enshrined in his famous equation E = mc2.He also created the general version of relativity ( The General Theory of Relativity ) , which is the modern theory of gravitation .', 'fibs': ['the next decade', 'The General Theory of Relativity']}
+{'text': ' Some of Einstein ’s most significant later contributions are : the notion of stimulated emission introduced in an alternative derivation of Planck ’s blackbody radiation law , static model of the universe which started modern cosmology , quantum statistics of a gas of massive bosons , and a critical analysis of the foundations of quantum mechanics .', 'fibs': ['Einstein’s', 'Planck’s']}
+{'text': ' The year 2005 was declared as International Year of Physics , in recognition of Einstein ’s monumental contribution to physics , in year 1905 , describing revolutionary scientific ideas that have since influenced all of modern physics . \n', 'fibs': ['The year 2005', 'International Year of Physics', 'Einstein', 'year 1905']}
+{'text': ' For example , when Johannes Kepler ( 1571 - 1630 ) examined the extensive data on planetary motion collected by Tycho Brahe ( 1546 - 1601 ) , the planetary circular orbits in heliocentric   theory ( sun at the centre of the solar system ) imagined by Nicolas Copernicus ( 1473–1543 ) had to be replaced by elliptical orbits to fit the data better .', 'fibs': ['Johannes Kepler', '1571-1630', 'Tycho Brahe', '1546-1601', 'Nicolas Copernicus']}
+{'text': ' In the beginning of the twentieth century , it was realised that Newtonian mechanics , till then a very successful theory , could not explain some of the most basic features of atomic phenomena .', 'fibs': ['the beginning of the twentieth century', 'Newtonian']}
+{'text': ' This led to the development of a   radically new theory ( Quantum Mechanics ) to deal with atomic and molecular phenomena . \n', 'fibs': ['Quantum Mechanics']}
+{'text': ' We remarked in section 1.1 that unification is a basic quest in physics .', 'fibs': ['section 1.1']}
+{'text': ' Newton unified terrestrial and celestial domains under a common law of gravitation .', 'fibs': ['Newton']}
+{'text': ' The experimental discoveries of Oersted and Faraday showed that electric and magnetic phenomena are in general inseparable .', 'fibs': ['Oersted', 'Faraday']}
+{'text': ' Maxwell unified electromagnetism and optics with the discovery that light is an electromagnetic wave .', 'fibs': ['Maxwell']}
+{'text': ' Einstein attempted to unify gravity and electromagnetism but could not succeed in this venture .', 'fibs': ['Einstein']}
+{'text': ' Until the advent of Einstein ’s theory of relativity , the law of conservation of mass was regarded as another basic conservation law of nature , since matter was thought to be indestructible .', 'fibs': ['Einstein’s']}
+{'text': ' For example , we may not know the complicated forces that act during a collision of two automobiles ; yet momentum conservation law enables us to bypass the complications and predict or rule out possible outcomes of the collision .', 'fibs': ['two']}
+{'text': ' Indeed , using the conservation laws of energy and momentum for β - decay , Wolfgang Pauli ( 1900 - 1958 ) correctly predicted in 1931 the existence of a new particle ( now called neutrino ) emitted in β - decay along with the electron . \n', 'fibs': ['Wolfgang Pauli', '1900-1958', '1931']}
+{'text': ' For example , we may not know the complicated forces that act during a collision of two automobiles ; yet momentum conservation law enables us to bypass the complications and predict or rule out possible outcomes of the collision .', 'fibs': ['two']}
+{'text': ' Indeed , using the conservation laws of energy and momentum for β - decay , Wolfgang Pauli ( 1900 - 1958 ) correctly predicted in 1931 the existence of a new particle ( now called neutrino ) emitted in β - decay along with the electron . \n', 'fibs': ['Wolfgang Pauli', '1900-1958', '1931']}
+{'text': ' The strong nuclear force   is   the strongest of all fundamental forces , about 100 times the electromagnetic force in strength .', 'fibs': ['about 100']}
+{'text': ' Physics is a basic discipline in the category of Natural Sciences , which also includes other disciplines like Chemistry and Biology .', 'fibs': ['Natural Sciences', 'Chemistry and Biology']}
+{'text': ' The word Physics comes from a Greek word meaning nature .', 'fibs': ['Physics', 'Greek']}
+{'text': ' Its Sanskrit equivalent is Bhautiki that is used to refer to the study of the physical world .', 'fibs': ['Sanskrit', 'Bhautiki']}
+{'text': ' Here we remark on two principal thrusts in physics :   unification and reduction . \n', 'fibs': ['two']}
+{'text': ' Satyendranath Bose , born in Calcutta in 1894 , is among the great Indian physicists who made a fundamental contribution to the advance of science in the twentieth century .', 'fibs': ['Satyendranath Bose', 'Calcutta', '1894', 'Indian', 'the twentieth century']}
+{'text': ' , Bose started his career in 1916 as a lecturer in physics in Calcutta University ; five years later he joined Dacca University .', 'fibs': ['Bose', '1916', 'Calcutta University', 'five years later', 'Dacca University']}
+{'text': ' Here in 1924 , in a brilliant flash of insight , Bose gave a new derivation of Planck ’s law , treating radiation as a gas of photons and employing new statistical methods of counting of photon states .', 'fibs': ['1924', 'Bose', 'Planck’s']}
+{'text': ' He wrote a short paper on the subject and sent it to Einstein who immediately recognised its great significance , translated it in German and forwarded it for publication .', 'fibs': ['Einstein', 'German']}
+{'text': ' What is Science and what is the so - called Scientific Method?Science is a systematic attempt to understand natural phenomena in as much detail and depth as possible , and use the knowledge so gained to predict , modify and control phenomena .', 'fibs': ['Science']}
+{'text': ' The curiosity to learn about the world , unravelling the secrets of nature is the first step towards the discovery of science .', 'fibs': ['first']}
+{'text': ' The microscopic domain of physics deals   with the constitution and structure of matter at the minute scales of atoms and nuclei ( and even lower scales of length ) and their interaction with different probes such as electrons , photons and other elementary particles .', 'fibs': ['the minute']}
+{'text': ' Quantum Theory is currently accepted as the proper framework for explaining microscopic phenomena .', 'fibs': ['Quantum Theory']}
+{'text': ' In Physics , we attempt to explain diverse physical phenomena in terms of a few concepts and laws .', 'fibs': ['Physics']}
+{'text': ' For example , the same law of gravitation ( given by Newton ) describes the fall of an apple to the ground , the motion of the moon around the earth and the motion of planets around the sun .', 'fibs': ['Newton']}
+{'text': ' Similarly , the basic laws of electromagnetism ( Maxwell ’s equations ) govern all electric and magnetic phenomena .', 'fibs': ['Maxwell’s']}
+{'text': ' The attempts to unify fundamental forces of nature ( section 1.4 ) reflect this same quest for unification . \n', 'fibs': ['1.4']}
+{'text': ' For example , next year you will learn about Bohr ’s model of hydrogen atom , in which Bohr assumed that an electron in the hydrogen atom follows certain rules ( postutates).Why did he do that?There was a large amount of spectroscopic data before him which no other theory could explain .', 'fibs': ['next year', 'Bohr’s', 'Bohr']}
+{'text': ' So Bohr said that if we assume that an atom behaves in such a manner , we can explain all these things at once . \n', 'fibs': ['Bohr']}
+{'text': ' The key new conceptual ingredient in Bose ’s work was that the particles were regarded as indistinguishable , a radical departure from the assumption that underlies the classical Maxwell - Boltzmann statistics .', 'fibs': ['Bose', 'Maxwell-Boltzmann']}
+{'text': ' It was soon realised that the new Bose - Einstein statistics was applicable to particles with integers spins , and a new quantum statistics ( Fermi - Dirac statistics ) was needed for particles with half integers spins satisfying Pauli ’s exclusion principle .', 'fibs': ['Bose-Einstein', 'Fermi-Dirac', 'half', 'Pauli']}
+{'text': ' Particles with integers spins are now known as bosons in honour of Bose . \n', 'fibs': ['Bose']}
+{'text': ' Matter , as we know , consists of elementary charged constituents like electrons and protons .', 'fibs': ['Matter']}
+{'text': ' Electromagnetic force is the force between charged particles .', 'fibs': ['Electromagnetic']}
+{'text': ' In the simpler case when charges are at rest , the force is given by Coulomb ’s law : attractive for unlike charges and repulsive for like charges .', 'fibs': ['Coulomb’s']}
+{'text': ' The electric force between two protons , for example , is 1036 times the gravitational force between them , for any fixed distance . \n', 'fibs': ['two', '1036']}
+{'text': ' Apart from the above four , there are others which mostly deal with quantities which have been introduced in nuclear and particle physics .', 'fibs': ['four']}
+{'text': ' An important consequence of Bose - Einstein statistics is that a gas of molecules below a certain temperature will undergo a phase transition to a state where a large fraction of atoms populate the same lowest energy state .', 'fibs': ['Bose-Einstein']}
+{'text': ' Some seventy years were to pass before the pioneering ideas of Bose , developed further by Einstein , were dramatically confirmed in the observation of a new state of matter in a dilute gas of ultra cold alkali atoms - the Bose - Eintein condensate . \n', 'fibs': ['Some seventy years', 'Bose', 'Einstein']}
+{'text': ' Recent decades have seen much progress on this front .', 'fibs': ['Recent decades']}
+{'text': ' Table 1.4 summarises some of the milestones in the progress towards unification of forces in nature . \n for every physical system .', 'fibs': ['1.4']}
+{'text': ' Until the advent of Einstein ’s theory of relativity , the law of conservation of mass was regarded as another basic conservation law of nature , since matter was thought to be indestructible .', 'fibs': ['Einstein’s']}
+{'text': ' For example , the subject of thermodynamics , developed in the nineteenth century , deals with bulk systems in terms of macroscopic quantities such as temperature , internal energy , entropy , etc .', 'fibs': ['the nineteenth century']}
+{'text': ' The result of experiment of scattering of alpha particles by gold foil , in 1911 by Ernest Rutherford ( 1871–1937 ) established the nuclear model of the atom , which then became the basis of the quantum theory of hydrogen atom given in 1913 by Niels Bohr', 'fibs': ['1911', 'Ernest Rutherford', '1913', 'Niels Bohr']}
+{'text': ' ( 1885–1962).On the other hand , the concept of antiparticle was first introduced theoretically by Paul Dirac ( 1902–1984 ) in 1930 and confirmed two years later by the experimental discovery of positron ( antielectron ) by Carl Anderson . \n', 'fibs': ['first', 'Paul Dirac', '1902–1984', '1930', 'two years later', 'Carl Anderson']}
+{'text': ' The regular repetitions of the day and night , the annual cycle of seasons , the eclipses , the tides , the volcanoes , the rainbow have always been a source of wonder .', 'fibs': ['annual']}
+{'text': ' One kind of response from the earliest times has been to observe the physical environment carefully , look for any meaningful patterns and relations in natural phenomena , and build and use new tools to interact with nature .', 'fibs': ['One']}
+{'text': ' A great insight of the twentieth century physics is that these different forces occurring   in different contexts actually arise from only a small number of fundamental forces in nature .', 'fibs': ['the twentieth century']}
+{'text': ' For example , the elastic spring force arises due to the net attraction / repulsion between the neighbouring atoms of the spring when the spring is elongated / compressed .', 'fibs': ['the spring', 'the spring']}
+{'text': ' Another way of putting it is that mass comes only in one variety ( there is no negative mass ) , but charge comes in two varieties : positive and negative charge .', 'fibs': ['one', 'two']}
+{'text': ' Matter is mostly electrically neutral ( net charge is zero).Thus , electric force is largely zero and gravitational force dominates terrestrial phenomena .', 'fibs': ['Matter', 'zero']}
+{'text': ' This law is an outcome of our experience over several centuries , and it has been found to be valid in all experiments , in mechanics , thermodynamics , electromagnetism , optics , atomic and nuclear physics , or any other area . \n ; at the other end , it deals with astronomical phenomena at the scale of galaxies or even the entire universe whose extent is of the order of 1026 m.  ', 'fibs': ['several centuries', '1026']}
+{'text': ' The two length scales differ by a factor of 1040 or even more .', 'fibs': ['two', '1040']}
+{'text': ' The range of time scales can be obtained by dividing the length scales by the speed of light : 10–22 s to 1018', 'fibs': ['1018']}
+{'text': ' The range of masses goes from , say , 10–30 kg   ( mass of an electron ) to 1055 kg ( mass of known observable universe).Terrestrial phenomena lie somewhere in the middle of this range . \n', 'fibs': ['1055 kg']}
+{'text': ' According to Einstein ’s theory , mass m is equivalent to energy E given by the relation', 'fibs': ['Einstein’s']}
+{'text': ' These laws can be derived from Newton ’s laws of motion in mechanics .', 'fibs': ['Newton']}
+{'text': ' They are the basic conservation laws of nature in all domains , even in those where Newton ’s laws may not be valid . \n', 'fibs': ['Newton’s']}
+{'text': ' These laws can be derived from Newton ’s laws of motion in mechanics .', 'fibs': ['Newton']}
+{'text': ' They are the basic conservation laws of nature in all domains , even in those where Newton ’s laws may not be valid . \n', 'fibs': ['Newton’s']}
+{'text': ' The gravitational force is the force of mutual attraction between any two objects by virtue of their masses .', 'fibs': ['two']}
+{'text': ' The word Science originates from the Latin verb Scientia meaning ‘ to know’.The', 'fibs': ['Science', 'Latin']}
+{'text': ' The early civilisations of Egypt , India , China , Greece , Mesopotamia and many others made vital contributions to its progress .', 'fibs': ['Egypt', 'India', 'China', 'Greece', 'Mesopotamia']}
+{'text': ' From the sixteenth century onwards , great strides were made in science in Europe .', 'fibs': ['the sixteenth century', 'Europe']}
+{'text': ' By the middle of the twentieth century , science had become a truly international enterprise , with many cultures and countries contributing to its rapid growth . \n', 'fibs': ['the middle of the twentieth century']}
+{'text': ' you perform an experiment in your laboratory today and repeat the same experiment ( on the same objects under identical conditions ) after a year , the results are bound to be the same .', 'fibs': ['today', 'a year']}
+{'text': ' For example , the universal law of gravitation proposed by Newton is an assumption or hypothesis , which he proposed out of his ingenuity .', 'fibs': ['Newton']}
+{'text': ' What the universal law of gravitation says is that , if we assume that any two bodies in the universe attract each other with a force proportional to the product of their masses and inversely proportional to the square of the distance between them , then we can explain all these observations in one stroke .', 'fibs': ['two', 'one']}
+{'text': ' If we reflect a little , the enormous strength of the electromagnetic force compared to gravity is evident in our daily life .', 'fibs': ['daily']}
+{'text': ' At one end , it studies phenomena at the very small scale of length ( 10 - 14 m or even less ) involving electrons , protons , etc . \n of kinetic and potential energy of a body is a constant .', 'fibs': ['one', '10-14']}
+{'text': ' This law restricted for a conservative force should not be confused with the general law of conservation of energy of an isolated system ( which is the basis of the First Law of Thermodynamics ) . \n', 'fibs': ['the First Law of Thermodynamics']}
+{'text': ' ( b ) After the sea tragedy , fishermen in that area , in a gesture of honour to their dead hero , let free any crab shell caught by them which accidentally had a shape resembling the face of a Samurai .', 'fibs': ['Samurai']}
+{'text': ' ( b )  \t After the sea tragedy , fishermen in that   area , in a gesture of honour to their dead hero , let free any crab shell caught by them which accidentally had a shape resembling the face of a Samurai .', 'fibs': ['Samurai']}
+{'text': ' Einstein ’s special theory of relativity is also based on two postulates , the constancy of the speed of electromagnetic radiation and the validity of physical laws in all inertial frame of reference .', 'fibs': ['Einstein', 'two']}
+{'text': ' One should not think that everything can be proved with physics and mathematics .', 'fibs': ['One']}
+{'text': ' Euclid ’s statement that parallel lines never meet , is a hypothesis .', 'fibs': ['Euclid']}
+{'text': ' This means that if we assume this statement , we can explain several properties of straight lines and two or three dimensional figures made out of them .', 'fibs': ['two or three']}
+{'text': ' But if you do n’t assume it , you are free to use a different axiom and get a new geometry , as has indeed happened in the past few centuries and decades . \n', 'fibs': ['the past few centuries and decades']}
+{'text': ' Early thinkers like Aristotle had wrong ideas about it .', 'fibs': ['Aristotle']}
+{'text': ' The correct notion of force was arrived at by Isaac Newton in his famous laws of motion .', 'fibs': ['Isaac Newton']}
+{'text': ' He also gave an explicit form for the force for gravitational attraction between two bodies .', 'fibs': ['two']}
+{'text': ' In 1917 he was offered Professorship at Calcutta University .', 'fibs': ['1917', 'Professorship', 'Calcutta University']}
+{'text': ' In 1924 he was elected ‘ Fellow ’ of the Royal Society of London and received Nobel prize in Physics in 1930 for his discovery , now known as Raman Effect . \n', 'fibs': ['1924', 'the Royal Society of London', 'Nobel prize in Physics in 1930', 'Raman Effect']}
+{'text': ' ( a ) A tragic sea accident several centuries ago drowned a young Samurai .', 'fibs': ['several centuries ago', 'Samurai']}
+{'text': ' ( a )  \t A tragic sea accident several centuries ago drowned a young Samurai .', 'fibs': ['several centuries ago', 'Samurai']}
+{'text': ' [ Note : This interesting illustration taken from Carl Sagan', 'fibs': ['Carl Sagan']}
+{'text': ' ‘ The Cosmos ’ highlights the fact that often strange and inexplicable facts which on the first sight appear', 'fibs': ['first']}
+{'text': ' [ Note : This interesting illustration taken from Carl Sagan', 'fibs': ['Carl Sagan']}
+{'text': ' ‘ The Cosmos ’ highlights the fact that often strange and inexplicable facts which on the first sight appear', 'fibs': ['first']}
+{'text': ' This work opened totally new avenues for research for years to come . \n', 'fibs': ['years']}
+{'text': ' According to Einstein ’s theory , mass m is equivalent to energy E given by the relation', 'fibs': ['Einstein’s']}
+{'text': ' While in Kolkata , he started working on his area of interest at Indian Association for Cultivation of Science founded   by Dr. Mahendra Lal Sirkar , during his evening hours .', 'fibs': ['Kolkata', 'Indian Association for Cultivation of Science', 'Mahendra Lal Sirkar', 'his evening hours']}
+{'text': ' He spent his later years at Bangalore , first at Indian Institute of Science and then at Raman Research Institute .', 'fibs': ['later years', 'Bangalore', 'Indian Institute of Science', 'Raman Research Institute']}
+{'text': ' Chandrashekhara Venkata Raman   was born on 07 Nov 1888 in Thiruvanaikkaval .', 'fibs': ['Chandrashekhara Venkata Raman  ', '07 Nov 1888', 'Thiruvanaikkaval']}
+{'text': ' He finished his schooling by the age of eleven .', 'fibs': ['eleven']}
+{'text': ' He graduated from Presidency College , Madras .', 'fibs': ['Presidency College', 'Madras']}
+{'text': ' After finishing his education he joined financial services of the Indian Government . \n', 'fibs': ['the Indian Government']}
+{'text': ' For motion under an external conservative force , the total mechanical energy i.e. \n ( This has already been successfully done in India ) . \n ( This has already been successfully done in India ) . \n', 'fibs': ['India', 'India']}
