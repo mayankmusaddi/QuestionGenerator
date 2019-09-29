@@ -78,7 +78,7 @@ def create_wordcloud(text):
     plt.imshow(wordcloud)
     plt.axis('off')
     plt.show()
-    fig.savefig("word1.png", dpi=900)
+    fig.savefig("word1.png", dpi=300)
 
 
 #Function for sorting tf_idf in descending order
@@ -168,6 +168,7 @@ if __name__ == "__main__":
     # ##Creating a list of stop words and adding custom stopwords
     stop_words = set(stopwords.words("english"))
     corpus = create_corpus(dataset)
+    create_wordcloud(corpus[0])
     # print(corpus[0])
     
     cv=CountVectorizer(max_df=0.8,stop_words=stop_words, max_features=10000, ngram_range=(1,3))
