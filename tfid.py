@@ -14,6 +14,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
 # nltk.download('punkt')
 from textblob import TextBlob
+import os
 
 def read_data(file_path):
     file = open(file_path, 'r')
@@ -22,10 +23,9 @@ def read_data(file_path):
 
 def load_data(folder_path):
     dataset = []
-    for i in range(1,11):
-        path = folder_path+str(i)+".txt"
-        text = read_data(path)
-        dataset.append(text)
+    for file in os.listdir(folder_path):
+        if file.endswith("_final.txt"):
+            dataset.append(os.path.join(folder_path, file))
     return dataset
 
 def create_corpus(dataset):
@@ -156,7 +156,8 @@ def final_out(fileno,num):
     return final
 
 if __name__ == "__main__":
-    dataset = load_data("physics_data/")
+    directorypath = "./../data/"
+    dataset = load_data(directorypath)
     
     # ##Creating a list of stop words and adding custom stopwords
     stop_words = set(stopwords.words("english"))
@@ -170,5 +171,10 @@ if __name__ == "__main__":
     
     # fetch document for which keywords needs to be extracted
     # doc=corpus[9]
-    out = final_out(8,100)
-    print(out)
+    for i in range(len(dataset)):
+        out = final_out(i,100)
+        filename = dataset[i].replace("_final.txt", "_tfidf.txt")
+        f = open(filename, "w")
+        f.write(out)
+        f.close()
+    
