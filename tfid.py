@@ -1,20 +1,21 @@
 
 import re
 import nltk
-# nltk.download('stopwords')
+nltk.download('stopwords')
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 from nltk.tokenize import RegexpTokenizer
-# nltk.download('wordnet') 
+nltk.download('wordnet') 
 from nltk.stem.wordnet import WordNetLemmatizer
 
 from scipy.sparse import coo_matrix
 
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
-# nltk.download('punkt')
+nltk.download('punkt')
 from textblob import TextBlob
 import os
+import sys
 
 def read_data(file_path):
     file = open(file_path, 'r')
@@ -161,28 +162,34 @@ def final_out(fileno,num):
     return final
 
 if __name__ == "__main__":
-    directorypath = "./output/"
-    dataset,fnames = load_data(directorypath)
-    # print(dataset)
+    if len(sys.argv) < 2:
+        print("Please Enter the DirectoryPath")
+        print("Usage: python3 tfid.py ''DirectoryPath''")
+        sys.exit(1)
+    else:
+        command = sys.argv
+        directorypath = sys.argv[1]
+        dataset,fnames = load_data(directorypath)
+        # print(dataset)
     
-    # ##Creating a list of stop words and adding custom stopwords
-    stop_words = set(stopwords.words("english"))
-    corpus = create_corpus(dataset)
-    # print(corpus[0])
+        # ##Creating a list of stop words and adding custom stopwords
+        stop_words = set(stopwords.words("english"))
+        corpus = create_corpus(dataset)
+        # print(corpus[0])
     
-    cv=CountVectorizer(max_df=0.8,stop_words=stop_words, max_features=10000, ngram_range=(1,3))
-    X=cv.fit_transform(corpus) 
-    tfidf_transformer=TfidfTransformer(smooth_idf=True,use_idf=True)
-    tfidf_transformer.fit(X)# get feature names
-    feature_names=cv.get_feature_names()
+        cv=CountVectorizer(max_df=0.8,stop_words=stop_words, max_features=10000, ngram_range=(1,3))
+        X=cv.fit_transform(corpus) 
+        tfidf_transformer=TfidfTransformer(smooth_idf=True,use_idf=True)
+        tfidf_transformer.fit(X)# get feature names
+        feature_names=cv.get_feature_names()
     
-    # fetch document for which keywords needs to be extracted
-    # doc=corpus[9]
-    out = final_out(0,100)
-    for i in range(len(fnames)):
-        out = final_out(i,100)
-        filename = fnames[i].replace("_final.txt", "_tfidf.txt")
-        f = open(filename, "w")
-        f.write(out)
-        f.close()
+        # fetch document for which keywords needs to be extracted
+        # doc=corpus[9]
+        # out = final_out(0,200)
+        for i in range(len(fnames)):
+            out = final_out(i,500)
+            filename = fnames[i].replace("_final.txt", "_tfidf.txt")
+            f = open(filename, "w")
+            f.write(out)
+            f.close()
     

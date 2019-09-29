@@ -25,7 +25,7 @@ def create_blank(word, sentence):
     return buff.sub('_______________', sentence)
 
 # =================== main
-def main():
+def main(file_path):
     data_arr = []
     nlp = en_core_web_sm.load()
     text = read_data(file_path)
@@ -78,23 +78,29 @@ if __name__ == "__main__":
     command = ''
     if len(sys.argv) < 2:
         print("Please Enter a Filename")
-        print("Usage: python3 bfq.py ''filename''")
+        print("Usage: python3 bfq_ner.py ''filename''")
         sys.exit(1)
     else:
         command = sys.argv
         #directoryName
-        directoryPath = sys.argv[1]
         filepaths = []
-        for file in os.listdir(DirectoyPath):
+        # print(sys.argv[0])
+        # print(sys.argv[1])
+        directoryPath = sys.argv[1]
+        # print(directoryPath)
+        for file in os.listdir(directoryPath):
             if file.endswith("_tfidf.txt"):
-                files.append(os.path.join(DirectoyPath, file))
+                # print(file,type(file))
+                filepaths.append(os.path.join(directoryPath, file))
         for filepath in filepaths:
             data = main(filepath)
             filename = filepath.replace("_tfidf.txt", "_output.txt")
-            if(path.exists(filename) == False):
-                f = open(filename, "w")
-                f.close()
-            f = open((filename, "a"))
-            for line in final_array:
-                f.write(line)
-            f.close() 
+            # print(type(filename))
+            # print(str(filename))
+            f = open((filename), "w")
+            for line in data:
+                f.write(str(line))
+                f.write('\n')
+            f.close()
+
+

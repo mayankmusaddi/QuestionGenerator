@@ -1,0 +1,103 @@
+{'text': ' As mentioned in section 4.2 , vectors , by definition , obey the triangle law or equivalently , the parallelogram law of addition .', 'fibs': ['section 4.2']}
+{'text': ' Let us consider two vectors A and B that lie in a plane as shown in Fig.4.4(a).The lengths of the line segments representing these vectors are proportional to the magnitude of the vectors .', 'fibs': ['two']}
+{'text': ' To find the sum A + B , we place vector B so that its tail is at the head of the vector A , as in Fig.4.4(b).Then , we join the tail of A to the head of B.This line OQ represents a vector R , that is , the sum of the vectors A and B.Since , in this procedure of vector addition , vectors are arranged head to tail , this graphical method is called the head - to - tail method .', 'fibs': ['Fig.4.4(b).Then']}
+{'text': ' The two vectors and their resultant form three sides of a triangle , so this method is also known as triangle method of vector addition .', 'fibs': ['two', 'three']}
+{'text': ' We say that A has been resolved into two component vectors λ a and µ b along a and b respectively .', 'fibs': ['two']}
+{'text': ' Using this method one can resolve a given vector into two component vectors along a set of two vectors –', 'fibs': ['two', 'two']}
+{'text': ' all the three lie in the same plane .', 'fibs': ['three']}
+{'text': ' It is shown in Fig 4.5.The vector –B is added to vector A to get R2 =', 'fibs': ['Fig']}
+{'text': ' We can also use the parallelogram method to find the sum of two vectors .', 'fibs': ['two']}
+{'text': ' we join the point of the intersection of these two lines to the origin O.The resultant vector R is directed from the common origin O along   the diagonal ( OS ) of the parallelogram [ Fig.4.6(b)].In Fig.4.6(c )', 'fibs': ['two', 'O.The', 'OS']}
+{'text': ' , the triangle law is used to obtain the resultant of A and B and we see that the two methods yield the same result .', 'fibs': ['two']}
+{'text': ' Thus , the two methods are equivalent . \n', 'fibs': ['two']}
+{'text': ' We found that the directional aspect of these quantities can be taken care of by + and – signs , as in one dimension only two directions are possible .', 'fibs': ['one', 'only two']}
+{'text': ' But in order to describe motion of an object in two dimensions ( a plane ) or three dimensions ( space ) , we need to use vectors to describe the above - mentioned physical quantities .', 'fibs': ['two', 'three']}
+{'text': ' Therefore , it is first necessary to learn the language of vectors .', 'fibs': ['first']}
+{'text': ' Circular motion is a familiar class of motion that has a special significance in daily - life situations .', 'fibs': ['daily']}
+{'text': ' Point P′ is represented by another position vector , OP′ denoted by r′.The length of the vector r  ', 'fibs': ['r′.The']}
+{'text': ' represents the magnitude of the vector and its direction is the direction in which P lies as seen from O.If the object', 'fibs': ['O.If']}
+{'text': ' Thus , a vector is represented by a bold face , e.g.by A , a , p , q , r , ... x , y , with respective magnitudes denoted by light face A , a , p , q , r , ... x , y. \n ( a ) adding any two scalars , ( b ) adding a scalar to a vector of the same dimensions ,      ( c ) multiplying any vector by any scalar , ( d ) multiplying any two scalars , ( e ) adding any two vectors , ( f ) adding a component of a vector to the same vector . \n', 'fibs': ['two', 'two', 'two']}
+{'text': ' , the triangle CPP′ formed by the position vectors and the triangle GHI formed by the velocity vectors v , v′ and ∆v are similar ( Fig.4.19a).Therefore , the ratio of the base - length to side - length for one of the triangles is equal to that of the other triangle . \n', 'fibs': ['CPP′', 'GHI']}
+{'text': ' Let a and b be any two non - zero vectors in a plane with different directions and let A be another vector in the same plane(Fig.4.8).A can be expressed as a sum of two vectors — one obtained by multiplying a by a real number and the other obtained by multiplying b by another real number .', 'fibs': ['two', 'zero', 'two']}
+{'text': ' Let them intersect at Q. \n where   λ and µ are real numbers . \n', 'fibs': ['Q.\n']}
+{'text': ' Examples are : the distance between two points , mass of an object , the temperature of a body and the time at which a certain event happened .', 'fibs': ['two']}
+{'text': ' Scalars can be added , subtracted , multiplied and divided just as the ordinary numbers*.For example , if the length and breadth of a rectangle are 1.0 m and 0.5 m respectively , then its perimeter is the sum of the lengths of the four sides , 1.0 m + 0.5 m +1.0 m + 0.5 m', 'fibs': ['1.0', '0.5', 'four', '1.0', '0.5', '+1.0', '0.5']}
+{'text': ' Take another example : the maximum and minimum temperatures on a particular day are 35.6 ° C and 24.2 ° C respectively .', 'fibs': ['a particular day', '35.6', '°C', '24.2', '°C']}
+{'text': ' Then , the difference between the two temperatures is 11.4 ° C.Similarly , if a uniform solid cube of aluminium of side 10 cm has a mass of 2.7 kg , then its volume is 10–3 m3 ( a scalar ) and its density is 2.7×103 kg m–3 ( a scalar ) . \n', 'fibs': ['two', '11.4', '°C.Similarly', '10 cm', '2.7 kg']}
+{'text': ' A.For example , if we multiply a constant velocity vector by duration ( of time ) , we get a displacement vector . \n', 'fibs': ['A.For']}
+{'text': ' This is shown in Figs.4.15(a ) to ( d).P represents the position of the object at time t and P1 , P2 , P3 positions after time ∆t1 , ∆t2 ,', 'fibs': ['Figs.4.15(a']}
+{'text': ' ( ∆t1 > ∆t2>∆t3).The velocity vectors at points P , P1 , P2 , P3 are also shown in Figs.4.15 ( a ) , ( b ) and ( c).In each case of ∆t , ∆v is obtained using the triangle law of vector addition .', 'fibs': ['Figs.4.15', '∆t']}
+{'text': ' What is the physical meaning of a zero vector?Consider the position and displacement vectors in a plane as shown in Fig.4.1(a).Now suppose that an object which is at P at time t , moves to P′ and then comes back to P.', 'fibs': ['zero']}
+{'text': ' The velocity vectors v and v′ are as shown in Fig.4.19(a1).∆v is obtained in Fig.4.19 ( a2 ) using the triangle law of vector addition .', 'fibs': ['Fig.4.19(a1).∆v', 'Fig.4.19']}
+{'text': ' , ∆v is perpendicular to ∆r . \n', 'fibs': ['∆r']}
+{'text': ' Since we are dealing with motion in two dimensions in this chapter , we require use of only two unit vectors . \n', 'fibs': ['two', 'only two']}
+{'text': ' The same procedure can be used to resolve a general vector A into three components along x- , y- , and z - axes in three dimensions .', 'fibs': ['three', 'three']}
+{'text': ' If α , β , and γ are the angles * between A and the x- , y- , and z - axes , respectively [ Fig . \n Consider a vector A that lies in x - y plane as shown in Fig.4.9(b).We draw lines from the head of A perpendicular to the coordinate axes as in Fig.4.9(b ) , and get vectors A1 and A2 such that   A1 + A2 = A. \n where \xa0 Ax \xa0 and \xa0 Ay \xa0 are real numbers . \n', 'fibs': ['Fig.4.9(b).We']}
+{'text': ' It is important to note that displacement vector is the straight line joining the initial and final positions and does not depend on the actual path undertaken by the object between the two positions .', 'fibs': ['two']}
+{'text': ' For example , in Fig.4.1(b ) , given the initial and final positions as P and Q , the displacement vector is the same PQ for different paths of journey , say PABCQ , PDQ , and PBEFQ.Therefore , the magnitude of displacement is either less or equal to the path length of an object between two points .', 'fibs': ['PABCQ', 'PDQ', 'two']}
+{'text': ' and Ay   are called x- , and y- components of the vector A. \n is a vector , and so is . \n', 'fibs': ['Ay  ', 'A.\n']}
+{'text': ' The motion of a projectile may be thought of as the result of two separate , simultaneously occurring components of motions .', 'fibs': ['two']}
+{'text': ' One component is along a horizontal direction without   any acceleration and the other along the vertical direction with constant acceleration due to the force of gravity .', 'fibs': ['One']}
+{'text': ' It was Galileo who first stated this independency of the horizontal and the vertical components of projectile motion in his Dialogue on the great world systems ( 1632 ) . \n', 'fibs': ['Galileo', 'first', 'Dialogue', '1632']}
+{'text': ' ) Three vectors not lying in a plane can never add up to give a null vector . \n', 'fibs': ['Three']}
+{'text': ' Note carefully the difference between this Example and the Example 4.1.In Example 4.1 , the boy experiences the resultant ( vector   sum ) of two velocities while in this example , the woman experiences the velocity of rain relative to the bicycle ( the vector difference of the two velocities ) . \n', 'fibs': ['Example', 'two', 'two']}
+{'text': ' Multiplying a given vector A by negative numbers , say –1 and –1.5 , gives vectors as shown in Fig 4.3(b ) . \n', 'fibs': ['–1.5', '4.3(b']}
+{'text': ' The null vector also results when we multiply a vector A by the number zero . \n', 'fibs': ['zero']}
+{'text': ' What is the result of adding two equal and opposite vectors ?', 'fibs': ['two']}
+{'text': ' Consider   two   vectors A and –A', 'fibs': ['two']}
+{'text': ' Since vectors obey the commutative and associative laws , we can arrange and regroup the vectors in Eq . \n Equation ( 4.38 ) gives the x- , and y - coordinates of the position of a projectile at time t in terms of two parameters', 'fibs': ['4.38', 'two']}
+{'text': ' One of the components of velocity , i.e.x - component remains constant throughout the motion and only the \xa0 y- component changes , like an object in free fall in vertical direction .', 'fibs': ['One']}
+{'text': ' ( b ) Find the magnitude and direction of v(t ) at t = 1.0 s. \n', 'fibs': ['1.0']}
+{'text': ' We follow the method used in the one - dimensional case .', 'fibs': ['one']}
+{'text': ' Let ro and r be the position vectors of the particle at time 0 and t and let the velocities at these instants be vo', 'fibs': ['0']}
+{'text': ' This is why this acceleration is called centripetal acceleration ( a term proposed by Newton).A thorough analysis of centripetal acceleration was first published in 1673 by the Dutch scientist Christiaan Huygens ( 1629 - 1695 ) but it was probably known to Newton also', 'fibs': ['Newton).A', 'first', '1673', 'Dutch', 'Christiaan Huygens', '1629-1695', 'Newton']}
+{'text': ' some years earlier.“Centripetal ” comes from a Greek term which means ‘ centre -', 'fibs': ['Greek']}
+{'text': ' Note that in one dimension , the velocity and the acceleration of an object are always along the same straight line ( either in the same direction or in the opposite direction).However , for motion in two or three dimensions , velocity and acceleration vectors may have any angle between 0 ° and 180 °   between them . \n', 'fibs': ['one', 'two', 'three', '°', '180', '°  ']}
+{'text': ' That is , motion in a plane ( two - dimensions ) can be treated as two separate simultaneous one - dimensional motions with constant acceleration along two perpendicular directions .', 'fibs': ['two-dimensions', 'two', 'one', 'two']}
+{'text': ' This is an important result and is useful in analysing motion of objects in two dimensions .', 'fibs': ['two']}
+{'text': ' A similar result holds for three dimensions .', 'fibs': ['three']}
+{'text': ' The choice of perpendicular directions is convenient in many physical situations , as we shall see in section 4.10 for projectile motion . \n', 'fibs': ['section 4.10']}
+{'text': ' In this section we shall see how to describe motion in two dimensions using vectors . \n', 'fibs': ['two']}
+{'text': ' ( 4.13 ) , a component of a vector can be positive , negative or zero depending on the value of θ . \n', 'fibs': ['4.13', 'zero']}
+{'text': ' The position vector r of a particle P located in a plane with reference to the origin of an x - y reference frame ( Fig . \n', 'fibs': ['Fig']}
+{'text': ' For example , if A is multiplied by 2 , the resultant vector 2A is in the same direction as A and has a magnitude twice of |A| as shown in Fig.4.3(a ) . \n', 'fibs': ['2', '|A|']}
+{'text': ' Since the magnitude of a null vector is zero , its direction can not be specified . \n', 'fibs': ['zero']}
+{'text': ' Suppose that the projectile is launched with velocity vo that makes an angle θo with   the x - axis as shown in Fig.4.17 . \n', 'fibs': ['Fig.4.17']}
+{'text': ' Now , we have two ways to specify a vector A in a plane . \n', 'fibs': ['two']}
+{'text': ' where is a unit vector along A. \n Two vectors', 'fibs': ['Two']}
+{'text': ' The horizontal distance travelled by a projectile from its initial position to the position it passes \xa0 y \xa0 = 0 during its fall is called the \xa0 range , \xa0 R \xa0 of the projectile . \n', 'fibs': ['0']}
+{'text': ' The horizontal distance travelled by a projectile from its initial position ( x = y = 0 ) to the position where it passes y = 0 during its fall is called the horizontal range , R.', 'fibs': ['R.']}
+{'text': ' It is the distance travelled during the time of flight Tf   . \n', 'fibs': ['Tf  ']}
+{'text': ' where Ax , Ay are its components along x- , and y -axes . \n', 'fibs': ['Ay']}
+{'text': ' Tf   is known as the time of flight of the projectile .', 'fibs': ['Tf  ']}
+{'text': ' We note that Tf   = 2 tm , which is expected because of the symmetry of the parabolic path . \n', 'fibs': ['Tf  ', '2']}
+{'text': ' The meaning of the limiting process can be easily understood with the help of Fig 4.13(a ) to ( d).In these figures , the thick line represents the path of an object , which is at P at time', 'fibs': ['Fig 4.13(a']}
+{'text': ' t.    P1 , P2 and P3 represent the positions of the object   after times ∆t1,∆t2 , and ∆t3.∆r1 ,   ∆r2 , and ∆r3 are the displacements of the object in times   ∆t1 , ∆t2 , and ∆t3 , respectively . \n', 'fibs': ['∆t3.∆r1', '∆r3']}
+{'text': ' In Fig.4.19(c ) , ∆t→0 and the average acceleration becomes the instantaneous acceleration .', 'fibs': ['Fig.4.19(c', '∆t→0']}
+{'text': ' The total time Tf during which the projectile is in flight can be obtained by putting y = 0 in          Eq.(4.38 ) . \n', 'fibs': ['0', 'Eq.(4.38']}
+{'text': ' The concept of relative velocity , introduced in section 3.7 for motion along a straight line , can be easily extended to include motion in a plane or in three dimensions . \n', 'fibs': ['section 3.7', 'three']}
+{'text': ' t = tm in Eq . \n ( 4.40 ) is of the form y', 'fibs': ['4.40']}
+{'text': ' This is the equation of a parabola , i.e.the path of the projectile is a parabola           ( Fig.4.18 ) . \n , the average acceleration   is perpendicular to ∆r .', 'fibs': ['∆r']}
+{'text': ' Figure 4.19(b ) shows the same quantities for smaller time interval . \n', 'fibs': ['4.19(b']}
+{'text': ' What is the shape of the path followed by the projectile?This can be seen by eliminating the time between the expressions for x and y as given in Eq.(4.38 ) . \n', 'fibs': ['Eq.(4.38']}
+{'text': ' Ax and Ay   can be obtained using Eq.(4.13 ) . \n', 'fibs': ['Ay  ', 'Eq.(4.13']}
+{'text': ' The equations developed in this chapter for motion in a plane can be easily extended to the case of three dimensions . \n', 'fibs': ['three']}
+{'text': ' Now , for angles , ( 45 ° + \xa0 α )', 'fibs': ['45', '° +\xa0']}
+{'text': ' and ( 45 ° \xa0 – \xa0 α )', 'fibs': ['45', '°\xa0']}
+{'text': ' , 2θo \xa0 is ( 90 ° + 2α ) and ( 90 ° – 2α ) , respectively .', 'fibs': ['2θo', '90', '90']}
+{'text': ' The values of sin ( 90 ° + 2α ) and sin ( 90 ° – 2α ) are the same , equal to that of cos 2α .', 'fibs': ['90', '90']}
+{'text': ' Therefore , ranges are equal for elevations which exceed or fall short of 45 ° by equal amounts \xa0 α . \n', 'fibs': ['45', '°']}
+{'text': ' At what time is the x- coordinate of the particle 16 m?What is the y - coordinate of the particle at that time ? \n', 'fibs': ['16']}
+{'text': ' If we take the initial position to be the origin of the reference frame as shown in Fig . \n', 'fibs': ['Fig']}
+{'text': ' Equation ( 4.24a ) gives the magnitude of the resultant and Eqs . \n', 'fibs': ['4.24a', 'Eqs']}
+{'text': ' , the line CP \xa0 ( Fig.4.19 ) turns through an angle ∆θ   as shown in the figure.∆θ   is called angular distance . \n', 'fibs': ['CP\xa0(']}
+{'text': ' Equation ( 4.43a ) shows that for a given projection velocity \xa0 vo \xa0 , \xa0 R \xa0 is maximum when sin 2θ0is maximum , i.e. , when \xa0 θ0 \xa0 = 450 . \n her is the velocity of rain relative to the velocity of the bicycle she is riding . \n where t is in seconds and the coefficients have the proper units for r to be in metres . \n where t is in seconds and the coefficients   have the proper units for r to be in   metres . \n', 'fibs': ['450', 'seconds', 'seconds']}
+{'text': ' Therefore , the woman should hold her umbrella at an angle of about 19 ° with the vertical towards the west . \n , the direction of the average velocity is the same as that of \xa0 ∆r \xa0 ( Fig.4.12 ) . \n', 'fibs': ['about 19', '°']}
+{'text': ' It can be easily verified that the derivative of Eq . \n is shown in figures ( a ) , ( b ) and ( c ) for three decreasing values of \xa0 ∆t , i.e.∆t1,∆t2 , and \xa0 ∆t3 , ( ∆t1 \xa0 > \xa0 ∆t2 \xa0 > \xa0', 'fibs': ['three']}
+{'text': ' 490 m = –(1/2)(9.8 ) t2 . \n', 'fibs': ['490', '–(1/2)(9.8']}
+{'text': ' ( 4.43).Maximum height attained would also be less than that predicted by Eq . \n', 'fibs': ['4.43).Maximum']}
+{'text': ' if λ > 0 . \n where R is given by Eq.(4.24a ) . \n', 'fibs': ['Eq.(4.24a']}
+{'text': ' Given \xa0 x \xa0 ( t ) = 84 m , \xa0 t \xa0 = ? \n ( b ) What is the speed of the particle at the time ? \n', 'fibs': ['84']}
+{'text': ' ( b ) What is the magnitude and direction of \t\t   velocity of the particle at t = 2.0 s ? \n', 'fibs': ['2.0']}
+{'text': ' ( 4.34a ) , i.e. \n ( 4.24e ) and ( 4.24f )', 'fibs': ['4.34a', '4.24f']}
+{'text': ' Equation ( 4.24a ) is known as the Law of cosines and Eq . \n', 'fibs': ['4.24a']}

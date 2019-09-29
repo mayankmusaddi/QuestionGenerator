@@ -1,0 +1,135 @@
+{'text': ' The reliable digits plus the first uncertain digit are known as significant digits or significant figures .', 'fibs': ['first']}
+{'text': ' If we say the period of oscillation of a simple pendulum is 1.62 s , the digits 1 and 6 are reliable and certain , while the digit 2 is uncertain .', 'fibs': ['1.62', '1', '6', '2']}
+{'text': ' Thus , the measured value has three significant figures .', 'fibs': ['three']}
+{'text': ' The length of an object reported after measurement to be 287.5', 'fibs': ['287.5']}
+{'text': ' the digits 2 , 8 , 7 are certain while the digit 5 is uncertain .', 'fibs': ['2', '8', '7', '5']}
+{'text': ' The result of computation with approximate numbers , which contain more than one uncertain digit , should be rounded off .', 'fibs': ['more than one']}
+{'text': ' A number 2.746 rounded off to three significant figures is 2.75 , while the number 2.743 would be 2.74.The rule by convention is that the preceding digit is raised by 1 if the insignificant digit to be dropped ( the underlined digit in this case )   is more than 5 , and is left   unchanged if the latter is less than 5.But what if the number is 2.745 in which the insignificant digit is 5.Here , the convention is that if the preceding digit is even , the insignificant digit is simply dropped and , if it is odd , the preceding digit is raised by 1.Then , the number 2.745 rounded off to three significant figures becomes 2.74.On the other hand , the number 2.735 rounded off to three significant figures becomes 2.74 since the preceding digit is odd . \n', 'fibs': ['2.746', 'three', '2.75', '2.743', '1', 'more than 5', '2.745', '1.Then', '2.745', 'three', '2.74.On', '2.735', 'three', '2.74']}
+{'text': ' For example , a vernier callipers has the least count as 0.01 cm ; a spherometer may have a least count of 0.001 cm .', 'fibs': ['0.01cm', '0.001 cm']}
+{'text': ' If we use a metre scale for measurement of length , it may have graduations at 1 mm division scale spacing or interval . \n', 'fibs': ['1 mm']}
+{'text': ' For example , suppose the true value of a certain length is near 3.678 cm .', 'fibs': ['3.678 cm']}
+{'text': ' In one experiment , using a measuring instrument of resolution 0.1 cm , the measured value is found to be 3.5 cm , while in another experiment using a measuring device of greater resolution , say 0.01 cm , the length is determined to be 3.38 cm .', 'fibs': ['one', 'resolution 0.1 cm', '3.5 cm', '0.01 cm', '3.38 cm']}
+{'text': ' The first measurement has more accuracy ( because it is closer to the true value ) but less precision ( its resolution is only 0.1 cm ) , while the second measurement is less accurate but \xa0 more precise .', 'fibs': ['first', 'only 0.1 cm', 'second']}
+{'text': ' In any involved or complex multi - step calculation , you should retain , in intermediate steps , one digit more than the significant digits and round off to proper significant figures at the end of the calculation .', 'fibs': ['one']}
+{'text': ' Similarly , a number known to be within many significant figures , such as in 2.99792458   × 108 m', 'fibs': ['2.99792458', '108']}
+{'text': ' / s for the speed of light in vacuum , is rounded off to an approximate value 3 × 108 m / s , which is often employed in computations .', 'fibs': ['3', '108']}
+{'text': ' Finally , remember that exact numbers that appear in formulae like 2 π in   have a large ( infinite ) number of significant figures .', 'fibs': ['2']}
+{'text': ' = 3.1415926 .... is known to a large number of significant figures .', 'fibs': ['3.1415926']}
+{'text': ' You may take the   value as 3.142 or 3.14 for π , with limited number of   significant figures as required in specific cases . \n', 'fibs': ['3.142', '3.14']}
+{'text': ' When magnitudes of two or more physical quantities are multiplied , their units should be treated in the same manner as ordinary algebraic symbols .', 'fibs': ['two']}
+{'text': ' For example ,   the accuracy   in measurement of mass 1.02 g is ± 0.01 g   whereas another measurement 9.89 g is also accurate to   ± 0.01 g. \n', 'fibs': ['1.02', '0.01', '9.89', '0.01']}
+{'text': ' Finally , remember that intermediate results in a multi - step computation should be calculated to one more significant figure in every measurement than the number of digits in the least precise measurement .', 'fibs': ['one']}
+{'text': ' For example , the reciprocal of 9.58 , calculated ( after rounding off ) to the same number of significant figures ( three ) is 0.104 , but the reciprocal of 0.104 calculated to three significant figures', 'fibs': ['9.58', 'three', '0.104', '0.104', 'three']}
+{'text': ' = 0.1044 and then taken the reciprocal to three significant figures , we would have retrieved the original value of 9.58 . \n', 'fibs': ['0.1044', 'three', '9.58']}
+{'text': ' All the physical quantities represented by derived units can be expressed in terms of some combination of seven fundamental or base quantities .', 'fibs': ['seven']}
+{'text': ' We shall call these base quantities as the seven dimensions of the physical world , which are denoted with square brackets [ ] .Thus', 'fibs': ['seven']}
+{'text': ' Thus , if mass of an object is measured to be , say , 4.237 g ( four significant figures ) and its volume is measured to be 2.51 cm3 , then its density , by mere arithmetic division , is 1.68804780876 g /', 'fibs': ['4.237', 'four', '2.51', '1.68804780876']}
+{'text': ' In the cesium atomic clock , the second is taken as the time needed for 9,192,631,770 vibrations of the radiation corresponding to the transition between the two hyperfine levels of the ground state of cesium-133 atom .', 'fibs': ['second', '9,192,631,770', 'two', 'cesium-133']}
+{'text': ' ( a ) \t Instrumental errors that arise from the errors due to imperfect design or calibration of the measuring instrument , zero error in the instrument , etc .', 'fibs': ['zero']}
+{'text': ' For example , the temperature graduations of a thermometer may be inadequately calibrated ( it may read 104 ° C at the boiling point of water at STP whereas it should read 100 ° C ) ; in a vernier callipers the zero mark of vernier scale may not coincide with the zero mark of the main scale , or simply an ordinary metre scale may be worn off at one end . \n', 'fibs': ['104', '°C', 'STP', '100', '°C', 'zero', 'zero', 'one']}
+{'text': ' We dissolve 1 cm3 of oleic acid in alcohol to make a solution of 20 cm3.Then', 'fibs': ['1', '20']}
+{'text': ' we take 1 cm3 of this solution and dilute it to 20 cm3 , using   alcohol .', 'fibs': ['1', '20']}
+{'text': ' So , the concentration of the solution is equal to   of oleic acid / cm3 of solution .', 'fibs': ['oleic']}
+{'text': ' Next we lightly sprinkle some lycopodium powder on the surface of water in a large trough and we put one drop of this solution in the water .', 'fibs': ['one']}
+{'text': ' Then , we quickly measure the diameter of the thin film to get its area A.Suppose we have dropped n drops in the water .', 'fibs': ['A.Suppose']}
+{'text': ' We shall distinguish between two terms : accuracy and precision .', 'fibs': ['two']}
+{'text': ' Note that the last numeral 6 is unreliable , since it may be anything between 5 and 7.We indicate this by saying that the measurement has two significant figures .', 'fibs': ['5', 'two']}
+{'text': ' In this case , the two significant figures are 2 , which is reliable and 6 , which has an error associated with it .', 'fibs': ['two', '2', '6']}
+{'text': ' You will learn more about the significant figures in section 2.7 . \n', 'fibs': ['2.7']}
+{'text': ' We employ units   for   some   physical quantities   that can be derived from the seven base units ( Appendix A 6).Some derived units in terms of the SI base units are given in ( Appendix A 6.1).Some SI derived units are given special names ( Appendix A   6.2 ) and some derived SI units make use of these units with special names and the seven base units  ', 'fibs': ['seven', 'seven']}
+{'text': ' ( Appendix A 6.3).These are given in Appendix A 6.2 and A 6.3 for your ready reference .', 'fibs': ['Appendix', '6.2', '6.3']}
+{'text': ' Other units retained for general use are given in Table 2.2 . \n', 'fibs': ['Table 2.2']}
+{'text': ' ( 3 ) To remove such ambiguities in determining the number of significant figures , the best way is to report every measurement in scientific notation ( in the power of 10).In this notation , every number is expressed as a × 10b , where a is a number between 1 and 10 , and b is any positive or negative exponent ( or power ) of 10.In order to get an approximate idea of the number , we may round off the number a to 1 ( for a \xa0 ≤ \xa0 5 ) and to 10 ( for 5<a \xa0 ≤ \xa0 10).Then the number can be expressed approximately as 10b in which the exponent ( or power ) b of 10 is called order of magnitude of the physical quantity .', 'fibs': ['3', '10).In', 'between 1 and 10', '10.In', '1', '10', '5<a', '10b', '10']}
+{'text': ' When only an estimate is required , the quantity is of the order of 10b .', 'fibs': ['10b']}
+{'text': ' For example , the diameter of the earth ( 1.28×107 m ) is of the order of 107 m with the order of magnitude 7.The diameter of hydrogen atom ( 1.06 ×10–10 m ) is of the order of 10–10 m , with the order of magnitude –10.Thus , the diameter of the earth is 17 orders of magnitude larger than the hydrogen atom . \n', 'fibs': ['1.28×107', '107', '1.06', '17']}
+{'text': ' In mechanics , all the physical quantities can be written in terms of the dimensions [ L ] , [ M ] and [ T].For example , the volume occupied by an object is expressed as the product of length , breadth and height , or three lengths .', 'fibs': ['T].For', 'three']}
+{'text': ' [ L3].As the volume is independent of mass and time , it is said to possess zero dimension in mass [ M ° ] , zero dimension in time [ T ° ] and three dimensions in length . \n', 'fibs': ['zero', 'zero', 'three']}
+{'text': ' the frequency is maintained through four cesium atomic clocks .', 'fibs': ['four']}
+{'text': ' A cesium atomic clock is used at the National Physical Laboratory ( NPL ) , New Delhi to   maintain the Indian standard of time . \n', 'fibs': ['the National Physical Laboratory', 'NPL', 'New Delhi', 'Indian']}
+{'text': ' Since the last number has trailing zero(s ) in a number with no decimal , we would conclude erroneously from observation ( 1 ) above that the number has two significant figures , while in fact , it has four significant figures and a mere change of units can not change the number of significant figures . \n', 'fibs': ['1', 'two', 'four']}
+{'text': ' In our country , the NPL has the responsibility of maintenance and improvement of physical standards , including that of time , frequency , etc .', 'fibs': ['NPL']}
+{'text': ' Note that the Indian Standard Time ( IST ) is linked to this set of atomic clocks .', 'fibs': ['Indian', 'IST']}
+{'text': ' The efficient cesium atomic clocks are so accurate that they impart the uncertainty in time realisation as ± 1 × 10–13', 'fibs': ['1']}
+{'text': ' , i.e.1 part in 1013.This implies that the uncertainty gained over time by such a device is less than 1 part in 1013 ; they lose or gain no more than 3 µs in one year .', 'fibs': ['less than 1', '1013', 'no more than 3', 'one year']}
+{'text': ' In view of the tremendous accuracy in time measurement , the SI unit of length has been expressed in terms the path length light travels in certain interval of time', 'fibs': ['SI']}
+{'text': ' ( 1/299 , 792 , 458 of a second ) ( Table 2.1 ) . \n', 'fibs': ['792', '458', 'second', '2.1']}
+{'text': ' This example justifies the idea to retain one more extra digit ( than the number of digits in the least precise measurement ) in intermediate steps of the complex multi - step calculations in order to avoid additional errors in the process of rounding off the numbers . \n', 'fibs': ['one']}
+{'text': ' The power of 10 is irrelevant to the determination of significant figures .', 'fibs': ['10']}
+{'text': ' Each number in this case has four significant figures . \n', 'fibs': ['four']}
+{'text': ' The dimensional formulae of a large number and wide variety of physical quantities , derived from the equations representing the relationships among other physical quantities and expressed in terms of base quantities are given in Appendix 9 for your guidance and ready reference . \n', 'fibs': ['Appendix']}
+{'text': ' ( A detailed explanation can be found in the Class XII Physics textbook).For visible light the range of wavelengths   is from about 4000 Å to 7000 Å  ', 'fibs': ['about 4000']}
+{'text': ' ( 1 angstrom = 1 Å = 10 - 10 m).Hence', 'fibs': ['1', '1', '10-10']}
+{'text': ' All these numbers have the same number of significant figures ( digits 2 , 3 , 0 , 8) , namely four .', 'fibs': ['2', '3', 'four']}
+{'text': ' [ M ° L T–2 ] is the dimensional formula of acceleration and [ M L–3 T ° ] that of mass density . \n', 'fibs': ['° L T–2']}
+{'text': ' The digit 0 conventionally put on the left of a decimal for a number less than 1 ( like 0.1250 ) is never significant .', 'fibs': ['0', '0.1250']}
+{'text': ' One has to decide how much error one can tolerate and optimise cost - effectiveness .', 'fibs': ['One']}
+{'text': ' Even then one does n’t know how much to rely on the figure that props up , as is clear from the story of France and Belgium .', 'fibs': ['France', 'Belgium']}
+{'text': ' Incidentally , this story of the France - Belgium discrepancy appears on the first page of an advanced Physics book on the subject of fractals and chaos ! \n', 'fibs': ['France', 'first', 'Physics']}
+{'text': ' For example , 12.9 g – 7.06 g , both specified to three significant figures , can not properly be evaluated as 5.84 g', 'fibs': ['12.9', '7.06', 'three', '5.84']}
+{'text': ' but only as 5.8 g , as uncertainties in subtraction or addition combine in a different fashion ( smallest number of decimal places rather than the number of significant figures in any of the number added or subtracted ) . \n', 'fibs': ['5.8']}
+{'text': ' For example , the sum of the numbers           436.32 g , 227.2 g and 0.301 g by mere arithmetic addition ,   is 663.821 g.', 'fibs': ['436.32', '227.2', '0.301', '663.821']}
+{'text': ' But the least precise measurement ( 227.2 g ) is correct to only one decimal place .', 'fibs': ['227.2', 'only one']}
+{'text': ' The final result should , therefore , be rounded off to 663.8 g. \n', 'fibs': ['663.8']}
+{'text': ' Note that we should not use the rule ( 1 ) applicable for multiplication and division and write 664 g as the result in the example of addition and 3.00 × 10–3 m in the example of subtraction .', 'fibs': ['1', '664', '3.00']}
+{'text': ' Hence the rule : When two quantities are added or subtracted , the absolute error in the final result is the sum of the absolute errors in the individual quantities . \n', 'fibs': ['two']}
+{'text': ' [ M L T–2].Thus , the force has one dimension in mass , one dimension in length , and –2 dimensions in time .', 'fibs': ['one', 'one']}
+{'text': ' The dimensions in all other base quantities are zero . \n', 'fibs': ['zero']}
+{'text': ' Similarly ,   if the speed of light is given as 3 × 108 m s-1 ( one significant figure ) and one year ( 1y = 365.25 d ) has 3.1557 ×', 'fibs': ['3', '108', 'one', 'one year', '365.25', '3.1557']}
+{'text': ' 1015 m ( three significant figures ) . \n', 'fibs': ['three']}
+{'text': ' That means , the period of oscillation of the simple pendulum is ( 2.62 ± 0.11 )', 'fibs': ['2.62', '0.11']}
+{'text': ' i.e.it lies between ( 2.62 + 0.11 ) s and ( 2.62 – 0.11 )', 'fibs': ['2.62', '0.11', '2.62', '0.11']}
+{'text': ' s or between 2.73 s and 2.51 s.  ', 'fibs': ['between 2.73', '2.51']}
+{'text': ' As the arithmetic mean of all the absolute errors is 0.11 s , there is already an error in the tenth of a second .', 'fibs': ['0.11', 'the tenth of a second']}
+{'text': ' ( 6 ) The multiplying or dividing factors which are neither rounded numbers nor numbers representing measured values are exact and have infinite number of significant digits .', 'fibs': ['6']}
+{'text': ' 2πr , the factor 2 is an exact number and it can be written as 2.0 , 2.00 or 2.0000 as required .', 'fibs': ['2πr', '2', '2.0', '2.00', '2.0000']}
+{'text': ' Hence the rule : When two quantities are multiplied or divided , the relative error in the result is the sum of the relative errors in the multipliers . \n', 'fibs': ['two']}
+{'text': ' Now imagine that you want to measure the length of a national highway , a river , the railway track between two stations , or the boundary between two states or two nations .', 'fibs': ['two', 'two', 'two']}
+{'text': ' If you take a string of length 1 metre or 100 metre , keep it along the line , shift its position every time , the arithmetic of man - hours of labour and expenses on the project is not commensurate with the outcome .', 'fibs': ['1 metre', '100 metre', 'man-hours']}
+{'text': ' France and Belgium share a common international boundary , whose length mentioned in the official documents of the two countries differs substantially ! \n', 'fibs': ['France', 'Belgium', 'two']}
+{'text': ' For this we should know the dependence of the physical quantity on other quantities ( upto three physical quantities or linearly independent variables ) and consider it as a product type of the dependence .', 'fibs': ['three']}
+{'text': ' The percentage errors of measurement in a , b , c and d are 1 % , 3 % , 4 % and 2 % , respectively .', 'fibs': ['1%', '3%', '4% and 2%']}
+{'text': ' If the value of P calculated using the above relation turns out to be 3.763 , to what value should you round off the result ? \n', 'fibs': ['3.763']}
+{'text': ' If the number is less than 1 , the zero(s ) on the right of decimal point but to the left of the first non - zero digit are not significant . \n', 'fibs': ['less than 1', 'first', 'zero']}
+{'text': ' The SI unit of mass is kilogram ( kg).The prototypes of the International   standard kilogram supplied by the International Bureau of Weights and Measures ( BIPM ) are available in many other laboratories of different countries .', 'fibs': ['International', 'the International Bureau of Weights and Measures']}
+{'text': ' In India , this is available at the National Physical Laboratory  ', 'fibs': ['India', 'the National Physical Laboratory']}
+{'text': ' ( NPL ) , New Delhi . \n', 'fibs': ['NPL', 'New Delhi']}
+{'text': ' The system of units which is at present internationally accepted for measurement is the Système Internationale d ’ Unites ( French for International System of Units ) , abbreviated as SI.The SI , with standard scheme of symbols , units and abbreviations , was developed and recommended by General Conference on Weights and Measures in 1971 for international usage in scientific , technical , industrial and commercial work .', 'fibs': ['the Système Internationale', 'French', 'General Conference on Weights and Measures', '1971']}
+{'text': ' We shall follow the SI units in this book . \n', 'fibs': ['SI']}
+{'text': ' / Z = ( ∆A / A )', 'fibs': ['∆A/A']}
+{'text': ' ( ∆A / A).Hence , the relative error in A2 is two times the error in A. \n', 'fibs': ['∆A/A).Hence', 'two', 'A.\n']}
+{'text': ' All the zeros between two non - zero digits are significant , no matter where the decimal point is , if at all . \n', 'fibs': ['zeros', 'two', 'zero']}
+{'text': ' The systematic errors are those errors that tend to be in one direction , either positive or negative . \n', 'fibs': ['one']}
+{'text': ' ( 2 ) If a set of experimental data is specified to n significant figures , a result obtained by combining the data will also be valid to n significant figures . \n', 'fibs': ['2']}
+{'text': ' Common SI prefixes and symbols for multiples and sub - multiples are given in Appendix A2.General   guidelines for using symbols for physical quantities , chemical elements and nuclides are given in Appendix A7 and those for SI units and some other units   are given in Appendix A8 for your guidance and ready reference . \n', 'fibs': ['Appendix', 'Appendix', 'Appendix']}
+{'text': ' ( 1 ) If the length and breadth of a thin rectangular sheet are measured , using a metre scale as 16.2 cm and , 10.1 cm respectively , there are three significant figures in each measurement . \n', 'fibs': ['1', '16.2 cm', '10.1 cm', 'three']}
+{'text': ' The value of this thickness comes out to be of the order of 10–9 m. \n', 'fibs': ['10–9']}
+{'text': ' These may vary from the size of the order of 10–14 m of the tiny nucleus of an atom to the size of the order of 1026 m of the extent of the observable universe .', 'fibs': ['1026']}
+{'text': ' Table 2.3 gives the range and order of lengths and sizes of some of these objects . \n', 'fibs': ['2.3']}
+{'text': ' Suppose two physical quantities A and B have measured values', 'fibs': ['two']}
+{'text': ' B ± ∆B respectively where ∆A and ∆B are their absolute errors . \n', 'fibs': ['∆A']}
+{'text': ' In SI , there are seven base units as given in Table 2.1.Besides the seven base units , there are two more units that are defined for ( a ) plane angle dθ as the ratio of length of arc ds to the radius r and', 'fibs': ['SI', 'seven', 'Table', 'seven', 'two']}
+{'text': ' For example , a metre scale is used for lengths from 10–3 m to 102 m.  ', 'fibs': ['102', 'm.']}
+{'text': ' A vernier callipers is used for lengths to an accuracy of 10–4 m.  ', 'fibs': ['10–4']}
+{'text': ' A screw gauge and a spherometer can be used to measure lengths as less as to 10–5 m. To measure lengths beyond these ranges , we make use of some special indirect methods . \n', 'fibs': ['10–5']}
+{'text': ' ( 2 ) There can be some confusion regarding the trailing zero(s).Suppose a length is reported to be 4.700 m.', 'fibs': ['2', '4.700']}
+{'text': ' Oleic acid is a soapy liquid with large molecular size of the order of 10–9 m. \n', 'fibs': ['10–9']}
+{'text': ' The idea is to first form mono - molecular layer of oleic acid on water surface . \n', 'fibs': ['first']}
+{'text': ' Here 3 cm2 is the uncertainty or error in the estimation of area of rectangular sheet . \n', 'fibs': ['3']}
+{'text': ' For a number greater than 1 , without any decimal , the trailing zero(s ) are not significant . \n', 'fibs': ['1']}
+{'text': ' Such electron microscopes with a resolution of 0.6 Å have been built .', 'fibs': ['0.6']}
+{'text': ' ( 1 ) For example , the length 2.308 cm has four significant figures .', 'fibs': ['1', '2.308', 'four']}
+{'text': ' But in different units , the same value can be written as 0.02308 m or 23.08 mm or 23080 µm . \n', 'fibs': ['0.02308', '23.08 mm', '23080']}
+{'text': ' Since all these quantities can be expressed as length / time , their dimensions are [ L]/[T ] or [ L T–1]. \n ( 2 )', 'fibs': ['2']}
+{'text': ' The ∆a calculated above may be positive in certain cases and negative in some other           cases .', 'fibs': ['∆a']}
+{'text': ' It is often customary to write the decimal after the first digit . \n', 'fibs': ['first']}
+{'text': ' 1.2 f. Show that the rule implies that nuclear mass density is nearly constant for different nuclei .', 'fibs': ['1.2', 'Show']}
+{'text': ' Compare it with the average mass density of a sodium atom obtained in Exercise.2.27 . \n', 'fibs': ['Exercise.2.27']}
+{'text': ' The distance between the two points of observation is called the basis .', 'fibs': ['two']}
+{'text': ' A screw gauge has a pitch of 1.0 mm and 200 divisions on the circular scale .', 'fibs': ['1.0 mm', '200']}
+{'text': ' As the periods are measured to a resolution of 0.01 s , all times are to the second decimal ; it is proper to put this mean period also to the second decimal . \n', 'fibs': ['0.01', 'second', 'second']}
+{'text': ' To measure the distance D of a far away planet S by the parallax method , we observe it from two different positions ( observatories )', 'fibs': ['two']}
+{'text': ' A and B on the   Earth ,   separated   by distance AB', 'fibs': ['Earth', 'AB']}
+{'text': ' = b at the same time as shown in Fig.2.2.We measure the angle between the two directions along which the planet is viewed at these two points .', 'fibs': ['Fig.2.2.We', 'two', 'two']}
+{'text': ' The ∠ASB in Fig.2.2 represented by symbol θ is called the parallax angle or parallactic angle . \n', 'fibs': ['∠ASB', 'Fig.2.2']}
+{'text': ' Thus , in the example above , density should be reported to three significant figures . \n', 'fibs': ['three']}
+{'text': ' Measured value of L is 20.0 cm known to 1 mm accuracy and time for 100 oscillations of the pendulum is found to be 90 s using a wrist watch of 1 s resolution .', 'fibs': ['L', '20.0 cm', '1 mm', '100', '90', '1']}

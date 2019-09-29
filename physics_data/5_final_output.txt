@@ -1,0 +1,155 @@
+{'text': ' But if the applied force F were the only external force on the body , it must move with acceleration F / m , however small .', 'fibs': ['F/m']}
+{'text': ' Clearly , the body remains at rest because some other force comes into play in the horizontal direction and opposes the applied force F , resulting in zero net force on the body .', 'fibs': ['zero']}
+{'text': ' The property of inertia contained in the First law is evident in many situations .', 'fibs': ['First']}
+{'text': ' Thus , when two bodies are in contact , each experiences a contact force by the other .', 'fibs': ['two']}
+{'text': ' Friction , by definition , is the component of the contact force parallel to the surfaces in contact , which opposes impending or actual relative motion between the two surfaces .', 'fibs': ['two']}
+{'text': ' The second law relates the external force on a body to its acceleration .', 'fibs': ['second']}
+{'text': ' The simple answer in Newtonian mechanics is that the external force on a body always arises due to some other body .', 'fibs': ['Newtonian']}
+{'text': ' A and B.B gives rise to an external force on A.A natural question is : Does A in turn give rise to an external force on B ?', 'fibs': ['B.B', 'A.A']}
+{'text': ' The answer according to Newton is : Yes , the stone does exert an equal and opposite force on the earth .', 'fibs': ['Newton']}
+{'text': ' When bodies are in contact ( e.g.a book resting on a table , a system of rigid bodies connected by rods , hinges and other types of supports ) , there are mutual contact forces ( for each pair of bodies ) satisfying the third law .', 'fibs': ['third']}
+{'text': ' These equations give a =   m s –2 = 0.96', 'fibs': ['0.96']}
+{'text': ' At every instant , there is just one point of contact between the body and the plane and this point has no motion relative to the plane .', 'fibs': ['one']}
+{'text': ' In this ideal situation , kinetic or static friction is zero and the body should continue to roll with constant velocity .', 'fibs': ['zero']}
+{'text': ' For the same weight , rolling friction is much smaller ( even by 2 or 3 orders of magnitude ) than static or sliding friction .', 'fibs': ['2', '3']}
+{'text': ' What is the flaw in Aristotle ’s argument?The answer is : a moving toy car comes to rest because the external force of friction on the car by the floor opposes its motion .', 'fibs': ['Aristotle']}
+{'text': ' The important thing to remember is that an action - reaction pair consists of mutual forces   which are always equal and opposite between two bodies .', 'fibs': ['two']}
+{'text': ' Two forces on the same body which happen to be equal and opposite can never constitute an action - reaction pair .', 'fibs': ['Two']}
+{'text': ' The weight of the system is 270 N , while the normal force R′ is 267.3 N. \n', 'fibs': ['270', '267.3']}
+{'text': ' To summarise , if the net external force is zero , a body at rest continues to remain at rest and a body in motion continues to move with a uniform velocity .', 'fibs': ['zero']}
+{'text': ' In Chapter 1 , we learnt that there are four fundamental forces in nature .', 'fibs': ['Chapter 1', 'four']}
+{'text': ' Galileo thus , arrived at a new insight on motion that had eluded Aristotle and those who followed him .', 'fibs': ['Galileo', 'Aristotle']}
+{'text': ' To maintain a body in uniform motion , we need to apply an external force to ecounter the frictional force , so that the two forces sum up to zero net external force . \n', 'fibs': ['two', 'up to zero']}
+{'text': ' Suppose a fixed force is applied for a certain interval of time on two bodies of different masses , initially at rest ,   the lighter body picks up a greater speed than the heavier body .', 'fibs': ['two']}
+{'text': ' This is a crucial clue to the second law of motion . \n', 'fibs': ['second']}
+{'text': ' Another way is to use ball bearings between two moving parts of a machine [ Fig.5.13(a)].Since the rolling friction between ball bearings and the surfaces in contact is very small , power dissipation is reduced .', 'fibs': ['two']}
+{'text': ' Ancient Indian thinkers had arrived at an elaborate system of ideas on motion .', 'fibs': ['Indian']}
+{'text': ' Force , the cause of motion , was thought to be of different kinds : force due to continuous pressure ( nodan ) , as the force of wind on a sailing vessel ; impact ( abhighat ) , as when a potter ’s rod strikes the wheel ; persistent tendency ( sanskara ) to move in a straight line(vega ) or restoration of shape in an elastic body ; transmitted force by a string , rod , etc .', 'fibs': ['Force', '’s']}
+{'text': ' The notion of ( vega ) in the Vaisesika theory of motion perhaps comes closest to the concept of inertia .', 'fibs': ['Vaisesika']}
+{'text': ' There was considerable focus in Indian thought on measurement of motion and units of length and time .', 'fibs': ['Indian']}
+{'text': ' It was known that the position of a particle in space can be indicated by distance measured along three axes .', 'fibs': ['three']}
+{'text': ' Bhaskara ( 1150 A.D. ) had introduced the concept of ‘ instantaneous motion ’ ( tatkaliki gati ) , which anticipated the modern notion of instantaneous velocity using Differential Calculus .', 'fibs': ['Bhaskara', '1150', 'Differential Calculus']}
+{'text': ' The three laws of motion that you have learnt in this chapter are the foundation of mechanics .', 'fibs': ['three']}
+{'text': ' Aristotelian law of motion is flawed , as we shall see .', 'fibs': ['Aristotelian']}
+{'text': ' Frictional force opposes ( impending or actual ) relative motion between two surfaces in contact .', 'fibs': ['two']}
+{'text': ' The first law refers to the simple case when the net external force on a body is zero .', 'fibs': ['first', 'zero']}
+{'text': ' The second law of motion refers to the general situation when there is a net external force acting on the body .', 'fibs': ['second']}
+{'text': ' The second and third laws of motion lead to an important consequence : the law of conservation of momentum .', 'fibs': ['second', 'third']}
+{'text': ' If the force on the bullet by the gun is F , the force on the gun by the bullet is – F , according to the third law .', 'fibs': ['third']}
+{'text': ' The two forces act for a common interval of time ∆t .', 'fibs': ['two']}
+{'text': ' According to the second law , F ∆t is the change in momentum of the bullet and – F ∆t is the change in momentum of the gun .', 'fibs': ['second']}
+{'text': ' The view was part of an elaborate framework of ideas developed by Aristotle on the motion of bodies in the universe .', 'fibs': ['Aristotle']}
+{'text': ' Most of the Aristotelian ideas on motion are now known to be wrong and need not concern us .', 'fibs': ['Aristotelian']}
+{'text': ' For our purpose here , the Aristotelian law of motion may be phrased thus : An external force is required   to keep a body in motion . \n', 'fibs': ['Aristotelian']}
+{'text': ' When relative motion has begun , the acceleration of the body according to the second law is ( F – fk ) /m .', 'fibs': ['second']}
+{'text': ' Any of the two mutual forces can be called action and the other reaction .', 'fibs': ['two']}
+{'text': ' The internal action and reaction forces between different parts of a body do , however , sum to zero . \n', 'fibs': ['zero']}
+{'text': ' Its free - body diagram shows two forces on the block , the force of gravitational attraction by the earth equal to 2 × 10 = 20 N ; and the normal force R of the floor on the block .', 'fibs': ['two', '2', '10', '20']}
+{'text': ' By the First Law , the net force on the block must be zero i.e. , R = 20 N.  ', 'fibs': ['the First Law', 'zero', '20', 'N.  ']}
+{'text': ' Using third law the action of the block ( i.e.the force exerted on the floor by the block ) is equal to 20 N and directed vertically downwards . \n', 'fibs': ['third', '20']}
+{'text': ' Galileo Galilei , born in Pisa , Italy in 1564 was a key figure in the scientific revolution in Europe about four centuries ago .', 'fibs': ['Galileo Galilei', 'Pisa', 'Italy', '1564', 'Europe', 'about four centuries ago']}
+{'text': ' From experiments on motion of bodies on inclined planes or falling freely , he contradicted the Aristotelian notion that a force was required to keep a body in motion , and that heavier bodies fall faster than lighter bodies under gravity .', 'fibs': ['Aristotelian']}
+{'text': ' He thus arrived at the law of inertia that was the starting point of the subsequent epochal work of Isaac Newton . \n', 'fibs': ['Isaac Newton']}
+{'text': ' For example , when a ball hits a wall and bounces back , the force on the ball by the wall acts for a very short time when the two are in contact , yet the force is large enough to reverse the momentum of the ball .', 'fibs': ['two']}
+{'text': ' Let us first guess the answer based on our common experience .', 'fibs': ['first']}
+{'text': ' In that case , if we know that an object is unaccelerated ( i.e.it is either at rest or in uniform linear motion ) , we can infer from the first law that the net external force on the object must be zero .', 'fibs': ['first', 'zero']}
+{'text': ' If then , on earth , an object is at rest or in uniform linear motion , it is not because there are no forces acting on it , but because the various external forces cancel out i.e.add up to zero net external force . \n', 'fibs': ['up to zero']}
+{'text': ' Now we understand   where Aristotle went wrong .', 'fibs': ['Aristotle']}
+{'text': ' An important example of the application of the law of conservation of momentum is the collision of two bodies .', 'fibs': ['two']}
+{'text': ' Consider two bodies A and B , with initial momenta pA and pB.The bodies collide , get apart , with final momenta p′A and p′B  ', 'fibs': ['two', 'pA']}
+{'text': ' ( b ) The system ( block + cylinder ) accelerates downwards with 0.1 m', 'fibs': ['0.1']}
+{'text': ' s-2.The free - body diagram of the system shows two forces on the system : the force of gravity due to the earth ( 270 N ) ; and the normal force R′ by the floor .', 'fibs': ['two', '270']}
+{'text': ' One reason is that the cricketer allows a longer time for his hands to stop the ball .', 'fibs': ['One']}
+{'text': ' ( 5.2(a)).It is subject to two external forces :', 'fibs': ['two']}
+{'text': ' the force due to gravity ( i.e.its weight W ) acting downward and the upward force on the book by the table , the normal force R .R is a self - adjusting force .', 'fibs': ['W']}
+{'text': ' Therefore , we conclude from the first law that the magnitude of R equals that of', 'fibs': ['first']}
+{'text': ' W. A statement often encountered is : “', 'fibs': ['W. A']}
+{'text': ' Since the book is observed to be at rest , the net external force on it must be zero , according to the first law .', 'fibs': ['zero', 'first']}
+{'text': ' If the net external force on a body is zero , its acceleration is zero .', 'fibs': ['zero', 'zero']}
+{'text': ' Acceleration can be non zero only if there is a net external force on the body . \n', 'fibs': ['zero']}
+{'text': ' However , if you are considering the system of two bodies as a whole , FAB and FBA are internal forces of the system', 'fibs': ['two', 'FAB', 'FBA']}
+{'text': ' ( A + B).They add up to give a null force .', 'fibs': ['A + B).They']}
+{'text': ' This is an important fact that enables the second law to be applicable to a body or a system of particles ( See Chapter 7 ) . \n', 'fibs': ['second', 'Chapter 7']}
+{'text': ' Thus , according to Newtonian mechanics , force never occurs singly in nature .', 'fibs': ['Newtonian']}
+{'text': ' Force is the mutual interaction between two bodies .', 'fibs': ['Force', 'two']}
+{'text': ' Further , the mutual forces between two bodies are always equal and opposite .', 'fibs': ['two']}
+{'text': ' This idea was expressed by Newton in the form of the third law of motion . \n', 'fibs': ['Newton', 'third']}
+{'text': ' Two kinds of situations are encountered in the application of this law in practice .', 'fibs': ['Two']}
+{'text': ' In some examples , we know that the net external force on the object is zero .', 'fibs': ['zero']}
+{'text': ' In that case we can conclude that the acceleration of the object is zero .', 'fibs': ['zero']}
+{'text': ' Its acceleration , according to the first law , must be zero .', 'fibs': ['first', 'zero']}
+{'text': ' Another experiment by Galileo leading to the same conclusion involves a double inclined plane .', 'fibs': ['Galileo']}
+{'text': ' In doing so , employ Newton ’s third law .', 'fibs': ['Newton', 'third']}
+{'text': ' Two other common forces are tension in a string and the force due to spring .', 'fibs': ['Two']}
+{'text': ' We set the constant of proportionality k = 1 in SI units . \n', 'fibs': ['1']}
+{'text': ' In the preceding Chapter , our concern was to describe the motion of a particle in space quantitatively .', 'fibs': ['Chapter']}
+{'text': ' If two stones , one light and the other heavy , are dropped from the top of a building , a person on the ground will find it easier to catch the light stone than the heavy stone .', 'fibs': ['two', 'one']}
+{'text': ' We can reduce the contribution of friction to the circular motion of the car if the road is banked ( Fig.5.14(b)).Since there is no acceleration along the vertical direction , the net force along this direction must be zero . \n', 'fibs': ['zero']}
+{'text': ' For ( a ) : \t ( i ) the force of gravity ( 20 N ) on the block by the earth ( say , action ) ; the force of gravity on the earth by the block ( reaction ) equal to 20 N directed upwards ( not shown in the figure ) . \n', 'fibs': ['20', 'earth', '20 N directed']}
+{'text': ' Impulse and force are in the same direction .', 'fibs': ['Impulse']}
+{'text': ' In elastic collisions , there is a second condition that the total initial kinetic energy of the system equals the total final kinetic energy ( See Chapter 6 ) . \n', 'fibs': ['second', 'Chapter 6']}
+{'text': ' Thus if we are considering the motion of any one body ( A or B ) , only one of the two forces is relevant .', 'fibs': ['one', 'only one', 'two']}
+{'text': ' It is an error to add up the two forces and claim that the net force is zero . \n', 'fibs': ['two', 'zero']}
+{'text': ' ( d ) \t lying on the floor of a train which is accelerating with 1 m s-2 , the stone being at rest relative to the train . \n', 'fibs': ['1']}
+{'text': ' We have seen in Chapter 4 that acceleration of a body moving in a circle of radius R   with uniform speed v is v2/R directed towards the centre . \n', 'fibs': ['Chapter 4']}
+{'text': ' How to find the force on the wall?The trick is to consider the force ( or impulse ) on   the ball due to   the wall using the second law , and then use the third law to answer ( i).Let u be the speed of each ball before and after collision with the wall , and m the mass of each ball . \n', 'fibs': ['second', 'third']}
+{'text': ' Equilibrium of a particle in mechanics refers to the situation when the net external force on the particle is zero . \n', 'fibs': ['zero']}
+{'text': ' Consider the motion of a car starting from rest , picking up speed and then moving on a smooth straight road with uniform speed ( Fig . \n', 'fibs': ['Fig']}
+{'text': ' As before , using Newton ’s third law , the force on the wall due to the ball is normal to the wall along the positive x direction . \n', 'fibs': ['Newton', 'third']}
+{'text': ' For ( b ) : \t ( i ) the force of gravity ( 270 N ) on the system by the earth ( say , action ) ; the force of gravity on the earth by the system ( reaction ) , equal to 270 N , directed upwards ( not shown in the figure ) . \n', 'fibs': ['270', '270']}
+{'text': ' If the slope of the second plane is decreased and the experiment repeated , the ball will still reach the same height , but in doing so , it will travel a longer distance .', 'fibs': ['second']}
+{'text': ' In the limiting case , when the slope of the second plane is zero ( i.e.is a horizontal ) the ball travels an infinite distance .', 'fibs': ['second', 'zero']}
+{'text': ' Galileo ’s simple , but revolutionary ideas dethroned Aristotelian mechanics .', 'fibs': ['Galileo', 'Aristotelian']}
+{'text': ' This task was accomplished almost single - handedly by Isaac Newton , one of the greatest scientists of all times . \n', 'fibs': ['Isaac Newton']}
+{'text': ' Galileo ’s discoveries in astronomy were equally revolutionary .', 'fibs': ['Galileo']}
+{'text': ' In 1609 , he designed his own telescope ( invented earlier in Holland ) and used it to make a number of startling observations : mountains and depressions on the surface of the moon ; \xa0 dark spots on the sun ; the moons of Jupiter and the phases of Venus .', 'fibs': ['1609', 'Holland', 'Jupiter', 'Venus']}
+{'text': ' He concluded that the Milky Way derived its luminosity because of a large number of stars not visible to the naked eye .', 'fibs': ['the Milky Way']}
+{'text': ' In his masterpiece of scientific reasoning : Dialogue on the Two Chief World Systems , Galileo advocated the heliocentric theory of the solar system proposed by Copernicus , which eventually got universal acceptance . \n', 'fibs': ['the Two Chief World Systems', 'Galileo', 'Copernicus']}
+{'text': ' Newton ’s wording of the third law is so crisp and beautiful that it has become a part of common language .', 'fibs': ['Newton', 'third']}
+{'text': ' For the same reason perhaps , misconceptions about the third law abound .', 'fibs': ['third']}
+{'text': ' Let us note some important points about the third law , particularly in regard to the usage of the terms : action and reaction . \n', 'fibs': ['third']}
+{'text': ' With Galileo came a turning point in the very method of scientific inquiry .', 'fibs': ['Galileo']}
+{'text': ' Not undeservedly , many regard Galileo as the father of modern science . \n', 'fibs': ['Galileo']}
+{'text': ' The scientific revolution triggered by Copernicus and steered vigorously ahead by Kepler and Galileo was brought to a grand completion by Newton .', 'fibs': ['Copernicus', 'Kepler', 'Galileo', 'Newton']}
+{'text': ' Newtonian mechanics unified terrestrial and celestial phenomena .', 'fibs': ['Newtonian']}
+{'text': ' In other words , the resultant of any two forces say F1 and F2 , obtained by the parallelogram law of forces must be equal and opposite to the third force , F3.As seen in Fig.5.7 , the three forces in equilibrium can be represented by the sides of a triangle with the vector arrows taken in the same sense .', 'fibs': ['two', 'F2', 'third', 'F3.As', 'Fig.5.7', 'three']}
+{'text': ' A particle is in equilibrium under the action of forces F1 , F2 , ...', 'fibs': ['F2']}
+{'text': ' By the third law , the   action   of the system on \t the floor is equal to 267.3 N vertically downward . \n', 'fibs': ['third', '267.3']}
+{'text': ' ( 5.18 ) we see that maximum possible speed of a car on a banked road is greater than that on a flat road . \n', 'fibs': ['5.18']}
+{'text': ' Indeed , the correct answer to this question given by Galileo in the seventeenth century was the foundation of Newtonian mechanics , which signalled the birth of modern science . \n', 'fibs': ['Galileo', 'the seventeenth century', 'Newtonian']}
+{'text': ' Galileo concluded that an object moving on a frictionless horizontal plane must neither have acceleration nor retardation , i.e.it should move with constant velocity ( Fig.5.1(a ) ) . \n', 'fibs': ['Galileo']}
+{'text': ' In 1684 , encouraged by his friend Edmund Halley , Newton embarked on writing what was to be one of the greatest scientific works ever published :', 'fibs': ['1684', 'Edmund Halley', 'Newton']}
+{'text': ' In it , he enunciated the three laws of motion and the universal law of gravitation , which explained all the three Kepler ’s laws of planetary motion .', 'fibs': ['three', 'three', 'Kepler']}
+{'text': ' In 1704 , Newton brought out another masterpiece Opticks that summarized his work on light and colour . \n', 'fibs': ['1704', 'Newton', 'Opticks']}
+{'text': ' The state of rest or uniform linear motion both imply zero acceleration . \n', 'fibs': ['zero']}
+{'text': ' Consider the equilibrium of the weight W. Clearly , T2 =', 'fibs': ['W. Clearly']}
+{'text': ' 6 × 10 = 60 N. \n Note', 'fibs': ['6', '10', '60']}
+{'text': ' Do your answers change if the pebble was thrown at an angle of 45 ° with the horizontal direction ? \n', 'fibs': ['45']}
+{'text': ' Isaac Newton was born in Woolsthorpe , England in 1642 , the year Galileo died .', 'fibs': ['Isaac Newton', 'Woolsthorpe', 'England', '1642', 'the year', 'Galileo']}
+{'text': ' In 1662 , he went to Cambridge for undergraduate studies .', 'fibs': ['1662', 'Cambridge']}
+{'text': ' A plague epidemic in 1665 forced the university town to close and Newton had to return to his mother ’s farm .', 'fibs': ['1665', 'Newton']}
+{'text': ' There in two years of solitude , his dormant creativity blossomed in a deluge of fundamental discoveries in mathematics and physics : binomial theorem for negative and fractional exponents , the beginning of calculus , the inverse square law of gravitation , the spectrum of white light , and so on .', 'fibs': ['two years']}
+{'text': ' Returning to Cambridge , he pursued his investigations in optics and devised a reflecting telescope . \n', 'fibs': ['Cambridge']}
+{'text': ' According to the first law , this means that , the particle is either at rest or in uniform motion . \n', 'fibs': ['first']}
+{'text': ' Impulse is the change in momentum vector . \n', 'fibs': ['Impulse']}
+{'text': ' ( Fig . \n Consider a book at rest on a horizontal surface', 'fibs': ['Fig']}
+{'text': ' Newton built on Galileo ’s ideas and laid the foundation of mechanics in terms of three laws of   motion that go by his name . \n', 'fibs': ['Newton', 'Galileo', 'three']}
+{'text': ' The centripetal force is provided by the horizontal components of N and f. \n Substituting value of N in Eq . \n', 'fibs': ['N', 'N in Eq']}
+{'text': ' The law follows from the second and third law of motion . \n', 'fibs': ['second', 'third']}
+{'text': ' Galileo studied motion of objects on an inclined plane .', 'fibs': ['Galileo']}
+{'text': ' the Second Law is a local law ; a at an instant does not depend on the history of motion . \n', 'fibs': ['Second']}
+{'text': ' ( c ) the reaction of the 6th coin on the 7th coin . \n', 'fibs': ['6th', '7th']}
+{'text': ' ( ii ) \t Choose a convenient part of the assembly as one system . \n', 'fibs': ['one']}
+{'text': ' Taking the limit ∆t → 0 ,   the term   becomes the derivative or differential co - efficient of p with respect to t , denoted by . \n', 'fibs': ['0']}
+{'text': ' ( c ) \t upwards with a uniform acceleration of 5 m s-2 . \n', 'fibs': ['5']}
+{'text': ' In SI unit force is one that causes an acceleration of 1 m s-2 to a mass of 1 kg .', 'fibs': ['1', '1 kg']}
+{'text': ' ( 5.4 ) to define the unit of force .', 'fibs': ['5.4']}
+{'text': ' For simplicity , we choose k = 1 . \n', 'fibs': ['1']}
+{'text': ' i.e.the two forces on the particle   must be equal and opposite .', 'fibs': ['two']}
+{'text': ' Equilibrium under three concurrent forces F1 , F2   and F3 requires that the vector sum of the three forces is zero . \n', 'fibs': ['three', 'F2  ', 'three', 'zero']}
+{'text': ' The Greek thinker ,   Aristotle ( 384 B.C– 322 B.C. \n', 'fibs': ['Greek', '384']}
+{'text': ' F1x , F1y and F1z are the components of F1   along x , y and z directions respectively . \n', 'fibs': ['F1  ']}
+{'text': ' Now , R = 3 m ,   g = 9.8 m s-2 , µs = 0.1.That is ,     µs R g = 2.94 m2 s-2.v', 'fibs': ['3', '9.8', '2.94']}
+{'text': ' = 18   km / h = 5 m s-1 ; i.e. , \xa0 v2 = 25  ', 'fibs': ['18  km', '5', '25']}
+{'text': ' The SI unit of force is newton :', 'fibs': ['SI']}
+{'text': ' Apply the second law to motion of the trolley ( Fig . \n ( where we have taken a common interval of time for both forces i.e. \n What would be the readings on the scale in each case ? \n which shows that force is proportional to the product of mass m and acceleration a. \n in the direction from the batsman to the bowler . \n', 'fibs': ['second', 'Fig']}
