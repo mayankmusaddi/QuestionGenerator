@@ -45,5 +45,19 @@ def preprocess(DirectoyPath):
         f.write(data)
         f.close()
 
-directorypath = "./output/"
-preprocess(directorypath)
+if __name__ == "__main__":
+    command = ''
+    import sys
+    from os import path
+    if len(sys.argv) < 2:
+        print("Please Enter a Directory Path")
+        print("Usage: python3 pprocessing.py ''dirname''")
+        sys.exit(1)
+    else:
+        command = sys.argv
+        directorypath = sys.argv[1]
+        # file_path = 'files/' + filename
+        if (path.exists(directorypath) == False):
+            print("Directory Does Not Exist")
+        else:
+            preprocess(directorypath)

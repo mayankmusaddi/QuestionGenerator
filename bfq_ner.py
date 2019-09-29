@@ -9,7 +9,8 @@ import spacy
 from spacy import displacy
 from collections import Counter
 import en_core_web_sm
-import json
+import json                 
+from gensim.models import KeyedVectors
 
 
 debug_flag = 0
@@ -23,6 +24,7 @@ def create_blank(word, sentence):
     buff = re.compile(re.escape(word), re.IGNORECASE)
     return buff.sub('_______________', sentence)
 
+# =================== main
 def main():
     data_arr = []
     nlp = en_core_web_sm.load()
@@ -63,8 +65,15 @@ def main():
 
     for i in final_array:
         print (i)
-                    
 
+# ================ Most similar word for MCQ
+# In[12]:
+def most_similar_word(word):
+    word_vec = KeyedVectors.load_word2vec_format('datasets/glove.6B.300d.word2vec.txt')
+    ret = word_vec.most_similar(word)
+    return word_vec
+
+# =================
 if __name__ == "__main__":
     command = ''
     if len(sys.argv) < 2:
