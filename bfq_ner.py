@@ -33,7 +33,7 @@ def main():
 
     final_array = []
     for sentence in processed_text.sents:
-        if len(sentence) > 7:
+        if len(sentence) > 5:
 
             if debug_flag == 1:
                 print(len(sentence))
