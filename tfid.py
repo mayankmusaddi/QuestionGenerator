@@ -76,44 +76,6 @@ def create_wordcloud(text):
     plt.show()
     fig.savefig("word1.png", dpi=900)
 
-from sklearn.feature_extraction.text import CountVectorizer
-
-cv=CountVectorizer(max_df=0.8,stop_words=stop_words, max_features=10000, ngram_range=(1,3))
-X=cv.fit_transform(corpus)
-
-print(list(cv.vocabulary_.keys())[:10])
-
-# #Most frequently occuring words
-# def get_top_n_words(corpus, n=None):
-#     vec = CountVectorizer().fit(corpus)
-#     bag_of_words = vec.transform(corpus)
-#     sum_words = bag_of_words.sum(axis=0) 
-#     words_freq = [(word, sum_words[0, idx]) for word, idx in      
-#                    vec.vocabulary_.items()]
-#     words_freq =sorted(words_freq, key = lambda x: x[1], 
-#                        reverse=True)
-#     return words_freq[:n]#Convert most freq words to dataframe for plotting bar plot
-# top_words = get_top_n_words(corpus, n=20)
-# top_df = pandas.DataFrame(top_words)
-# top_df.columns=["Word", "Freq"]#Barplot of most freq words
-
-# import seaborn as sns
-# sns.set(rc={'figure.figsize':(13,8)})
-# g = sns.barplot(x="Word", y="Freq", data=top_df)
-# g.set_xticklabels(g.get_xticklabels(), rotation=30)
-
-from sklearn.feature_extraction.text import TfidfTransformer
- 
-tfidf_transformer=TfidfTransformer(smooth_idf=True,use_idf=True)
-tfidf_transformer.fit(X)# get feature names
-feature_names=cv.get_feature_names()
- 
-# fetch document for which keywords needs to be extracted
-doc=corpus[9]
- 
-#generate tf-idf for the given document
-tf_idf_vector=tfidf_transformer.transform(cv.transform([doc]))
-
 #Function for sorting tf_idf in descending order
 from scipy.sparse import coo_matrix
 def sort_coo(coo_matrix):
@@ -143,25 +105,30 @@ def extract_topn_from_vector(feature_names, sorted_items, topn=10):
         results[feature_vals[idx]]=score_vals[idx]
     
     return results
-#sort the tf-idf vectors by descending order of scores
-sorted_items=sort_coo(tf_idf_vector.tocoo())
-#extract only the top n; n here is 10
-keywords=extract_topn_from_vector(feature_names,sorted_items,100)
- 
-# now print the results
-# print("\nAbstract:")
-# print(doc)
-# print("\nKeywords:")
-# for k in keywords:
-    # print(k,keywords[k])
+
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfTransformer
+
+cv=CountVectorizer(max_df=0.8,stop_words=stop_words, max_features=10000, ngram_range=(1,3))
+X=cv.fit_transform(corpus) 
+tfidf_transformer=TfidfTransformer(smooth_idf=True,use_idf=True)
+tfidf_transformer.fit(X)# get feature names
+feature_names=cv.get_feature_names()
+
+def create_keywords(doc):
+    #generate tf-idf for the given document
+    tf_idf_vector=tfidf_transformer.transform(cv.transform([doc]))
+    #sort the tf-idf vectors by descending order of scores
+    sorted_items=sort_coo(tf_idf_vector.tocoo())
+    #extract only the top n; n here is 10
+    keywords=extract_topn_from_vector(feature_names,sorted_items,1000)
+    return keywords
 
 # nltk.download('punkt')
 from textblob import TextBlob
 
-def score_sentence(text):
+def score_sentence(text,keywords):
     #Remove punctuations
-    # print(type(text))
-    # print(text)
     text = re.sub('[^a-zA-Z]', ' ',text)
     #Convert to lowercase
     text = text.lower()
@@ -183,17 +150,23 @@ def score_sentence(text):
                 score += keywords[wd]
     return score
 
-def process(text):
+def final_out(fileno,num):
+    text = dataset[fileno]
+    keywords = create_keywords(corpus[fileno])
     blob_text = TextBlob(text)
     imp = []
     for text in blob_text.sentences:
-        score = score_sentence(str(text))
+        score = score_sentence(str(text),keywords)
         imp.append([score,str(text)])
     imp.sort(reverse = True)
-    for i in range(100):
-        # print(">>> ",i)
-        print(imp[i][1])
-    # print(sposs)
-    # return sposs
 
-process(dataset[9])
+    final = ""
+    for i in range(num):
+        print(imp[i][1])
+        final +=imp[i][1]+"\n"
+    return final
+
+# fetch document for which keywords needs to be extracted
+# doc=corpus[9]
+out = final_out(9,100)
+print(out)

@@ -23,12 +23,9 @@ def processText(file_path):
                 blob_text = TextBlob(para)
                 newpara = ''
                 for text in blob_text.sentences:
-                    # print(">> ",str(text))
                     if str(text).endswith('.') or str(text).endswith('!') or str(text).endswith('?') or str(text).endswith(';'):
                         newpara+=str(text)
-                        # print(":: ")
                 if newpara != '':
-                    # print(">>> ",newpara)
                     final+=newpara+"\n"
     return final
 
