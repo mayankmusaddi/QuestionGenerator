@@ -8,6 +8,13 @@ from nltk.tokenize import RegexpTokenizer
 # nltk.download('wordnet') 
 from nltk.stem.wordnet import WordNetLemmatizer
 
+from scipy.sparse import coo_matrix
+
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfTransformer
+# nltk.download('punkt')
+from textblob import TextBlob
+
 def read_data(file_path):
     file = open(file_path, 'r')
     text = file.read()
@@ -20,11 +27,6 @@ def load_data(folder_path):
         text = read_data(path)
         dataset.append(text)
     return dataset
-    # print(text)
-dataset = load_data("physics_data/")
-
-# ##Creating a list of stop words and adding custom stopwords
-stop_words = set(stopwords.words("english"))
 
 def create_corpus(dataset):
     corpus = []
@@ -54,8 +56,6 @@ def create_corpus(dataset):
         corpus.append(text)
     return corpus
 
-corpus = create_corpus(dataset)
-
 def create_wordcloud(text):
     from os import path
     from PIL import Image
@@ -76,8 +76,9 @@ def create_wordcloud(text):
     plt.show()
     fig.savefig("word1.png", dpi=900)
 
+
 #Function for sorting tf_idf in descending order
-from scipy.sparse import coo_matrix
+
 def sort_coo(coo_matrix):
     tuples = zip(coo_matrix.col, coo_matrix.data)
     return sorted(tuples, key=lambda x: (x[1], x[0]), reverse=True)
@@ -106,15 +107,6 @@ def extract_topn_from_vector(feature_names, sorted_items, topn=10):
     
     return results
 
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.feature_extraction.text import TfidfTransformer
-
-cv=CountVectorizer(max_df=0.8,stop_words=stop_words, max_features=10000, ngram_range=(1,3))
-X=cv.fit_transform(corpus) 
-tfidf_transformer=TfidfTransformer(smooth_idf=True,use_idf=True)
-tfidf_transformer.fit(X)# get feature names
-feature_names=cv.get_feature_names()
-
 def create_keywords(doc):
     #generate tf-idf for the given document
     tf_idf_vector=tfidf_transformer.transform(cv.transform([doc]))
@@ -123,9 +115,6 @@ def create_keywords(doc):
     #extract only the top n; n here is 10
     keywords=extract_topn_from_vector(feature_names,sorted_items,1000)
     return keywords
-
-# nltk.download('punkt')
-from textblob import TextBlob
 
 def score_sentence(text,keywords):
     #Remove punctuations
@@ -166,7 +155,20 @@ def final_out(fileno,num):
         final +=imp[i][1]+"\n"
     return final
 
-# fetch document for which keywords needs to be extracted
-# doc=corpus[9]
-out = final_out(9,100)
-print(out)
+if __name__ == "__main__":
+    dataset = load_data("physics_data/")
+    
+    # ##Creating a list of stop words and adding custom stopwords
+    stop_words = set(stopwords.words("english"))
+    corpus = create_corpus(dataset)
+    
+    cv=CountVectorizer(max_df=0.8,stop_words=stop_words, max_features=10000, ngram_range=(1,3))
+    X=cv.fit_transform(corpus) 
+    tfidf_transformer=TfidfTransformer(smooth_idf=True,use_idf=True)
+    tfidf_transformer.fit(X)# get feature names
+    feature_names=cv.get_feature_names()
+    
+    # fetch document for which keywords needs to be extracted
+    # doc=corpus[9]
+    out = final_out(8,100)
+    print(out)
