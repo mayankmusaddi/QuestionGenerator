@@ -59,6 +59,8 @@ def main():
                 dict = {"text": sentence_str, "fibs": words}
                 final_array.append(dict)
 
+    return final_array
+
     for i in final_array:
         print (i)
                     
@@ -71,9 +73,19 @@ if __name__ == "__main__":
         sys.exit(1)
     else:
         command = sys.argv
-        filename = sys.argv[1]
-        file_path = 'files/' + filename
-        if (path.exists(file_path) == False):
-            print("File Does Not Exist")
-        else:
-            main()
+        #directoryName
+        directoryPath = sys.argv[1]
+        filepaths = []
+        for file in os.listdir(DirectoyPath):
+            if file.endswith("_tfidf.txt"):
+                files.append(os.path.join(DirectoyPath, file))
+        for filepath in filepaths:
+            data = main(filepath)
+            filename = filepath.replace("_tfidf.txt", "_output.txt")
+            if(path.exists(filename) == False):
+                f = open(filename, "w")
+                f.close()
+            f = open((filename, "a"))
+            for line in final_array:
+                f.write(line)
+            f.close() 
