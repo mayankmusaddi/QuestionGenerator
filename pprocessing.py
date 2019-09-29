@@ -1,3 +1,4 @@
+import os
 from textblob import TextBlob
 def read_data(file_path):
     file = open(file_path, 'r')
@@ -32,4 +33,20 @@ def processText(file_path):
                     final+=newpara+"\n"
     return final
 
-print(processText('chemistry_data/5.txt'))
+
+def preprocess(DirectoyPath):
+    files = []
+    for file in os.listdir(DirectoyPath):
+        if file.endswith(".txt"):
+            files.append(os.path.join(DirectoyPath, file))
+    for file in files:
+        data = processText(file)
+        filename = file.replace(".txt", "_final")
+        extension = ".txt"
+        filename = filename + extension
+        f = open(filename, "w")
+        f.write(data)
+        f.close()
+
+directorypath = "./"
+preprocess(directorypath)
