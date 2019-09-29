@@ -1,0 +1,130 @@
+{'text': ' In the first case , the car moves from O to P.  ', 'fibs': ['first', 'P.  ']}
+{'text': ' In the second case , the car moves from O to P and then moves back from P to Q.During this course of motion , the path length traversed is OP + PQ = + 360 m +', 'fibs': ['second', '360']}
+{'text': ' Path length is a scalar quantity — a quantity that has a magnitude only and no direction ( see Chapter 4 ) . \n', 'fibs': ['Chapter 4']}
+{'text': ' Let us take ∆t = 2 s centred at               t', 'fibs': ['2']}
+{'text': ' ( Fig.3.6 ) gives the value of average velocity over the interval    3 s to 5 s.  ', 'fibs': ['3 s to 5']}
+{'text': ' Now , we decrease the value of ∆t from 2 s to 1 s.  ', 'fibs': ['2', '1']}
+{'text': ' Then line P1P2 becomes Q1Q2    and its slope gives the value of the average velocity over the interval 3.5 s to 4.5 s.', 'fibs': ['3.5', '4.5']}
+{'text': ' In the limit ∆t → 0 , the line P1P2 becomes tangent to the position - time curve at the point', 'fibs': ['0']}
+{'text': ' P and the velocity at t = 4 s is given by the slope of the tangent at that point .', 'fibs': ['4']}
+{'text': ' For the graph shown in Fig.3.6 , x = 0.08 t3.Table 3.1 gives the value of ∆x/∆t calculated for ∆t equal to 2.0 s , 1.0 s , 0.5 s , 0.1 s and 0.01 s centred at t =', 'fibs': ['0.08', '3.1', '∆x/∆t', '2.0', '1.0 s', '0.5', '0.1', '0.01']}
+{'text': ' The second and third columns give the value of t1=    and   and the fourth and the fifth columns give the corresponding values of x , i.e.x ( t1 )', 'fibs': ['second', 'third', 'fourth', 'fifth']}
+{'text': ' = 0.08 t13 \xa0 and x ( t2 )', 'fibs': ['0.08']}
+{'text': ' ( t1 ) and the last column gives the ratio of ∆x and ∆t , i.e.the average velocity corresponding to the value of ∆t listed in the first column . \n', 'fibs': ['∆t', 'first']}
+{'text': ' The magnitude of the displacement for a course of motion may be zero but the corresponding path length is not zero .', 'fibs': ['zero', 'zero']}
+{'text': ' However , the path length of this journey is OP + PO = 360 m +  ', 'fibs': ['360']}
+{'text': ' Let us first consider the simple case in which an object is stationary , e.g.a car standing still at x = 40 m.  ', 'fibs': ['first', '40']}
+{'text': ' For uniform motion , acceleration is zero and', 'fibs': ['zero']}
+{'text': ' Then , we calculate ∆x/∆t from the data for decreasing the value of ∆t and find the limiting value as we have done in Table 3.1 or use differential calculus for the given expression and calculate dx / dt \xa0 at different instants as done in the following example . \n', 'fibs': ['Table 3.1']}
+{'text': ' One graph is steeper than the other and they meet at a common point .', 'fibs': ['One']}
+{'text': ' For example , suppose vA   = 20 m s-1 and xA', 'fibs': ['20', 'xA']}
+{'text': ' = 10 m ; and vB = 10 m s-1 , xB ( 0 ) = 40 m ; then the time at which they meet is t', 'fibs': ['10', '10', 'xB', '40']}
+{'text': ' ( Fig.3.17).At this instant they are both at a position xA ( t ) =', 'fibs': ['xA']}
+{'text': ' In this case , vBA = 10 m s–1 – 20 m', 'fibs': ['10', '20']}
+{'text': ' 10 m s–1= \xa0 – vAB . \n', 'fibs': ['10']}
+{'text': ' In this case , the magnitude of displacement ( 360 m ) is equal to the path length ( 360 m).But consider the motion of the car from O to P and back to Q.In this case , the path length =', 'fibs': ['360', '360 m).But']}
+{'text': ' However , the displacement = ( +240 m ) – ( 0 m ) =   + 240 m.  ', 'fibs': ['240']}
+{'text': ' Thus , the magnitude of displacement ( 240 m ) is not equal to the path length ( 480 m ) . \n', 'fibs': ['240', '480']}
+{'text': ' The resulting a – t curve is shown in Fig.3.8.We', 'fibs': ['Fig.3.8.We']}
+{'text': ' It is zero between 10 s and 18 s and is constant with value -12 m s–2   between 18 s and 20 s. When the acceleration is uniform , obviously , it equals the average acceleration over that period . \n', 'fibs': ['zero', '10', '18', '18', '20']}
+{'text': ' = 10 s and thereafter moves with uniform speed till t', 'fibs': ['10']}
+{'text': ' The position - time graph for this case is shown in Fig.3.3.We shall refer to this graph in our discussion in the following sections . \n', 'fibs': ['Fig.3.3.We']}
+{'text': ' It is convenient to choose a rectangular coordinate system consisting of three mutually perpenducular axes , labelled   X- , Y- , and Z- axes .', 'fibs': ['three', 'Z-']}
+{'text': ' The point of intersection of these three axes is called origin ( O ) and serves as the reference point .', 'fibs': ['three']}
+{'text': ' For example , a velocity of + 24.0 m s–1 and a velocity of – 24.0 m', 'fibs': ['24.0', '24.0']}
+{'text': ' both have an associated speed of 24.0 m', 'fibs': ['24.0']}
+{'text': ' For example , if in the above example object A is moving with 20 m s–1 starting at   xA(0 )', 'fibs': ['20']}
+{'text': ' = 10 m and object B is moving with – 10 m s–1 starting at xB ( 0 )', 'fibs': ['10', '10', 'xB', '0']}
+{'text': ' = 40 m ,   the two objects meet at t', 'fibs': ['40', 'two']}
+{'text': ' = 1 s ( Fig.3.18).The velocity of B relative to A , vBA =', 'fibs': ['1']}
+{'text': ' vAB.In this case , the magnitude of vBA or vAB ( = 30 m s–1 ) is greater than the magnitude of velocity of A or that of B.If', 'fibs': ['30', 'B.If']}
+{'text': ' the objects under consideration are two trains , then for a person sitting on either of the two , the other train seems to go very fast . \n', 'fibs': ['two', 'two']}
+{'text': ' Using this equation , we can calculate the position of the object after different time intervals , 0 , τ , 2τ ,   3τ … which are given in second column of Table', 'fibs': ['0', 'second', 'Table']}
+{'text': ' ( –1/ 2 ) \xa0 gτ2 as y0 — the position coordinate after first time interval τ , then third column gives the positions in the unit of yo .', 'fibs': ['first', 'third']}
+{'text': ' The fourth column gives the distances traversed in successive τs .', 'fibs': ['fourth']}
+{'text': ' We find that the distances are in the simple ratio 1 : 3 : 5 : 7 : 9 : 11 … as   shown   in the last column .', 'fibs': ['1', '3', '5', '7', '9', '11']}
+{'text': ' This   law was established by Galileo Galilei ( 1564 - 1642 ) who was the first to make quantitative studies of free fall . \n', 'fibs': ['Galileo Galilei', '1564-1642', 'first']}
+{'text': ' On a plot of velocity versus time , the average acceleration is the slope of the straight line connecting the points corresponding to ( v2 , t2 ) and ( v1 , t1).The average acceleration for      velocity - time graph shown in Fig . \n', 'fibs': ['Fig']}
+{'text': ' [ Fig.3.31   ( ii ) ] , let us employ the following trick .', 'fibs': ['Fig.3.31  ']}
+{'text': ' Divide the interval on x - axis from a to b into a large number ( N ) of small intervals : x0(=a ) to x1 , x1 to x2 ; x2 to x3 , ................................ xN-1 to xN ( =', 'fibs': ['x1', 'x1', 'xN']}
+{'text': ' The area of the ith strip shown [ Fig . \n', 'fibs': ['Fig']}
+{'text': ' The displacement has a magnitude of 360 m and is directed in the positive x direction as indicated by the + sign .', 'fibs': ['360']}
+{'text': ' Similarly , the displacement of the car from P to Q is 240 m –', 'fibs': ['240']}
+{'text': ' Thus , it is not necessary to use vector notation for discussing motion of objects in one - dimension . \n', 'fibs': ['one']}
+{'text': ' Its velocity - time graph is as shown in Fig.3.11 . \n', 'fibs': ['Fig.3.11']}
+{'text': ' If the car in Example 3.1 moves from O to P and comes back to O in the same time interval , average speed is 20 m / s', 'fibs': ['20']}
+{'text': ' but the average velocity is zero ! \n ( 3.13 ) , xB ( t )', 'fibs': ['zero', '3.13', 'xB']}
+{'text': ' – xA ( t ) = xB ( 0 )', 'fibs': ['xA', 'xB']}
+{'text': ' ( 0).Therefore , the two objects stay at a constant distance ( xB ( 0 )', 'fibs': ['two', 'xB']}
+{'text': ' – xA ( 0 ) ) apart , and their position – time graphs are straight lines parallel to each other as shown in Fig.3.16.The relative velocity vAB or vBA is zero in this case . \n', 'fibs': ['xA', '0', 'zero']}
+{'text': ' We see from Table 3.1 that as we decrease the value of ∆t from 2.0 s to 0.010 s , the value of the average velocity approaches the limiting value 3.84 m s–1 which is the value of velocity at t = 4.0 s , i.e.the value of dx / dt \xa0 at t = 4.0', 'fibs': ['Table', '3.1', '2.0', '0.010', '3.84', '4.0', '4.0']}
+{'text': ' It is zero if the displacement is zero .', 'fibs': ['zero', 'zero']}
+{'text': ' Like velocity , acceleration can also be positive , negative or zero .', 'fibs': ['zero']}
+{'text': ' Position - time graphs for motion with positive , negative and zero acceleration are shown in Figs.3.9 ( a ) , ( b ) and ( c ) , respectively .', 'fibs': ['zero', 'Figs.3.9']}
+{'text': ' Note that the graph curves upward for positive acceleration ; downward for negative acceleration and it is a straight line for zero acceleration .', 'fibs': ['zero']}
+{'text': ' As an exercise , identify in Fig.3.3 , the regions of the curve that correspond to these three cases . \n', 'fibs': ['Fig.3.3', 'three']}
+{'text': ' T. Therefore , area = u × T =', 'fibs': ['T. Therefore']}
+{'text': ' How come in this case an area is equal to a distance?Think!Note the dimensions of quantities on the two coordinate axes , and you will arrive at the answer . \n', 'fibs': ['two']}
+{'text': ' An object is moving in positive direction with a negative acceleration , for example , motion of the car in Fig 3.3 between t = 18 s and 20 s. \n', 'fibs': ['Fig 3.3', '18', '20']}
+{'text': ' In one - dimensional motion , there are only two directions ( backward and forward , upward and downward ) in which an object can move , and these two directions can easily be specified by + and – signs . \n', 'fibs': ['one', 'only two', 'two']}
+{'text': ' Equation ( 3.13 ) is easily interpreted .', 'fibs': ['3.13']}
+{'text': ' moving uniformly with average velocities vA and vB in one dimension , say along x - axis . \n', 'fibs': ['one']}
+{'text': ' From Fig.3.7 , we note that during the period      t = 10 s to 18 s the velocity is constant .', 'fibs': ['10', '18']}
+{'text': ' Between period t = 18 s to t = 20 s , it is uniformly decreasing   and   during   the   period t = 0 s to      t', 'fibs': ['18', '20']}
+{'text': ' interval].Show in both ( a ) and ( b ) that the second quantity is either greater than or equal to the first .', 'fibs': ['second', 'first']}
+{'text': ' = vB – vA= – 40 m s–1', 'fibs': ['40']}
+{'text': ' , i.e.the train B appears to A to move with a speed of 40 m s–1 from north to south . \n', 'fibs': ['40']}
+{'text': ' ( c ) \t Choose the x = 0 m and t = 0 s to be the location and time of the ball at its highest point , vertically downward direction to be the positive direction of       x - axis , and give the signs of position , velocity and acceleration of the ball during its upward , and downward motion . \n', 'fibs': ['0']}
+{'text': ' Though you will learn in detail in mathematics about derivatives , we shall introduce this concept in brief in this Appendix so as to facilitate its use in describing physical quantities involved in motion . \n', 'fibs': ['Appendix']}
+{'text': ' The limit of the ratio ∆y/∆x as   ∆x approaches zero is called the derivative of y with respect to x and is written as dy / dx .', 'fibs': ['∆y/∆x', 'zero']}
+{'text': ' ( b ) \t average speed of the man over the interval of time ( i ) 0 to 30 min , ( ii ) 0 to          50 min , ( iii ) 0 to 40 min ? \n Consider the motion of the car in Fig.3.3.The portion of the x - t graph between t', 'fibs': ['0 to 30', '0', '0 to 40']}
+{'text': ' = 8 s is blown up and shown in Fig.3.4 . \n', 'fibs': ['8', 'Fig.3.4']}
+{'text': ' A against its motion ( with a velocity of 18 km h–1 with respect to the train A ) as observed by a man standing on the ground ? \n', 'fibs': ['18 km']}
+{'text': ' You may wonder whether we should put F(xi-1 ) or the mean of F(xi )   and   F(xi-1 ) in the above expression .', 'fibs': ['F(xi-1']}
+{'text': ' If we take N to be very very large ( N→∞ ) ,   it does not really matter , since then the strip will be so thin that the difference between   F(xi ) and F(xi-1 )   is vanishingly small . \n', 'fibs': ['F(xi-1']}
+{'text': ' This was a problem even in Galileo ’s time .', 'fibs': ['Galileo']}
+{'text': ' It was first thought that this change could be described by the rate of change of velocity with distance .', 'fibs': ['first']}
+{'text': ' But , through his studies of motion of freely falling objects and motion of objects on an inclined plane , Galileo concluded that the rate of change of velocity with time is a constant of motion for all objects in free fall .', 'fibs': ['Galileo']}
+{'text': ' For example , for describing motion in one dimension , we need only one axis .', 'fibs': ['one', 'only one']}
+{'text': ' To describe motion in two / three dimensions , we need a set of two / three axes . \n', 'fibs': ['two', 'two/three']}
+{'text': ' Suppose now that the point Q moves along the curve towards P.  ', 'fibs': ['P.  ']}
+{'text': ' In this process , ∆y and ∆x decrease and approach zero ; though their ratio    will not necessarily vanish .', 'fibs': ['zero']}
+{'text': ' ( 3.3a ) is the differential coefficient of x with respect to t and is denoted by    ( see Appendix 3.1).It is the rate of change of position with respect to time , at that instant . \n', 'fibs': ['3.3a', 'Appendix']}
+{'text': ' ( x ) regarding y and x as Cartesian coordinates , as shown in Fig.3.30 ( a ) . \n', 'fibs': ['Cartesian', 'Fig.3.30']}
+{'text': ' For example , the area of a rectangle is length times breadth and that of a triangle is half of the product of base and height .', 'fibs': ['half']}
+{'text': ' What is the average speed of the particle over the intervals in ( a ) and ( b ) ? \n where x2   and x1 are the positions of the object at time t2and  ', 'fibs': ['x1']}
+{'text': ' The SI unit for velocity is m / s or m s–1 , although km h–1 is used in many everyday applications . \n', 'fibs': ['SI']}
+{'text': ' For   the car of a particular make , the braking distance was found to be 10 m , 20 m , 34 m and 50 m corresponding to velocities of 11 , 15 , 20 and 25 m / s which are nearly consistent with the above formula . \n', 'fibs': ['10', '20', '34', '50', '11', '15', '20', '25']}
+{'text': ' ( 3.14 ) are valid even if vA and vB represent instantaneous velocities . \n', 'fibs': ['3.14']}
+{'text': ' This problem is discussed in detail in Chapter 6 . \n', 'fibs': ['Chapter 6']}
+{'text': ' The SI unit of acceleration is m s–2 . \n', 'fibs': ['SI']}
+{'text': ' and we wish to determine the value of the definite integral from x = 1 to x = 2.The function g ( x ) whose derivative is x2', 'fibs': ['1']}
+{'text': ' Relative velocity of ground with respect to B = 0', 'fibs': ['0']}
+{'text': ' Automobiles and planes carry people from one place to the other .', 'fibs': ['one']}
+{'text': ' The earth rotates once every twenty - four hours and revolves round the sun once in a year .', 'fibs': ['twenty-four hours']}
+{'text': ' The sun itself is in motion in the Milky Way , which is again moving within its local group of galaxies . \n', 'fibs': ['the Milky Way']}
+{'text': ' Geometrically , this is the slope of the straight line P1P2 connecting the initial position', 'fibs': ['Geometrically']}
+{'text': ' P1 \xa0 to the final position P2   as shown in Fig.3.4 . \n', 'fibs': ['Fig.3.4']}
+{'text': ' In the first method , we split the path in two parts :', 'fibs': ['first', 'two']}
+{'text': ' In Kinematics , we study ways to describe motion without going into the causes of motion .', 'fibs': ['Kinematics']}
+{'text': ' What causes motion described in this chapter and the next chapter forms the subject matter of Chapter 5 . \n', 'fibs': ['Chapter 5']}
+{'text': ' The variation of acceleration , velocity , and distance , with time have been plotted in Fig.3.14(a ) , ( b ) and ( c ) . \n', 'fibs': ['Fig.3.14(a']}
+{'text': ' ( 3.11a ) were obtained by assuming that at t = 0 , the position of the particle , x is 0.We can obtain a more general equation if we take   the   position coordinate at t = 0 as non - zero , say x0.Then Eqs . \n', 'fibs': ['x0.Then Eqs']}
+{'text': ' m s–1 = 10 m s–1 . \n', 'fibs': ['10']}
+{'text': ' In a particular case , d was found to be 21.0 cm .', 'fibs': ['21.0 cm']}
+{'text': ' Doubling the initial velocity increases the stopping distance by a factor of 4 ( for the same deceleration ) . \n', 'fibs': ['4']}
+{'text': ' The limit of this sum as N→∞   is known as the integral of F(x ) over x from a to b. \n Stopping distance is an important factor considered in setting speed limits , for example , in school zones . \n', 'fibs': ['N→∞  ']}
+{'text': ' We can solve this part of the problem in two ways .', 'fibs': ['two']}
+{'text': ' Therefore , the total time taken by the ball before it hits the ground = t1 + t2   =   2 s + 3 s', 'fibs': ['2', '3']}
+{'text': ' vo = 20 m \xa0 s-1 , \t a   = –10 m s–2 ,   t   =   ? \n', 'fibs': ['20']}
+{'text': ' We assume that the motion is in y - direction , more correctly in –y - direction because we choose upward direction as positive . \n connecting five quantities v0 ,   v , a , t and x .', 'fibs': ['five']}
+{'text': ' Note that the second method is better since we do not have to worry about the path of the motion as the motion is under constant acceleration . \n', 'fibs': ['second']}
+{'text': ' This relation is graphically represented in Fig.3.12 . \n', 'fibs': ['Fig.3.12']}
+{'text': ' The object is released from rest at y = 0 . \n', 'fibs': ['0']}
+{'text': ' 9.8 m s–2 and neglect air resistance ) . \n', 'fibs': ['9.8']}
+{'text': ' if the position of the object at time t = 0 is 0.If the particle starts at x = x0 , x in above equations is replaced by ( x – x0 ) . \n', 'fibs': ['0', '0.If']}
+{'text': ' [ For simplicity , consider one - dimensional motion only]. \n ( e ) \t ( A / B ) overtakes ( B / A ) on the road ( once / twice ) . \n', 'fibs': ['one', 'B/A']}
+{'text': ' ( a ) \t a railway carriage moving without jerks between two stations . \n', 'fibs': ['two']}
+{'text': ' Which of the answers alter if motion is viewed by one of the parents ? \n', 'fibs': ['one']}
+{'text': ' At    t = 0 s ,       v = 0 m s–1    and at    t = 2.0 s ,               v = 10 m s-1 . \n', 'fibs': ['2.0', '10']}
+{'text': ' ( 3.6 ) into Eq.(3.8 ) . \n', 'fibs': ['3.6', 'Eq.(3.8']}

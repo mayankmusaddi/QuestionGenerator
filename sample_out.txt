@@ -1,0 +1,10 @@
+{'text': ' In 1984 Rakesh Sharma became the first Indian to go into outer space aboard in a USSR spaceship . \n', 'fibs': ['1984', 'Rakesh Sharma', 'first', 'Indian', 'USSR']}
+{'text': ' ISRO started employing its indigenous launching vehicle in 1979 by sending Rohini series of satellites into space from its main launch site at Satish Dhawan Space Center , Sriharikota , Andhra Pradesh .', 'fibs': ['ISRO', '1979', 'Satish Dhawan Space Center', 'Sriharikota', 'Andhra Pradesh']}
+{'text': ' Earth satellites are objects which revolve around the earth .', 'fibs': ['Earth']}
+{'text': ' and for T = 24 hours , h works out to be 35800 km.which is   much larger than RE.Satellites in a circular orbits around the earth in the equatorial plane with T = 24 hours are called Geostationery Satellites .', 'fibs': ['24 hours', '35800', '24 hours', 'Geostationery Satellites']}
+{'text': ' The law of areas can be understood as a consequence of   conservation of angular momentum whch is valid for any central force .A central force is such that   the force on the planet is along the vector joining the Sun and the planet .', 'fibs': ['Sun']}
+{'text': ' It was around the same time as Galileo , a nobleman called Tycho Brahe ( 1546 - 1601 ) hailing from Denmark , spent his entire lifetime recording observations of the planets with the naked eye .', 'fibs': ['Galileo', 'Tycho Brahe', '1546-1601', 'Denmark']}
+{'text': ' The radius vector drawn from the Sun to a planet sweeps out equal areas in equal time intervals .', 'fibs': ['Sun']}
+{'text': ' The measurement of G by Cavendish ’s experiment ( or otherwise ) , combined with knowledge of g and RE enables one to estimate ME from Eq . \n', 'fibs': ['Cavendish', 'RE', 'ME']}
+{'text': ' The moon is a satellite of the Earth .', 'fibs': ['Earth']}
+{'text': ' The force of attraction due to a hollow spherical shell of uniform density , on a point mass situated inside it is zero . \n', 'fibs': ['zero']}
