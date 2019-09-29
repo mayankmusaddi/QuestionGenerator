@@ -9,6 +9,7 @@ import spacy
 from spacy import displacy
 from collections import Counter
 import en_core_web_sm
+import json
 
 
 debug_flag = 0
@@ -23,6 +24,7 @@ def create_blank(word, sentence):
     return buff.sub('_______________', sentence)
 
 def main():
+    data_arr = []
     nlp = en_core_web_sm.load()
     text = read_data(file_path)
     processed_text = nlp(text)
@@ -31,40 +33,27 @@ def main():
         if len(sentence) > 7:
 
             if debug_flag == 1:
-                # print(len(sentence))
+                print(len(sentence))
                 print(sentence)
-
-            # print(len(sentence.ents) , sentence)
-            # print(sentence.ents)
-            # print(type(str(sentence.text)))
+            
             sentence_str = ''
             for token in sentence:
                 sentence_str = sentence_str + ' ' + str(token.text)
 
-            # print(sentence_str)
-            # print(type(sentence_str))
-
-            if len(sentence.ents) > 0:
-                word = random.choice(sentence.ents).text
-                # print(word)
-                # print(type(word))
-                # replaced = create_blank(word,sentence_str)
-
-                print(sentence_str)               
-                # print ("\n===============")
-                # print(replaced)
-                print ("\n===============")
-                # print(word)
-                print(sentence.ents)
-                print ("===============")
-                print("\n")
-                
-
-
-
-
-
-        
+                if len(sentence.ents) > 0:
+                    word = random.choice(sentence.ents).text
+                    
+                    words = []
+                    for i in sentence.ents:
+                        words.append(i.text)
+                    
+                    if debug_flag == 1:                
+                        print(sentence_str)               
+                        print ("\n===============")
+                        print(sentence.ents)
+                        print ("===============")
+                        print("\n")
+                    
 
 if __name__ == "__main__":
     command = ''
