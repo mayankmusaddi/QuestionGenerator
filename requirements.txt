@@ -27,7 +27,7 @@ srsly==0.1.0
 textblob==0.15.3
 thinc==7.0.8
 tqdm==4.36.1
-urllib3==1.25.6
+urllib3==1.26.5
 wasabi==0.2.2
 wordcloud==1.5.0
 en-core-web-sm==2.1.0
